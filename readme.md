@@ -40,7 +40,7 @@ The output is a table that includes:
 This information helps quantify the travel demands placed on each team over the course of the season.
 
 #### Output:
-The [final table](ADDLINK) provides a summary of travel statistics for each team:
+The [final table](/data/output/Team_Travel_Information_v1.csv) provides a summary of travel statistics for each team:
 
 This table provides a clear overview of each team's travel during the season, broken down into regular and neutral site trips, as well as their proximity to other teams. These insights can help inform discussions on the geographic spread of teams, their travel demands, and potential scheduling efficiencies.
 ___
