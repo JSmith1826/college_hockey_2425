@@ -1,65 +1,65 @@
-Team,Reg_Distance,Reg_Trips,Reg_AVG,N_Distance,Neutral_Site_Trips,N_AVG,Total_Distance,Overall_AVG,Closest_Team,Closest_Distance,Opponent,Distance,Game_Type
-Boston University,2115.56,13,162.74,2994.6,1,2994.6,5110.16,365.01,Harvard,1.08,Merrimack,2994.6,Neutral
-Harvard,2750.1,17,161.77,2994.25,1,2994.25,5744.35,319.13,Boston University,1.08,Notre Dame,3606.35,Neutral
-Northeastern,2635.15,16,164.7,111.69,1,111.69,2746.85,161.58,Boston University,1.76,Denver,1768.31,Regular
-Brown,1944.78,13,149.6,0.0,0,0.0,1944.78,149.6,Providence,2.04,St. Lawrence,268.98,Regular
-Providence,2444.1,15,162.94,1879.04,4,469.76,4323.14,227.53,Brown,2.04,North Dakota,1319.53,Regular
-Boston College,2399.3,13,184.56,0.0,0,0.0,2399.3,184.56,Boston University,2.86,St. Cloud State,1163.62,Regular
-Bentley,3654.87,12,304.57,0.0,0,0.0,3654.87,304.57,Boston College,4.32,Air Force,1771.36,Regular
-Yale,1438.54,11,130.78,33.72,1,33.72,1472.25,122.69,Quinnipiac,6.74,Clarkson,253.88,Regular
-Quinnipiac,2192.54,16,137.03,100.03,2,50.02,2292.58,127.37,Yale,6.74,Maine,322.28,Regular
-St. Thomas,2394.68,10,239.47,5.81,1,5.81,2400.49,218.23,Minnesota,9.02,Bowling Green,537.23,Regular
-Minnesota,4141.1,11,376.46,1309.41,2,654.7,5450.5,419.27,St. Thomas,9.02,Penn State,830.01,Regular
-St. Lawrence,2959.73,15,197.32,123.72,2,61.86,3083.44,181.38,Clarkson,9.4,Penn State,294.94,Regular
-Clarkson,3327.24,16,207.95,113.41,2,56.7,3440.65,191.15,St. Lawrence,9.4,Michigan Tech,673.8,Regular
-Merrimack,1967.74,14,140.55,2980.96,1,2980.96,4948.7,329.91,Mass.-Lowell,9.75,Boston University,2994.6,Neutral
-Mass.-Lowell,589.52,12,49.13,2845.09,3,948.36,3434.61,228.97,Merrimack,9.75,Michigan Tech,2494.31,Neutral
-Air Force,11259.68,9,1251.08,600.52,1,600.52,11860.2,1186.02,Colorado College,12.0,Bentley,1771.36,Regular
-Colorado College,7873.16,10,787.32,0.0,0,0.0,7873.16,787.32,Air Force,12.0,Alaska-Anchorage,2453.52,Regular
-Rensselaer,2514.83,15,167.66,0.0,0,0.0,2514.83,167.66,Union,14.27,Miami,617.89,Regular
-Union,1869.61,14,133.54,0.0,0,0.0,1869.61,133.54,Rensselaer,14.27,Niagara,259.88,Regular
-Niagara,3358.05,12,279.84,0.0,0,0.0,3358.05,279.84,Canisius,17.18,Clarkson,227.3,Regular
-Canisius,3401.64,11,309.24,0.0,0,0.0,3401.64,309.24,Niagara,17.18,Clarkson,227.06,Regular
-Sacred Heart,1661.46,10,166.15,48.39,1,48.39,1709.85,155.44,Yale,18.43,Mercyhurst,357.16,Regular
-American Int'l,2381.56,12,198.46,0.0,0,0.0,2381.56,198.46,Massachusetts,18.77,Ohio State,565.24,Regular
-Massachusetts,1188.72,16,74.29,4522.41,2,2261.21,5711.13,317.29,American Int'l,18.77,Cornell,2217.89,Neutral
-Stonehill,3680.85,10,368.08,0.0,0,0.0,3680.85,368.08,Brown,23.89,Minnesota-Duluth,1094.12,Regular
-Connecticut,4398.38,13,338.34,826.17,2,413.08,5224.55,348.3,American Int'l,26.79,Alaska,3252.61,Regular
-Holy Cross,4181.35,11,380.12,4939.28,2,2469.64,9120.64,701.59,Bentley,31.73,Omaha,2469.64,Neutral
-New Hampshire,1470.17,15,98.01,0.0,0,0.0,1470.17,98.01,Merrimack,34.01,Princeton,272.53,Regular
-Long Island,3784.03,9,420.45,0.0,0,0.0,3784.03,420.45,Sacred Heart,37.83,Augustana,1201.7,Regular
-Army,3319.59,12,276.63,235.88,1,235.88,3555.47,273.5,Sacred Heart,38.82,Air Force,1635.22,Regular
-Denver,10264.33,10,1026.43,0.0,0,0.0,10264.33,1026.43,Air Force,46.3,Alaska-Anchorage,2402.69,Regular
-Michigan State,2594.78,11,235.89,310.96,3,103.65,2905.74,207.55,Michigan,49.68,Minnesota,463.1,Regular
-Michigan,4068.9,11,369.9,237.86,2,118.93,4306.77,331.29,Michigan State,49.68,Arizona State,1646.64,Regular
-Western Michigan,5388.17,10,538.82,46.9,1,46.9,5435.07,494.1,Notre Dame,51.8,Arizona State,1553.69,Regular
-Notre Dame,3136.66,9,348.52,3681.97,2,1840.98,6818.63,619.88,Western Michigan,51.8,Harvard,3606.35,Neutral
-Cornell,2388.4,13,183.72,2191.0,2,1095.5,4579.4,305.29,Colgate,54.04,Massachusetts,2217.89,Neutral
-Colgate,2315.74,15,154.38,0.0,0,0.0,2315.74,154.38,Cornell,54.04,Harvard,227.51,Regular
-St. Cloud State,3310.95,9,367.88,0.0,0,0.0,3310.95,367.88,Minnesota,59.77,Colorado College,715.65,Regular
-RIT,3525.6,11,320.51,0.0,0,0.0,3525.6,320.51,Canisius,60.86,St. Lawrence,162.96,Regular
-Bowling Green,3476.38,10,347.64,0.0,0,0.0,3476.38,347.64,Michigan,61.65,Bemidji State,695.33,Regular
-Princeton,2293.0,12,191.08,0.0,0,0.0,2293.0,191.08,Long Island,62.8,Clarkson,298.77,Regular
-Minnesota State,2511.07,8,313.88,0.0,0,0.0,2511.07,313.88,St. Thomas,64.5,Michigan,534.09,Regular
-Michigan Tech,3508.6,12,292.38,2035.05,2,1017.52,5543.65,395.98,Northern Michigan,66.07,Mass.-Lowell,2494.31,Neutral
-Northern Michigan,3152.56,9,350.28,262.67,1,262.67,3415.23,341.52,Michigan Tech,66.07,Colorado College,1030.8,Regular
-Vermont,2523.47,10,252.35,0.0,0,0.0,2523.47,252.35,Dartmouth,69.63,St. Thomas,980.67,Regular
-Dartmouth,1759.76,12,146.65,0.0,0,0.0,1759.76,146.65,Vermont,69.63,Princeton,262.08,Regular
-Ferris State,2612.57,10,261.26,201.01,2,100.5,2813.58,234.46,Michigan State,82.95,Lake Superior,135.61,Neutral
-Mercyhurst,3685.69,11,335.06,0.0,0,0.0,3685.69,335.06,Canisius,83.45,Air Force,1319.12,Regular
-Miami,4759.93,8,594.99,0.0,0,0.0,4759.93,594.99,Ohio State,97.34,Denver,1077.23,Regular
-Ohio State,2813.54,9,312.62,277.07,1,277.07,3090.61,309.06,Miami,97.34,Minnesota,623.63,Regular
-Bemidji State,3303.69,11,300.34,0.0,0,0.0,3303.69,300.34,North Dakota,108.28,Bowling Green,695.33,Regular
-North Dakota,5420.34,9,602.26,0.0,1,0.0,5420.34,542.03,Bemidji State,108.28,Arizona State,1262.54,Regular
-Robert Morris,5226.33,12,435.53,1814.06,1,1814.06,7040.39,541.57,Mercyhurst,109.45,Arizona State,1812.54,Regular
-Penn State,6464.52,9,718.28,654.05,2,327.03,7118.57,647.14,Robert Morris,122.13,Alaska,3145.17,Regular
-Minnesota-Duluth,4870.66,8,608.83,0.0,0,0.0,4870.66,608.83,St. Cloud State,132.54,Arizona State,1390.42,Regular
-Augustana,7381.16,9,820.13,0.0,0,0.0,7381.16,820.13,Minnesota State,143.76,Alaska-Anchorage,2466.53,Regular
-Lake Superior,5658.95,9,628.77,135.61,1,135.61,5794.56,579.46,Northern Michigan,145.09,Ferris State,135.61,Neutral
-Omaha,6119.75,10,611.97,3544.59,3,1181.53,9664.34,743.41,Augustana,162.07,Holy Cross,2469.64,Neutral
-Maine,1885.73,8,235.72,0.0,0,0.0,1885.73,235.72,New Hampshire,165.91,Rensselaer,291.24,Regular
-Wisconsin,2810.51,7,401.5,192.81,2,96.4,3003.32,333.7,Notre Dame,187.77,Denver,840.74,Regular
-Alaska,28671.48,12,2389.29,2721.99,1,2721.99,31393.47,2414.88,Alaska-Anchorage,260.42,Long Island,3275.4,Regular
-Alaska-Anchorage,31712.55,12,2642.71,0.0,0,0.0,31712.55,2642.71,Alaska,260.42,Stonehill,3401.37,Regular
-Lindenwood,8729.94,11,793.63,0.0,0,0.0,8729.94,793.63,Notre Dame,302.73,Alaska-Anchorage,2928.4,Regular
-Arizona State,10751.48,9,1194.61,1.75,1,1.75,10753.24,1075.32,Colorado College,543.44,Providence,2271.36,Regular
+Team,Reg_Distance,Reg_Trips,Reg_AVG,N_Distance,Neutral_Site_Trips,N_AVG,Total_Distance,Overall_AVG,Closest_Team,Closest_Distance,Total_Closest_Matches,Opponent,Distance,Game_Type
+Boston University,2115.56,13,162.74,2994.6,1,2994.6,5110.16,365.01,Harvard,1.08,1,Merrimack,2994.6,Neutral
+Harvard,2750.1,17,161.77,2994.25,1,2994.25,5744.35,319.13,Boston University,1.08,1,Notre Dame,3606.35,Neutral
+Northeastern,2635.15,16,164.7,111.69,1,111.69,2746.85,161.58,Boston University,1.76,2,Denver,1768.31,Regular
+Brown,1944.78,13,149.6,0.0,0,0.0,1944.78,149.6,Providence,2.04,1,St. Lawrence,268.98,Regular
+Providence,2444.1,15,162.94,1879.04,4,469.76,4323.14,227.53,Brown,2.04,1,North Dakota,1319.53,Regular
+Boston College,2399.3,13,184.56,0.0,0,0.0,2399.3,184.56,Boston University,2.86,2,St. Cloud State,1163.62,Regular
+Bentley,3654.87,12,304.57,0.0,0,0.0,3654.87,304.57,Boston College,4.32,0,Air Force,1771.36,Regular
+Yale,1438.54,11,130.78,33.72,1,33.72,1472.25,122.69,Quinnipiac,6.74,2,Clarkson,253.88,Regular
+Quinnipiac,2192.54,16,137.03,100.03,2,50.02,2292.58,127.37,Yale,6.74,2,Maine,322.28,Regular
+St. Thomas,2394.68,10,239.47,5.81,1,5.81,2400.49,218.23,Minnesota,9.02,2,Bowling Green,537.23,Regular
+Minnesota,4141.1,11,376.46,1309.41,2,654.7,5450.5,419.27,St. Thomas,9.02,2,Penn State,830.01,Regular
+St. Lawrence,2959.73,15,197.32,123.72,2,61.86,3083.44,181.38,Clarkson,9.4,2,Penn State,294.94,Regular
+Clarkson,3327.24,16,207.95,113.41,2,56.7,3440.65,191.15,St. Lawrence,9.4,2,Michigan Tech,673.8,Regular
+Merrimack,1967.74,14,140.55,2980.96,1,2980.96,4948.7,329.91,Mass.-Lowell,9.75,2,Boston University,2994.6,Neutral
+Mass.-Lowell,589.52,12,49.13,2845.09,3,948.36,3434.61,228.97,Merrimack,9.75,2,Michigan Tech,2494.31,Neutral
+Air Force,11259.68,9,1251.08,600.52,1,600.52,11860.2,1186.02,Colorado College,12.0,2,Bentley,1771.36,Regular
+Colorado College,7873.16,10,787.32,0.0,0,0.0,7873.16,787.32,Air Force,12.0,2,Alaska-Anchorage,2453.52,Regular
+Rensselaer,2514.83,15,167.66,0.0,0,0.0,2514.83,167.66,Union,14.27,3,Miami,617.89,Regular
+Union,1869.61,14,133.54,0.0,0,0.0,1869.61,133.54,Rensselaer,14.27,3,Niagara,259.88,Regular
+Niagara,3358.05,12,279.84,0.0,0,0.0,3358.05,279.84,Canisius,17.18,3,Clarkson,227.3,Regular
+Canisius,3401.64,11,309.24,0.0,0,0.0,3401.64,309.24,Niagara,17.18,3,Clarkson,227.06,Regular
+Sacred Heart,1661.46,10,166.15,48.39,1,48.39,1709.85,155.44,Yale,18.43,1,Mercyhurst,357.16,Regular
+American Int'l,2381.56,12,198.46,0.0,0,0.0,2381.56,198.46,Massachusetts,18.77,1,Ohio State,565.24,Regular
+Massachusetts,1188.72,16,74.29,4522.41,2,2261.21,5711.13,317.29,American Int'l,18.77,1,Cornell,2217.89,Neutral
+Stonehill,3680.85,10,368.08,0.0,0,0.0,3680.85,368.08,Brown,23.89,1,Minnesota-Duluth,1094.12,Regular
+Connecticut,4398.38,13,338.34,826.17,2,413.08,5224.55,348.3,American Int'l,26.79,0,Alaska,3252.61,Regular
+Holy Cross,4181.35,11,380.12,4939.28,2,2469.64,9120.64,701.59,Bentley,31.73,3,Omaha,2469.64,Neutral
+New Hampshire,1470.17,15,98.01,0.0,0,0.0,1470.17,98.01,Merrimack,34.01,2,Princeton,272.53,Regular
+Long Island,3784.03,9,420.45,0.0,0,0.0,3784.03,420.45,Sacred Heart,37.83,0,Augustana,1201.7,Regular
+Army,3319.59,12,276.63,235.88,1,235.88,3555.47,273.5,Sacred Heart,38.82,3,Air Force,1635.22,Regular
+Denver,10264.33,10,1026.43,0.0,0,0.0,10264.33,1026.43,Air Force,46.3,0,Alaska-Anchorage,2402.69,Regular
+Michigan State,2594.78,11,235.89,310.96,3,103.65,2905.74,207.55,Michigan,49.68,4,Minnesota,463.1,Regular
+Michigan,4068.9,11,369.9,237.86,2,118.93,4306.77,331.29,Michigan State,49.68,4,Arizona State,1646.64,Regular
+Western Michigan,5388.17,10,538.82,46.9,1,46.9,5435.07,494.1,Notre Dame,51.8,0,Arizona State,1553.69,Regular
+Notre Dame,3136.66,9,348.52,3681.97,2,1840.98,6818.63,619.88,Western Michigan,51.8,0,Harvard,3606.35,Neutral
+Cornell,2388.4,13,183.72,2191.0,2,1095.5,4579.4,305.29,Colgate,54.04,2,Massachusetts,2217.89,Neutral
+Colgate,2315.74,15,154.38,0.0,0,0.0,2315.74,154.38,Cornell,54.04,2,Harvard,227.51,Regular
+St. Cloud State,3310.95,9,367.88,0.0,0,0.0,3310.95,367.88,Minnesota,59.77,0,Colorado College,715.65,Regular
+RIT,3525.6,11,320.51,0.0,0,0.0,3525.6,320.51,Canisius,60.86,3,St. Lawrence,162.96,Regular
+Bowling Green,3476.38,10,347.64,0.0,0,0.0,3476.38,347.64,Michigan,61.65,0,Bemidji State,695.33,Regular
+Princeton,2293.0,12,191.08,0.0,0,0.0,2293.0,191.08,Long Island,62.8,0,Clarkson,298.77,Regular
+Minnesota State,2511.07,8,313.88,0.0,0,0.0,2511.07,313.88,St. Thomas,64.5,4,Michigan,534.09,Regular
+Michigan Tech,3508.6,12,292.38,2035.05,2,1017.52,5543.65,395.98,Northern Michigan,66.07,4,Mass.-Lowell,2494.31,Neutral
+Northern Michigan,3152.56,9,350.28,262.67,1,262.67,3415.23,341.52,Michigan Tech,66.07,4,Colorado College,1030.8,Regular
+Vermont,2523.47,10,252.35,0.0,0,0.0,2523.47,252.35,Dartmouth,69.63,1,St. Thomas,980.67,Regular
+Dartmouth,1759.76,12,146.65,0.0,0,0.0,1759.76,146.65,Vermont,69.63,1,Princeton,262.08,Regular
+Ferris State,2612.57,10,261.26,201.01,2,100.5,2813.58,234.46,Michigan State,82.95,0,Lake Superior,135.61,Neutral
+Mercyhurst,3685.69,11,335.06,0.0,0,0.0,3685.69,335.06,Canisius,83.45,3,Air Force,1319.12,Regular
+Miami,4759.93,8,594.99,0.0,0,0.0,4759.93,594.99,Ohio State,97.34,0,Denver,1077.23,Regular
+Ohio State,2813.54,9,312.62,277.07,1,277.07,3090.61,309.06,Miami,97.34,0,Minnesota,623.63,Regular
+Bemidji State,3303.69,11,300.34,0.0,0,0.0,3303.69,300.34,North Dakota,108.28,2,Bowling Green,695.33,Regular
+North Dakota,5420.34,9,602.26,0.0,1,0.0,5420.34,542.03,Bemidji State,108.28,2,Arizona State,1262.54,Regular
+Robert Morris,5226.33,12,435.53,1814.06,1,1814.06,7040.39,541.57,Mercyhurst,109.45,5,Arizona State,1812.54,Regular
+Penn State,6464.52,9,718.28,654.05,2,327.03,7118.57,647.14,Robert Morris,122.13,0,Alaska,3145.17,Regular
+Minnesota-Duluth,4870.66,8,608.83,0.0,0,0.0,4870.66,608.83,St. Cloud State,132.54,4,Arizona State,1390.42,Regular
+Augustana,7381.16,9,820.13,0.0,0,0.0,7381.16,820.13,Minnesota State,143.76,2,Alaska-Anchorage,2466.53,Regular
+Lake Superior,5658.95,9,628.77,135.61,1,135.61,5794.56,579.46,Northern Michigan,145.09,4,Ferris State,135.61,Neutral
+Omaha,6119.75,10,611.97,3544.59,3,1181.53,9664.34,743.41,Augustana,162.07,2,Holy Cross,2469.64,Neutral
+Maine,1885.73,8,235.72,0.0,0,0.0,1885.73,235.72,New Hampshire,165.91,3,Rensselaer,291.24,Regular
+Wisconsin,2810.51,7,401.5,192.81,2,96.4,3003.32,333.7,Notre Dame,187.77,4,Denver,840.74,Regular
+Alaska,28671.48,12,2389.29,2721.99,1,2721.99,31393.47,2414.88,Alaska-Anchorage,260.42,6,Long Island,3275.4,Regular
+Alaska-Anchorage,31712.55,12,2642.71,0.0,0,0.0,31712.55,2642.71,Alaska,260.42,6,Stonehill,3401.37,Regular
+Lindenwood,8729.94,11,793.63,0.0,0,0.0,8729.94,793.63,Notre Dame,302.73,2,Alaska-Anchorage,2928.4,Regular
+Arizona State,10751.48,9,1194.61,1.75,1,1.75,10753.24,1075.32,Colorado College,543.44,4,Providence,2271.36,Regular
