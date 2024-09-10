@@ -24,6 +24,7 @@ This Jupyter notebook calculates the total travel distance for each NCAA college
 
 - The notebook begins by loading the game schedule and arena information. It also loads data for neutral site arenas, which are factored into the travel distance calculations.
 - Exhibition games are excluded from the dataset to focus only on regular season games.
+- Consecutive games at the same site that take place within 3 days (weekend series) are only counted as one trip
 
 **2. Distance Calculation:**
 
@@ -37,7 +38,8 @@ The output is a table that includes:
 - The total distance traveled, broken down into regional and neutral site games.
 - The average travel distance per game.
 - The closest team to each school (based on geographic proximity) and how many times they play that team during the season.
-This information helps quantify the travel demands placed on each team over the course of the season.
+- The longest trip in each team's schedule including the opponent name and the game type (regular or neutral site)
+This information helps quantify the travel demands placed on each team over the course of the season and highlights the additional burden travel places on some teams or conferences.
 
 #### Output:
 The [final table](/data/output/Team_Travel_Information_v1.csv) provides a summary of travel statistics for each team:
