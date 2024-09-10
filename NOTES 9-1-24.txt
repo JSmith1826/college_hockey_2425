@@ -1,6 +1,9 @@
 
+DONE/NEEDS QUALITY CHECK
 Which team will travel the most this year
 - collect home rink locations (probably have them in the older folder
+IN distance_traveled.ipynb
+***********************************************************************
 
 Conference by conference roster analysis of by class rank and what not
 - adapt the plot put together at the end of last season used for NCAA
