@@ -1,8 +1,45 @@
 # College Hockey Analysis 2024-25 Season
 ### Project Created 8/25/2024 by JBS
 
+## Data Source
 
 ## Workbooks
+
+### Roster Scraping and Cleaning
+This Jupyter Notebook performs automated data scraping and cleaning to compile a master roster dataset for all Division 1 college hockey teams for the current season, using CollegeHockeyNews.com as the primary data source.
+
+#### Key Features:
+**1. Data Scraping:**
+
+- The notebook initiates by scraping player roster information from each Division 1 college hockey team’s page on College Hockey News. This is done by iterating through the team-specific URLs, retrieving roster data, and parsing the HTML content.
+- The scraping process extracts essential details such as player names, positions, heights, weights, and hometown information.
+
+**2. Data Cleaning:**
+
+- After scraping, various transformations are applied to standardize the dataset:
+    - Columns are cleaned for consistency in naming and formatting.
+    - Player height is converted from feet and inches to inches for easier analysis.
+    -Duplicate or missing data are handled appropriately, ensuring the integrity of the dataset.
+    -Team names and associated IDs are correctly matched with the scraped data.
+
+**3. Data Transformation:**
+
+- The notebook creates additional useful columns such as a Season field and correctly assigns team names to each player’s record.
+- The hometown information is split into separate columns for City, State/Province, and Country, facilitating detailed geographic analysis.
+- The transformations also include correcting for different formats of hometowns and ensuring all countries are properly labeled.
+
+**4. Data Analysis (Optional Preview):**
+- The notebook provides a brief overview of the resulting dataset by displaying distribution summaries:
+    - Hometown distribution (Top cities and towns for players)
+    - State/Province distribution (Players by state or province)
+    - Country distribution (Players by nationality)
+
+**5. Final Output:**
+- The notebook outputs a cleaned and structured master roster table for all teams, ready for further analysis or integration into other projects.
+
+This tool is a robust foundation for deeper analysis into Division 1 college hockey player demographics, including geographic trends, physical attributes, and more. The clean dataset it produces can easily be integrated into various analysis workflows or visualizations, such as travel or team comparisons.
+
+---
 
 ### Team Travel Analysis
 
