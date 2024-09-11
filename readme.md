@@ -2,7 +2,7 @@
 ### Project Created 8/25/2024 by JBS
 
 ## Data Source
-All data for this project is from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/)
+All data for this project is come from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/)
 
 ## Workbooks
 
