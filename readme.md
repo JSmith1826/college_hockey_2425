@@ -91,7 +91,7 @@ The output is a table that includes:
 This information helps quantify the travel demands placed on each team over the course of the season and highlights the additional burden travel places on some teams or conferences.
 
 #### Output:
-| Team              |   Reg_Distance |   Reg_Trips |   Reg_AVG |   N_Distance |   Neutral_Site_Trips |   N_AVG |   Total_Distance |   Overall_AVG | Closest_Team      |   Closest_Distance |   Total_Closest_Matches | Opponent   |   Distance | Game_Type   |
+| Team              |   Reg_Distance |   Reg_Trips |   Reg_AVG |   N_Distance |   Neutral_Site_Trips |   N_AVG |   Total_Distance |   Overall_AVG | Closest_Team      |   Closest_Distance |   Total_Closest_Matches | Longest_Trip_Opponent   |   Distance_Longest_Trip | Game_Type_Longest_Trip   |
 |:------------------|---------------:|------------:|----------:|-------------:|---------------------:|--------:|-----------------:|--------------:|:------------------|-------------------:|------------------------:|:-----------|-----------:|:------------|
 | Boston University |        2115.56 |          13 |    162.74 |      2994.6  |                    1 | 2994.6  |          5110.16 |        365.01 | Harvard           |               1.08 |                       1 | Merrimack  |    2994.6  | Neutral     |
 | Harvard           |        2750.1  |          17 |    161.77 |      2994.25 |                    1 | 2994.25 |          5744.35 |        319.13 | Boston University |               1.08 |                       1 | Notre Dame |    3606.35 | Neutral     |
