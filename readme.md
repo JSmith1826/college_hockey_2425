@@ -2,6 +2,7 @@
 ### Project Created 8/25/2024 by JBS
 
 ## Data Source
+All data for this project is from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/)
 
 ## Workbooks
 
@@ -78,13 +79,14 @@ This Jupyter notebook calculates the total travel distance for each NCAA college
 **2. Distance Calculation:**
 
 - For each game, the geodesic distance between the home arenas of the competing teams is calculated using the geopy library. For neutral site games, the distance is calculated from each team’s home arena to the neutral venue.
+    - The result is reported in miles and represent the straight line distance
 - The total travel distance for each team is computed by summing the distances for all away and neutral site games. Additionally, the average travel distance per game is calculated.
 
 **3. Results:**
 
 The output is a table that includes:
 - The total number of trips (both regular and neutral site) each team takes during the season.
-- The total distance traveled, broken down into regional and neutral site games.
+- The total distance traveled, broken down into regular and neutral site games.
 - The average travel distance per game.
 - The closest team to each school (based on geographic proximity) and how many times they play that team during the season.
 - The longest trip in each team's schedule including the opponent name and the game type (regular or neutral site)
