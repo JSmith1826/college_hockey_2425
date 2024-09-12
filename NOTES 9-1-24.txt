@@ -4,11 +4,11 @@ Which team will travel the most this year
 - collect home rink locations (probably have them in the older folder
 IN distance_traveled.ipynb
 ***********************************************************************
-
+DONE- FINISHED WEDNESDAY 9-11-24
 Conference by conference roster analysis of by class rank and what not
 - adapt the plot put together at the end of last season used for NCAA
 - STUCK HERE ON TUESDAY NIGHT - WILL PROBABLY WANT TO REBUILD FROM SCRATCH BASED ON OLD CODE. PREVIOUS VERSION HAS BEEN DIFICULT TO ADAPT - TOO MANY PIECES
-
+***********************************************************************
 
 Analysis of returning letter winners as well as percentage of scoring returning
 

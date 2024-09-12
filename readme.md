@@ -60,7 +60,7 @@ This tool is a robust foundation for deeper analysis into Division 1 college hoc
 
 This notebook is designed to analyze and visualize the makeup of college hockey teams by class rank (Freshman, Sophomore, Junior, Senior, Graduate) and average age. Using team roster data, it performs data transformation to aggregate the proportions of each class rank per team, along with the team's average age.
 
-Key Features:
+**Key Features:**
 - **Data Transformation:** The notebook processes team roster data and calculates the proportion of players in each class rank, as well as the team's average age. The final transformed data can be adapted to analyze different conferences or groups of teams.
 
 - **Dynamic Plotting Function:** A core feature of this notebook is a customizable function that generates stacked bar charts representing the class rank distribution for each team in a given conference. The function is adaptable, allowing you to switch between different conferences with minimal adjustments to the input data.
@@ -72,7 +72,8 @@ To adapt this notebook for another conference or group of teams, simply adjust t
 
 This notebook can be extended to support a variety of visualization needs within the context of college hockey analytics, making it a versatile tool for exploring team composition and player experience.
 
-**Examples of output images:**
+#### **Example of output images:**
+![By Conference Plot](/images/readme_images/all_conferences_comparison.png)
 ![Big Ten Plot - 2024 Season](/images/readme_images/Big%20Ten_age_experience_plot.png)
 ![Hockey East Plot - 2024 Season](/images/readme_images/Hockey%20East_age_experience_plot.png)
 
