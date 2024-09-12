@@ -53,6 +53,30 @@ This Jupyter Notebook performs automated data scraping and cleaning to compile a
 This tool is a robust foundation for deeper analysis into Division 1 college hockey player demographics, including geographic trends, physical attributes, and more. The clean dataset it produces can easily be integrated into various analysis workflows or visualizations, such as travel or team comparisons.
 
 ---
+### Team Composition Analysis by Class Rank and Age
+
+**Files:**
+- **Code:** *[age_experience_plots.ipynb](/workbook/age_experience_plots.ipynb)*
+
+This notebook is designed to analyze and visualize the makeup of college hockey teams by class rank (Freshman, Sophomore, Junior, Senior, Graduate) and average age. Using team roster data, it performs data transformation to aggregate the proportions of each class rank per team, along with the team's average age.
+
+Key Features:
+- **Data Transformation:** The notebook processes team roster data and calculates the proportion of players in each class rank, as well as the team's average age. The final transformed data can be adapted to analyze different conferences or groups of teams.
+
+- **Dynamic Plotting Function:** A core feature of this notebook is a customizable function that generates stacked bar charts representing the class rank distribution for each team in a given conference. The function is adaptable, allowing you to switch between different conferences with minimal adjustments to the input data.
+
+- **Visual Insights:** The stacked bar charts provide clear visual insights into how teams are composed across different experience levels (class ranks) and can help identify trends such as team reliance on younger or older players.
+
+**Usage:**
+To adapt this notebook for another conference or group of teams, simply adjust the input dataset to reflect the teams and roster information of interest. The plotting function will automatically update to reflect the new data.
+
+This notebook can be extended to support a variety of visualization needs within the context of college hockey analytics, making it a versatile tool for exploring team composition and player experience.
+
+**Examples of output images:**
+![Big Ten Plot - 2024 Season](/images/readme_images/Big%20Ten_age_experience_plot.png)
+![Hockey East Plot - 2024 Season](/images/readme_images/Hockey%20East_age_experience_plot.png)
+
+---
 
 ### Team Travel Analysis
 
