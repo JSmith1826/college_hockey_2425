@@ -6,6 +6,7 @@ GLI_program/images/
 GLI_program/Pages/
 *.xlsx
 data/db/box_scores/
+data/deprec/
 
 # Compiled source files
 *.o
