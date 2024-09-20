@@ -1,8 +1,9 @@
 # College Hockey Analysis 2024-25 Season
 
 
-#### Data Source
-Data for this project is collected ptimarily from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/). [The Rink Live's](https://www.therinklive.com/) Transfer Portal Tracker is also used
+#### Data Sources:
+- [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/) 
+- [The Rink Live's](https://www.therinklive.com/)
 
 ---
 
@@ -10,7 +11,7 @@ Data for this project is collected ptimarily from [CollegeHockeyNews.com](http:/
 - [Roster Scraping and Cleaning](#roster-scraping-and-cleaning)
 - [Team Composition Analysis by Class Rank and Age](#team-composition-analysis-by-class-rank-and-age)
 - [Team Travel Analysis](#team-travel-analysis)
--  [Imperial Mapping Workbook](#imperial-mapping-workbook)
+- [Imperial Mapping Workbook](#imperial-mapping-workbook)
 
 ---
 
@@ -18,26 +19,25 @@ Data for this project is collected ptimarily from [CollegeHockeyNews.com](http:/
 This Jupyter Notebook performs automated data scraping and cleaning to compile a master roster dataset for all Division 1 college hockey teams for the current season, using CollegeHockeyNews.com as the primary data source.
 **Files:**
 - **Code:** *[roster_scrape_and_clean.ipynb](/workbook/roster_scrape_and_clean.ipynb)*
-- **Output:** *[roster_2024_current_v2.csv](/data/roster_2024_current_v2.csv)*
+- **Output:** *[roster_2024_current_v2.csv](/data/roster_2024_current_v3.csv)*
 
 **1. Data Scraping:**
 
-- The notebook initiates by scraping player roster information from each  team’s page on College Hockey News. This is done by extracting a list of teams from the CHN season schedule and iterating through the team-specific URLs, retrieving roster data, and parsing the HTML content.
+- The notebook scrapes player roster information from each team’s page on College Hockey News. This is done by extracting a list of teams from the CHN season schedule and iterating through the team-specific URLs, retrieving roster data, and parsing the HTML content.
 - The scraping process extracts all available details from the target page: player names, positions, heights, weights, draft, previous team and hometown information.
 
 **2. Data Cleaning:**
 
-- After scraping, various transformations are applied to standardize the dataset:
+- After scraping, various transformations are applied to standardize the dataset
     - Columns are cleaned for consistency in naming and formatting.
-    -Duplicate or missing data are handled appropriately, ensuring the integrity of the dataset.
-    -Team names and associated IDs are correctly matched with the scraped data.
+    - Duplicate or missing data are handled appropriately, ensuring the integrity of the dataset.
+    - Team names and associated IDs are correctly matched with the scraped data.
 
 **3. Data Transformation:**
 
 - The hometown information is split into separate columns for City, State/Province, and Country, facilitating detailed geographic analysis.
     - The transformations also include correcting for different formats of hometowns and ensuring all countries are properly labeled.
 - Player height is converted from feet and inches to inches for easier analysis.
-- The ratio of each class for each class is calculated for later visualization
 
 **4. Data Analysis (Preview):**
 - The notebook provides a brief overview of the resulting dataset by displaying distribution summaries:
@@ -89,7 +89,7 @@ This notebook can be extended to support a variety of visualization needs within
 
 ### Team Travel Analysis
 
-This Jupyter notebook calculates the total travel distance for each NCAA college hockey team during the regular season, based on the schedule of games and information about each team's home arena. The goal of this analysis is to assess the travel burden on each team throughout the season, broken down into regional and neutral site games.
+This Jupyter notebook calculates the total travel distance for each NCAA college hockey team during the regular season, based on the schedule of games and information about each team's home arena. The goal of this analysis is to assess the travel burden on each team throughout the season, broken down into regular (on campus) and neutral site games.
 
 #### Files:
 - Notebook: *[distance_traveled.ipynb](/workbook/distance_traveled.ipynb)*
@@ -97,10 +97,10 @@ This Jupyter notebook calculates the total travel distance for each NCAA college
 - On Campus Arena Information: *[arena_school_info.csv](/data/arena_school_info.csv)*
 - Neutral Site Arena Information: *[neutral_arenas_2024.csv](/data/neutral_arenas_2024.csv)*
 
-**This notebook processes two key datasets:**
+<!-- **This notebook processes these key datasets:**
 - The 2024 season game schedule, including game dates, teams, and locations.
 - Information about each team's home arena, including latitude and longitude coordinates.
-- A list of neutral site arenas used for specific games.
+- A list of neutral site arenas used for specific games. -->
 
 #### Steps in the Notebook:
 **1. Data Preparation:**
@@ -141,32 +141,29 @@ ___
 
 ***Notes: 9/19/24*** Improvements
 - changed distance calculation to use geopy method, increase run time about 3x
-- adding jittering to avoid logos with too much bunching, still testing
+- adding jittering to avoid logos with too much bunching, still testing - Not working well or even at all
 #### Files:
-**Notebook**: [mapping_workbook.ipynb](/workbook/mapping_workbook.ipynb)
-**Geography (Shapefile)**: [Census.gov Cartographic Boundary Files](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
-**School Information**: [arena_school_info.csv](/data/arena_school_info.csv)
+**Notebook:** [mapping_workbook.ipynb](/workbook/mapping_workbook.ipynb)
+**Geography (Shapefile):** [Census.gov Cartographic Boundary Files](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+**School Information:** [arena_school_info.csv](/data/arena_school_info.csv)
 
 
 
 ### Key Steps:
 **Data Loading:**
-
 - Imports shapefiles for U.S. states and counties using GeoPandas.
 - Loads a CSV file containing school details, such as locations, team colors, and logo paths.
 
 **Data Transformation:**
-
 - Transforms the school information into a Python dictionary, making it easy to access and reference coordinates, colors, and logos throughout the code.
 
 **Map Creation:**
-
 - Initializes a Folium map centered on the U.S.
 - Adds custom markers for each school, using logos that can be scaled based on a "zone factor" (relative influence of each team).
 - Colors counties based on the closest team's official colors by applying geoJSON layers.
 - Includes interactive tooltips that display the name of the closest team when hovering over a county.
-Output:
 
+**Output:**
 The final map is saved as an HTML file, making it accessible outside the notebook for easy sharing and viewing.
 
 **Libraries Used:**
