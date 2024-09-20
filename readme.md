@@ -2,7 +2,7 @@
 ### Project Created 8/25/2024 by JBS
 
 ## Data Source
-All data for this project is taken from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/)
+Data for this project is collected ptimarily from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/). [The Rink Live's](https://www.therinklive.com/) Transfer Portal Tracker is also used
 
 ## Workbooks
 
@@ -128,3 +128,48 @@ The [final table](/data/output/Team_Travel_Information_v1.csv) provides a summar
 
 This table provides a clear overview of each team's travel during the season, broken down into regular and neutral site trips, as well as their proximity to other teams. These insights can help inform discussions on the geographic spread of teams, their travel demands, and potential scheduling efficiencies.
 ___
+
+### Mapping Workbook
+
+#### Files:
+**Notebook**: [mapping_workbook.ipynb](/workbook/mapping_workbook.ipynb)
+**Geography (Shapefile)**: [Census.gov Cartographic Boundary Files](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+**School Information**: [arena_school_info.csv](/data/arena_school_info.csv)
+
+
+
+### Key Steps:
+**Data Loading:**
+
+- Imports shapefiles for U.S. states and counties using GeoPandas.
+- Loads a CSV file containing school details, such as locations, team colors, and logo paths.
+
+**Data Transformation:**
+
+- Transforms the school information into a Python dictionary, making it easy to access and reference coordinates, colors, and logos throughout the code.
+
+**Map Creation:**
+
+- Initializes a Folium map centered on the U.S.
+- Adds custom markers for each school, using logos that can be scaled based on a "zone factor" (relative influence of each team).
+- Colors counties based on the closest team's official colors by applying geoJSON layers.
+- Includes interactive tooltips that display the name of the closest team when hovering over a county.
+Output:
+
+The final map is saved as an HTML file, making it accessible outside the notebook for easy sharing and viewing.
+
+**Libraries Used:**
+- Folium: For creating interactive maps with layers, tooltips, and custom icons.
+- GeoPandas: For reading and managing geographic shapefiles, including state and county boundaries.
+- Pandas: For handling the school information data.
+- PIL (Python Imaging Library): To manage image data, such as team logos.
+
+**Adaptability:**
+The code is highly customizable: users can adjust the map's base style, modify icon sizes, or easily swap data inputs like team locations or regions. This flexibility allows it to be reused for various geographic or sports visualizations.
+
+***Output screenshot:***
+![US Map](/images/export/closest_team_cont_us.png)
+![Northeast](/images/export/closest_team_northeast.png)
+
+
+---
