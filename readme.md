@@ -1,10 +1,18 @@
 # College Hockey Analysis 2024-25 Season
-### Project Created 8/25/2024 by JBS
 
-## Data Source
+
+#### Data Source
 Data for this project is collected ptimarily from [CollegeHockeyNews.com](http://https://www.collegehockeynews.com/). [The Rink Live's](https://www.therinklive.com/) Transfer Portal Tracker is also used
 
+---
+
 ## Workbooks
+- [Roster Scraping and Cleaning](#roster-scraping-and-cleaning)
+- [Team Composition Analysis by Class Rank and Age](#team-composition-analysis-by-class-rank-and-age)
+- [Team Travel Analysis](#team-travel-analysis)
+-  [Imperial Mapping Workbook](#imperial-mapping-workbook)
+
+---
 
 ### Roster Scraping and Cleaning
 This Jupyter Notebook performs automated data scraping and cleaning to compile a master roster dataset for all Division 1 college hockey teams for the current season, using CollegeHockeyNews.com as the primary data source.
@@ -89,7 +97,7 @@ This Jupyter notebook calculates the total travel distance for each NCAA college
 - On Campus Arena Information: *[arena_school_info.csv](/data/arena_school_info.csv)*
 - Neutral Site Arena Information: *[neutral_arenas_2024.csv](/data/neutral_arenas_2024.csv)*
 
-##### This notebook processes two key datasets:
+**This notebook processes two key datasets:**
 - The 2024 season game schedule, including game dates, teams, and locations.
 - Information about each team's home arena, including latitude and longitude coordinates.
 - A list of neutral site arenas used for specific games.
@@ -129,8 +137,11 @@ The [final table](/data/output/Team_Travel_Information_v1.csv) provides a summar
 This table provides a clear overview of each team's travel during the season, broken down into regular and neutral site trips, as well as their proximity to other teams. These insights can help inform discussions on the geographic spread of teams, their travel demands, and potential scheduling efficiencies.
 ___
 
-### Mapping Workbook
+### Imperial Mapping Workbook
 
+***Notes: 9/19/24*** Improvements
+- changed distance calculation to use geopy method, increase run time about 3x
+- adding jittering to avoid logos with too much bunching, still testing
 #### Files:
 **Notebook**: [mapping_workbook.ipynb](/workbook/mapping_workbook.ipynb)
 **Geography (Shapefile)**: [Census.gov Cartographic Boundary Files](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)

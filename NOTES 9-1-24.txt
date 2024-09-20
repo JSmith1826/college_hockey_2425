@@ -3,25 +3,16 @@ DONE/NEEDS QUALITY CHECK
 Which team will travel the most this year
 - collect home rink locations (probably have them in the older folder
 IN distance_traveled.ipynb
+
+DONE - Write Readme section for distance traveled notebook
 ***********************************************************************
-DONE- FINISHED WEDNESDAY 9-11-24
-Conference by conference roster analysis of by class rank and what not
+
+
+DONE - Conference by conference roster analysis of by class rank and what not
 - adapt the plot put together at the end of last season used for NCAA
 
-***********************************************************************
-
-Analysis of returning letter winners as well as percentage of scoring returning
-- Could do as a stacked bar graph with total points from last season. seperate bars for returning goals, returning assists, exiting goals, exiting assist 
-- probably don't want to do it as proportional like the age experience plots, want to give a sense of how much total scoring each team had
+DONE - Analysis of returning letter winners as well as percentage of scoring returning
 
 Map and analysis of hometowns of all D1 players
 
 Visualization of source of players by previous team/league
-
-POUR PAINT IDEA - IT might be possible to replicate the Red Wings logo in a cool wayt using a pour paint technique. Use a diffuser to create the wheel pattern and try to replicate the wing with some other pour or scrape technique/
-	- silver or ir white background, use tape to mask edges of wings. will need to get right the timing of unmasking because it could rip us layers of paint if allowed to dry too much.
-	- may want to pull tape while paint is still quite dry sand continuie the pour of even scrape the remaining wet paint
-
-
-
-
