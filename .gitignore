@@ -7,6 +7,7 @@ GLI_program/Pages/
 *.xlsx
 data/db/box_scores/
 data/deprec/
+data/vault/
 
 # Compiled source files
 *.o

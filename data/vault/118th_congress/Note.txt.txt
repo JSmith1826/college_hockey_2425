@@ -1,0 +1,10 @@
+Source: https://www.census.gov/geographies/mapping-files/2023/geo/tiger-line-file.html
+
+2023 TIGER/Line Shapefiles
+All legal boundaries and names are as of January 1, 2023. The 2023 TIGER/Line Shapefiles were released on November 22, 2023.
+
+The following national-scale layers have been included this year: CBSA, CSA, and METDIV.  The following layers are gone permanently and are no longer maintained by the Census Bureau: CNECTA, NECTA, and NECTADIV.
+
+
+### Income Data SOurce:
+https://data.census.gov/table/ACSST1Y2023.S1903?q=All%20Congressional%20Districts%20within%20United%20States&t=Income%20and%20Poverty
