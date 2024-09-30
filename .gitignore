@@ -2,6 +2,8 @@
 
 # Local Only Notes
 INTERNAL_NOTES.txt
+# Local Only API Keys
+config.py
 
 # Directories
 TEMP/
