@@ -93,7 +93,7 @@ This Jupyter notebook calculates the total travel distance for each NCAA college
 
 #### Files:
 - Notebook: *[distance_traveled.ipynb](/workbook/distance_traveled.ipynb)*
-- Schedule Information: *[2024_current.csv](/data/schedule/2024_current.csv)*
+- Schedule Information: *[CHN_Schedule_First_Pass_v1.csv](/data/schedule/CHN_Schedule_First%20Pass_v1.csv)*
 - On Campus Arena Information: *[arena_school_info.csv](/data/arena_school_info.csv)*
 - Neutral Site Arena Information: *[neutral_arenas_2024.csv](/data/neutral_arenas_2024.csv)*
 
