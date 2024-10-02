@@ -14,6 +14,55 @@
 - [Imperial Mapping Workbook](#imperial-mapping-workbook)
 
 ---
+### Player Origins and Map Visualization
+
+This Jupyter notebook provides a visualization of NCAA college hockey players' origins, mapping them by city, state, and country. It also includes options to filter the map based on specific layers, such as player heatmaps, individual players, or state-level player counts. The visualizations are designed to provide insights into the geographic distribution of players, enabling better understanding of recruitment trends and regional representation.
+
+#### Files:
+- **Notebook:** *[players_by_location.ipynb](/workbook/players_by_location.ipynb)*
+
+#### Map Outputs:
+  - Player markers using team logos by individual location, including detailed tooltips.
+  - Choropleth layer representing player counts by state/province.
+  - Heatmap showing high-density player origin areas.
+
+#### Steps in the Notebook:
+**1. Data Loading and Preparation:**
+- The notebook loads player data that includes their city, state/province, and country of origin, as well as player-specific information such as team, position, and year.
+- It merges geocoded location data (latitude and longitude) with player details, ensuring that each player is accurately represented on the map.
+  
+**2. Map Creation:**
+- A Folium map is created, starting with an OpenStreetMap base layer. The user can switch between different map themes (dark, light, or default).
+- The primary visualization layers include:
+  - **Player Count by State/Province:** A choropleth layer that shades states or provinces based on the number of players originating from that region.
+  - **Individual Player Markers:** Markers display each player’s details in a tooltip (name, team, position, hometown), as shown in the Calgary example screenshot.
+  - **Heatmap:** A heatmap is overlaid to visually highlight areas with high player concentrations.
+  
+**3. Interactive Map Controls:**
+- The user can toggle map layers (heatmap, player count by state, individual player markers) via an interactive control panel, shown in the controls screenshot.
+- Additional layers can be activated, providing flexibility in how the data is visualized.
+
+#### Screenshots:
+- **Calgary Example:** Displays individual player markers for players from Calgary, with a tooltip containing detailed player information (e.g., name, team, position).
+  ![Calgary Example](/images/readme_images/calgary_example.png)
+  
+- **Player Count Choropleth (US & Canada):** Shows player counts shaded by state/province, with high representation in areas like Michigan, Minnesota, and Ontario.
+  ![Choropleth Example](/images/readme_images/chrono_US1.png)
+  
+- **Map Controls:** A simple control panel allows users to toggle map layers like heatmaps, individual players, and state player counts.
+  ![Map Controls](/images/readme_images/controls.png)
+
+
+#### Results and Insights:
+The map visualizations offer a clear overview of where NCAA hockey players come from, allowing users to:
+- Identify geographic hotspots for player recruitment.
+- Visualize the density of players in specific regions using heatmaps.
+- Filter and explore player data by team or conference through interactive map features.
+
+This notebook provides a useful tool for understanding the distribution of hockey talent across North America, and it can help guide recruiting strategies and regional analyses.
+
+
+---
 
 ### Roster Scraping and Cleaning
 This Jupyter Notebook performs automated data scraping and cleaning to compile a master roster dataset for all Division 1 college hockey teams for the current season, using CollegeHockeyNews.com as the primary data source.
@@ -89,7 +138,37 @@ This notebook can be extended to support a variety of visualization needs within
 
 ### Team Travel Analysis
 
-This Jupyter notebook calculates the total travel distance for each NCAA college hockey team during the regular season, based on the schedule of games and information about each team's home arena. The goal of this analysis is to assess the travel burden on each team throughout the season, broken down into regular (on campus) and neutral site games.
+This Jupyter notebook analyzes the total travel distance for each NCAA college hockey team during the regular season, based on the scheduled games and arena information. The goal is to quantify the travel burden on each team, breaking it down by regular (home/away) and neutral site games.
+
+#### Files:
+- **Notebook:** *[distance_traveled.ipynb](/workbook/distance_traveled.ipynb)*
+- **Schedule Information:** *[CHN_Schedule_First_Pass_v1.csv](/data/schedule/CHN_Schedule_First%20Pass_v1.csv)*
+- **Arena Information:** *[arena_school_info.csv](/data/arena_school_info.csv)*
+- **Neutral Site Arenas:** *[neutral_arenas_2024.csv](/data/neutral_arenas_2024.csv)*
+
+#### Steps in the Notebook:
+**1. Data Preparation:**
+- Loads the schedule, home arena, and neutral site data. The analysis focuses on regular season games and excludes exhibition matchups.
+- Consecutive games at the same location within 3 days are treated as a single trip to reflect real-world travel practices.
+
+**2. Distance Calculation:**
+- The geodesic distance between each team's home arena and the opposing team’s arena is calculated using the geopy library. For neutral site games, distances are calculated between each team’s home arena and the neutral site.
+- All distances are reported in miles and represent the straight-line distance between locations.
+- Total travel distance for each team is computed by summing the distances for all away and neutral site games. The average distance traveled per game is also calculated.
+
+**3. Results:**
+The notebook produces a table that includes:
+- The total number of trips for each team, separated into regular season and neutral site trips.
+- The total distance traveled for regular and neutral site games, along with the average distance per game.
+- The closest team geographically to each school and how many times they play that team during the season.
+- The longest trip in each team's schedule, specifying the opponent and whether the game is regular season or neutral site.
+
+These results provide insights into the travel demands placed on each team and can highlight significant travel disparities between teams and conferences.
+
+The [final table](/data/output/Team_Travel_Information_v1.csv) provides a full breakdown of travel statistics for each team, including total trips, total distance, closest opponent, and longest trip. This data helps assess the impact of travel on team performance and can inform discussions on scheduling efficiency and travel fairness across teams and conferences.
+
+
+<!-- OLD ORIG README - BASED ON OLD ORIGNAL CODE This Jupyter notebook calculates the total travel distance for each NCAA college hockey team during the regular season, based on the schedule of games and information about each team's home arena. The goal of this analysis is to assess the travel burden on each team throughout the season, broken down into regular (on campus) and neutral site games.
 
 #### Files:
 - Notebook: *[distance_traveled.ipynb](/workbook/distance_traveled.ipynb)*
@@ -101,7 +180,7 @@ This Jupyter notebook calculates the total travel distance for each NCAA college
 - The 2024 season game schedule, including game dates, teams, and locations.
 - Information about each team's home arena, including latitude and longitude coordinates.
 - A list of neutral site arenas used for specific games. -->
-
+<!-- 
 #### Steps in the Notebook:
 **1. Data Preparation:**
 
@@ -134,12 +213,13 @@ This information helps quantify the travel demands placed on each team over the 
 
 The [final table](/data/output/Team_Travel_Information_v1.csv) provides a summary of travel statistics for each team:
 
-This table provides a clear overview of each team's travel during the season, broken down into regular and neutral site trips, as well as their proximity to other teams. These insights can help inform discussions on the geographic spread of teams, their travel demands, and potential scheduling efficiencies.
+This table provides a clear overview of each team's travel during the season, broken down into regular and neutral site trips, as well as their proximity to other teams. These insights can help inform discussions on the geographic spread of teams, their travel demands, and potential scheduling efficiencies. -->
 ___
 
 ### Imperial Mapping Workbook
 
-***Notes: 9/19/24*** Improvements
+***Notes: 9/19/24*** 
+**Improvements**
 - changed distance calculation to use geopy method, increase run time about 3x
 - adding jittering to avoid logos with too much bunching, still testing - Not working well or even at all
 #### Files:
