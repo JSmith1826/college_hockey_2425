@@ -9,58 +9,13 @@
 
 ## Workbooks
 - [Roster Scraping and Cleaning](#roster-scraping-and-cleaning)
+- [Game Data Scraping and Cleaning](#1-game_data_scraper_1ipynb)
+- [Player Origins Map Visualization](#player-origins-and-map-visualization)
 - [Team Composition Analysis by Class Rank and Age](#team-composition-analysis-by-class-rank-and-age)
 - [Team Travel Analysis](#team-travel-analysis)
 - [Imperial Mapping Workbook](#imperial-mapping-workbook)
-
----
-### Player Origins and Map Visualization
-
-This Jupyter notebook provides a visualization of NCAA college hockey players' origins, mapping them by city, state, and country. It also includes options to filter the map based on specific layers, such as player heatmaps, individual players, or state-level player counts. The visualizations are designed to provide insights into the geographic distribution of players, enabling better understanding of recruitment trends and regional representation.
-
-#### Files:
-- **Notebook:** *[players_by_location.ipynb](/workbook/players_by_location.ipynb)*
-
-#### Map Outputs:
-  - Player markers using team logos by individual location, including detailed tooltips.
-  - Choropleth layer representing player counts by state/province.
-  - Heatmap showing high-density player origin areas.
-
-#### Steps in the Notebook:
-**1. Data Loading and Preparation:**
-- The notebook loads player data that includes their city, state/province, and country of origin, as well as player-specific information such as team, position, and year.
-- It merges geocoded location data (latitude and longitude) with player details, ensuring that each player is accurately represented on the map.
-  
-**2. Map Creation:**
-- A Folium map is created, starting with an OpenStreetMap base layer. The user can switch between different map themes (dark, light, or default).
-- The primary visualization layers include:
-  - **Player Count by State/Province:** A choropleth layer that shades states or provinces based on the number of players originating from that region.
-  - **Individual Player Markers:** Markers display each player’s details in a tooltip (name, team, position, hometown), as shown in the Calgary example screenshot.
-  - **Heatmap:** A heatmap is overlaid to visually highlight areas with high player concentrations.
-  
-**3. Interactive Map Controls:**
-- The user can toggle map layers (heatmap, player count by state, individual player markers) via an interactive control panel, shown in the controls screenshot.
-- Additional layers can be activated, providing flexibility in how the data is visualized.
-
-#### Screenshots:
-- **Calgary Example:** Displays individual player markers for players from Calgary, with a tooltip containing detailed player information (e.g., name, team, position).
-  ![Calgary Example](/images/readme_images/calgary_example.png)
-  
-- **Player Count Choropleth (US & Canada):** Shows player counts shaded by state/province, with high representation in areas like Michigan, Minnesota, and Ontario.
-  ![Choropleth Example](/images/readme_images/chrono_US1.png)
-  
-- **Map Controls:** A simple control panel allows users to toggle map layers like heatmaps, individual players, and state player counts.
-  ![Map Controls](/images/readme_images/controls.png)
-
-
-#### Results and Insights:
-The map visualizations offer a clear overview of where NCAA hockey players come from, allowing users to:
-- Identify geographic hotspots for player recruitment.
-- Visualize the density of players in specific regions using heatmaps.
-- Filter and explore player data by team or conference through interactive map features.
-
-This notebook provides a useful tool for understanding the distribution of hockey talent across North America, and it can help guide recruiting strategies and regional analyses.
-
+- [Preseason Production Plots](#preseason-production-plots)
+- [Conference Heatmap Visualization](#conference-heatmap-visualization)
 
 ---
 
@@ -110,6 +65,106 @@ This Jupyter Notebook performs automated data scraping and cleaning to compile a
 This tool is a robust foundation for deeper analysis into Division 1 college hockey player demographics, including geographic trends, physical attributes, and more. The clean dataset it produces can easily be integrated into various analysis workflows or visualizations, such as travel or team comparisons.
 
 ---
+
+## Game Data Scraper and Cleaner
+
+This section outlines the purpose and functionality of two Jupyter notebooks used to scrape, clean, and prepare game data for further analysis.
+
+
+
+### 1. Game_Data_Scraper_1.ipynb
+
+This notebook automates the process of scraping game data for the current college hockey season from **College Hockey News**.
+
+- **Primary Tasks:**
+  - Scrapes game schedules and results for the selected season.
+  - Filters out exhibition games to maintain relevant game data.
+  - Includes functions to parse box scores and advanced metrics for each game.
+  - Stores scraped data in a **SQLite database** for easy querying and further processing.
+
+- **Features:**
+  - **Error Handling:** Logs errors and warnings during scraping to ensure data integrity.
+  - **Database Management:** Compares scraped game data with existing records to avoid duplicating entries.
+  - **Modular Functions:** Includes reusable functions for scraping individual game metrics, saving results, and managing SQLite database connections.
+
+- **Output:**  
+  - Creates or updates a SQLite database with the latest game statistics.
+  - Provides a **games_df** DataFrame with all relevant game information, ready for analysis.
+
+---
+
+### 2. Game_Data_Cleaner.ipynb
+
+This notebook handles the post-scraping cleanup and transformation of raw game data. It ensures the data is structured for further analysis by cleaning inconsistencies, merging datasets, and adding relevant columns.
+
+- **Primary Tasks:**
+  - Adds missing team names to individual player rows within the advanced metrics data.
+  - Combines multiple tables into a single, comprehensive table with proper formatting.
+  - Adds **Home** or **Away** information based on game identifiers.
+  - Integrates **master roster** data to join with game statistics for enriched analysis (e.g., player age, class rank, etc.).
+
+- **Data Cleaning Steps:**
+  - Creates mappings between team names and abbreviations to handle discrepancies in source data.
+  - Renames columns for easier analysis (e.g., "Pt." to "Pts" and "+/-" to "plus_minus").
+  - Ensures consistent naming across tables and removes extra header rows from player statistics.
+
+- **Output:**  
+  - Produces a cleaned SQLite database with all the necessary transformations applied.  
+  - Exports player and game data, ready for use in other parts of the project.
+
+
+These two notebooks form the backbone of the project, ensuring that raw game data is both accurately collected and effectively cleaned for future use. The cleaner notebook complements the scraper by transforming data into a consistent format that can be readily analyzed or integrated into other workflows.
+
+---
+### Player Origins and Map Visualization
+
+This Jupyter notebook provides a visualization of NCAA college hockey players' origins, mapping them by city, state, and country. It also includes options to filter the map based on specific layers, such as player heatmaps, individual players, or state-level player counts. The visualizations are designed to provide insights into the geographic distribution of players, enabling better understanding of recruitment trends and regional representation.
+
+#### Files:
+- **Notebook:** *[players_by_location.ipynb](/workbook/players_by_location.ipynb)*
+
+#### Map Outputs:
+  - Player markers using team logos by individual location, including detailed tooltips.
+  - Choropleth layer representing player counts by state/province.
+  - Heatmap showing high-density player origin areas.
+
+#### Steps in the Notebook:
+**1. Data Loading and Preparation:**
+- The notebook loads player data that includes their city, state/province, and country of origin, as well as player-specific information such as team, position, and year.
+- It merges geocoded location data (latitude and longitude) with player details, ensuring that each player is accurately represented on the map.
+  
+**2. Map Creation:**
+- A Folium map is created, starting with an OpenStreetMap base layer. The user can switch between different map themes (dark, light, or default).
+- The primary visualization layers include:
+  - **Player Count by State/Province:** A choropleth layer that shades states or provinces based on the number of players originating from that region.
+  - **Individual Player Markers:** Markers display each player’s details in a tooltip (name, team, position, hometown), as shown in the Calgary example screenshot.
+  - **Heatmap:** A heatmap is overlaid to visually highlight areas with high player concentrations.
+  
+**3. Interactive Map Controls:**
+- The user can toggle map layers (heatmap, player count by state, individual player markers) via an interactive control panel, shown in the controls screenshot.
+- Additional layers can be activated, providing flexibility in how the data is visualized.
+
+#### Screenshots:
+- **Calgary Example:** Displays individual player markers for players from Calgary, with a tooltip containing detailed player information (e.g., name, team, position).
+  ![Calgary Example](/images/readme_images/calgary_example.png)
+  
+- **Player Count Choropleth (US & Canada):** Shows player counts shaded by state/province, with high representation in areas like Michigan, Minnesota, and Ontario.
+  ![Choropleth Example](/images/readme_images/chrono_US1.png)
+  
+- **Map Controls:** A simple control panel allows users to toggle map layers like heatmaps, individual players, and state player counts.
+  ![Map Controls](/images/readme_images/controls.png)
+
+
+#### Results and Insights:
+The map visualizations offer a clear overview of where NCAA hockey players come from, allowing users to:
+- Identify geographic hotspots for player recruitment.
+- Visualize the density of players in specific regions using heatmaps.
+- Filter and explore player data by team or conference through interactive map features.
+
+This notebook provides a useful tool for understanding the distribution of hockey talent across North America, and it can help guide recruiting strategies and regional analyses.
+
+---
+
 ### Team Composition Analysis by Class Rank and Age
 
 **Files:**
@@ -261,3 +316,81 @@ The code is highly customizable: users can adjust the map's base style, modify i
 
 
 ---
+
+## Preseason Production Plots
+
+This notebook visualizes the amount of production (defined as goals and assists) that each college hockey team retains, loses, or gains for the upcoming season. The goal is to assess how well teams maintain their scoring power, based on returning players and new transfers.
+
+### **Primary Tasks:**
+- **Production Categories:**
+  - **Returning:** Players who scored goals or made assists last season and are still on the team.
+  - **Departed:** Players who contributed last season but left the team.
+  - **Incoming:** Players who transferred in from another team for the new season.
+
+- **Cleaning and Data Preparation:**
+  - Cleans and standardizes team names by removing dots and hyphens.
+  - Reorders teams within each conference based on the final 2023-24 Pairwise rankings.
+  - Adds **logos** to plots for each team, using a logo-mapping function to align logos with team data.
+
+### **Plotting Features:**
+- **Conference-to-Conference Comparison:** 
+  - Creates a stacked bar chart to compare production levels between different conferences.
+
+- **All-Teams Plot:** 
+  - Generates a comprehensive chart showing all teams, with bars indicating the proportion of goals and assists returning, lost, or gained.
+  - The plot includes team logos where available.
+
+- **Vertical Production Plot:** 
+  - Displays production data ordered by either:
+    - **Final Pairwise Rankings:** Highlights how top teams perform in retaining or gaining production.
+    - **Total Production:** Orders teams by the sum of returning and incoming contributions.
+
+### **Output:**
+- **Visualizations:**
+  - The notebook outputs multiple visualizations comparing production retention and gains across teams and conferences.
+  - It offers insights into how player movement affects each team’s competitive standing.
+
+![B1G Hockey Production Turnover 2024-25](./images/export/B1G_production_turnover_v1.png)
+
+---
+
+## Conference Heatmap Visualization
+
+This notebook generates heatmaps to visualize key performance metrics between conferences in both men's and women's Division 1 college hockey. It provides insights into scoring patterns and win distributions across inter-conference and non-conference games.
+
+### **Primary Tasks:**
+- **Men's Conference Heatmaps:**
+  - **Goals Scored Heatmap:** 
+    - Collects and processes men’s Division 1 game results to build a heatmap of average goals scored between conference matchups.
+  - **Wins Heatmap:**
+    - Constructs a matrix showing the total number of wins by one conference over another.
+    - Compares win distributions both within and across conferences to highlight competitive dynamics.
+
+- **Women's Conference Heatmaps:**
+  - Similar to the men’s process, this section creates:
+    - **Goals Scored Heatmap** for average goals in women's inter-conference matchups.
+    - **Wins Heatmap** for tracking the total wins by one conference against others.
+  
+### **Key Features:**
+- **Custom Color Palettes:** 
+  - Uses sequential colormaps (e.g., `'Blues'`, `'BuGn'`) to visually distinguish performance levels across conferences.
+
+- **Backend Functions:**
+  - Functions to map teams to their respective conferences for both men's and women's datasets.
+  - Code logic ensures consistency across heatmaps by standardizing conference membership and team mapping.
+
+### **Output:**
+- **Goals Scored Heatmaps:** 
+  - Visualize the average goals scored between conferences in every game between the respective conferences.
+
+  ![Conference vs Conference Scoring Average Heatmap](./images/export/scoring_heatmap_example.png)
+  
+- **Win Heatmaps:** 
+  - Display the total wins accumulated by each conference, providing insights into dominance and competitive balance.
+
+![Conference vs Conference Wins Heatmap](./images/export/wins_heatmap_example.png)
+
+
+ 
+
+
