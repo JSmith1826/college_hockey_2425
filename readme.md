@@ -64,6 +64,7 @@ This Jupyter Notebook performs automated data scraping and cleaning to compile a
 
 This tool is a robust foundation for deeper analysis into Division 1 college hockey player demographics, including geographic trends, physical attributes, and more. The clean dataset it produces can easily be integrated into various analysis workflows or visualizations, such as travel or team comparisons.
 
+[Back To Menu](#workbooks)
 ---
 
 ## Game Data Scraper and Cleaner
@@ -115,6 +116,7 @@ This notebook handles the post-scraping cleanup and transformation of raw game d
 
 These two notebooks form the backbone of the project, ensuring that raw game data is both accurately collected and effectively cleaned for future use. The cleaner notebook complements the scraper by transforming data into a consistent format that can be readily analyzed or integrated into other workflows.
 
+[Back To Menu](#workbooks)
 ---
 ### Player Origins and Map Visualization
 
@@ -163,6 +165,7 @@ The map visualizations offer a clear overview of where NCAA hockey players come 
 
 This notebook provides a useful tool for understanding the distribution of hockey talent across North America, and it can help guide recruiting strategies and regional analyses.
 
+[Back To Menu](#workbooks)
 ---
 
 ### Team Composition Analysis by Class Rank and Age
@@ -189,6 +192,7 @@ This notebook can be extended to support a variety of visualization needs within
 ![Big Ten Plot - 2024 Season](/images/readme_images/Big%20Ten_age_experience_plot.png)
 ![Hockey East Plot - 2024 Season](/images/readme_images/Hockey%20East_age_experience_plot.png)
 
+[Back To Menu](#workbooks)
 ---
 
 ### Team Travel Analysis
@@ -269,6 +273,8 @@ This information helps quantify the travel demands placed on each team over the 
 The [final table](/data/output/Team_Travel_Information_v1.csv) provides a summary of travel statistics for each team:
 
 This table provides a clear overview of each team's travel during the season, broken down into regular and neutral site trips, as well as their proximity to other teams. These insights can help inform discussions on the geographic spread of teams, their travel demands, and potential scheduling efficiencies. -->
+
+[Back To Menu](#workbooks)
 ___
 
 ### Imperial Mapping Workbook
@@ -314,7 +320,7 @@ The code is highly customizable: users can adjust the map's base style, modify i
 ![US Map](/images/export/closest_team_cont_us.png)
 ![Northeast](/images/export/closest_team_northeast.png)
 
-
+[Back To Menu](#workbooks)
 ---
 
 ## Preseason Production Plots
@@ -351,6 +357,8 @@ This notebook visualizes the amount of production (defined as goals and assists)
   - It offers insights into how player movement affects each team’s competitive standing.
 
 ![B1G Hockey Production Turnover 2024-25](./images/export/B1G_production_turnover_v1.png)
+
+[Back To Menu](#workbooks)
 
 ---
 
@@ -390,6 +398,7 @@ This notebook generates heatmaps to visualize key performance metrics between co
 
 ![Conference vs Conference Wins Heatmap](./images/export/wins_heatmap_example.png)
 
+[Back To Menu](#workbooks)
 
  
 
