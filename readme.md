@@ -68,14 +68,11 @@ This tool is a robust foundation for deeper analysis into Division 1 college hoc
 ---
 
 ## Game Data Scraper and Cleaner
+This notebook first grabs the schedule/results page from CHN and then scrapes the Box Score and Advanced Metric links for each completed game into tables before storing them in a database.
 
-This section outlines the purpose and functionality of two Jupyter notebooks used to scrape, clean, and prepare game data for further analysis.
+### 1. [Game_Data_Scraper_1.ipynb](./workbook/Game_Data_Scraper_1.ipynb)
 
-
-
-### 1. Game_Data_Scraper_1.ipynb
-
-This notebook automates the process of scraping game data for the current college hockey season from **College Hockey News**.
+<!-- This notebook automates the process of scraping game data for the current college hockey season from **College Hockey News**. -->
 
 - **Primary Tasks:**
   - Scrapes game schedules and results for the selected season.
@@ -92,9 +89,8 @@ This notebook automates the process of scraping game data for the current colleg
   - Creates or updates a SQLite database with the latest game statistics.
   - Provides a **games_df** DataFrame with all relevant game information, ready for analysis.
 
----
 
-### 2. Game_Data_Cleaner.ipynb
+### 2. [Game_Data_Cleaner.ipynb](./workbook/Game_Data_Cleaner.ipynb)
 
 This notebook handles the post-scraping cleanup and transformation of raw game data. It ensures the data is structured for further analysis by cleaning inconsistencies, merging datasets, and adding relevant columns.
 
@@ -117,10 +113,12 @@ This notebook handles the post-scraping cleanup and transformation of raw game d
 These two notebooks form the backbone of the project, ensuring that raw game data is both accurately collected and effectively cleaned for future use. The cleaner notebook complements the scraper by transforming data into a consistent format that can be readily analyzed or integrated into other workflows.
 
 [Back To Menu](#workbooks)
+
 ---
 ### Player Origins and Map Visualization
 
-This Jupyter notebook provides a visualization of NCAA college hockey players' origins, mapping them by city, state, and country. It also includes options to filter the map based on specific layers, such as player heatmaps, individual players, or state-level player counts. The visualizations are designed to provide insights into the geographic distribution of players, enabling better understanding of recruitment trends and regional representation.
+This notebook provides a visualization of players' origins, mapping them by city, state, and country. It also includes options to filter the map based on specific layers, such as player heatmaps, individual players, or state-level player counts. The visualizations are designed to provide insights into the geographic distribution of players, enabling better understanding of recruitment trends and regional representation.
+[This link will take you to the final interactive map](./public/player_atlas_v1.html)
 
 #### Files:
 - **Notebook:** *[players_by_location.ipynb](/workbook/players_by_location.ipynb)*
@@ -197,7 +195,7 @@ This notebook can be extended to support a variety of visualization needs within
 
 ### Team Travel Analysis
 
-This Jupyter notebook analyzes the total travel distance for each NCAA college hockey team during the regular season, based on the scheduled games and arena information. The goal is to quantify the travel burden on each team, breaking it down by regular (home/away) and neutral site games.
+This notebook analyzes the total travel distance for each NCAA college hockey team during the regular season, based on the scheduled games and arena information. The goal is to quantify the travel burden on each team, breaking it down by regular (home/away) and neutral site games.
 
 #### Files:
 - **Notebook:** *[distance_traveled.ipynb](/workbook/distance_traveled.ipynb)*
@@ -316,7 +314,9 @@ The final map is saved as an HTML file, making it accessible outside the noteboo
 **Adaptability:**
 The code is highly customizable: users can adjust the map's base style, modify icon sizes, or easily swap data inputs like team locations or regions. This flexibility allows it to be reused for various geographic or sports visualizations.
 
-***Output screenshot:***
+***Output:***
+[Interactive Map](./public/closest_school_map_v1.html)
+***Screenshots:***
 ![US Map](/images/export/closest_team_cont_us.png)
 ![Northeast](/images/export/closest_team_northeast.png)
 
@@ -364,7 +364,7 @@ This notebook visualizes the amount of production (defined as goals and assists)
 
 ## Conference Heatmap Visualization
 
-This notebook generates heatmaps to visualize key performance metrics between conferences in both men's and women's Division 1 college hockey. It provides insights into scoring patterns and win distributions across inter-conference and non-conference games.
+This notebook generates heatmaps to visualize realtive strength of each of the conferences in both men's and women's Division 1 college hockey. It provides insights into scoring averages and win distributions across non-conference games.
 
 ### **Primary Tasks:**
 - **Men's Conference Heatmaps:**
@@ -381,15 +381,15 @@ This notebook generates heatmaps to visualize key performance metrics between co
   
 ### **Key Features:**
 - **Custom Color Palettes:** 
-  - Uses sequential colormaps (e.g., `'Blues'`, `'BuGn'`) to visually distinguish performance levels across conferences.
+  - Includes a color pallett library that can be adjusted by simply commenting parameters on or off to visually distinguish performance levels across conferences.
 
 - **Backend Functions:**
   - Functions to map teams to their respective conferences for both men's and women's datasets.
   - Code logic ensures consistency across heatmaps by standardizing conference membership and team mapping.
 
-### **Output:**
+<!-- ### **Output:**
 - **Goals Scored Heatmaps:** 
-  - Visualize the average goals scored between conferences in every game between the respective conferences.
+  - Visualize the average goals scored between conferences in every game between the respective conferences. -->
 
   ![Conference vs Conference Scoring Average Heatmap](./images/export/scoring_heatmap_example.png)
   
