@@ -118,7 +118,7 @@ These two notebooks form the backbone of the project, ensuring that raw game dat
 ### Player Origins and Map Visualization
 
 This notebook provides a visualization of players' origins, mapping them by city, state, and country. It also includes options to filter the map based on specific layers, such as player heatmaps, individual players, or state-level player counts. The visualizations are designed to provide insights into the geographic distribution of players, enabling better understanding of recruitment trends and regional representation.
-[This link will take you to the final interactive map](./public/player_atlas_v1.html)
+[This link will take you to the final interactive map](https://jsmith1826.github.io/college_hockey_2425/public/player_atlas_v1.html)
 
 #### Files:
 - **Notebook:** *[players_by_location.ipynb](/workbook/players_by_location.ipynb)*
@@ -146,12 +146,15 @@ This notebook provides a visualization of players' origins, mapping them by city
 
 #### Screenshots:
 - **Calgary Example:** Displays individual player markers for players from Calgary, with a tooltip containing detailed player information (e.g., name, team, position).
+  
   ![Calgary Example](/images/readme_images/calgary_example.png)
   
 - **Player Count Choropleth (US & Canada):** Shows player counts shaded by state/province, with high representation in areas like Michigan, Minnesota, and Ontario.
+  
   ![Choropleth Example](/images/readme_images/chrono_US1.png)
   
 - **Map Controls:** A simple control panel allows users to toggle map layers like heatmaps, individual players, and state player counts.
+  
   ![Map Controls](/images/readme_images/controls.png)
 
 
@@ -315,7 +318,7 @@ The final map is saved as an HTML file, making it accessible outside the noteboo
 The code is highly customizable: users can adjust the map's base style, modify icon sizes, or easily swap data inputs like team locations or regions. This flexibility allows it to be reused for various geographic or sports visualizations.
 
 ***Output:***
-[Interactive Map](./public/closest_school_map_v1.html)
+[Interactive Map](https://jsmith1826.github.io/college_hockey_2425/public/closest_school_map_v1.html)
 ***Screenshots:***
 ![US Map](/images/export/closest_team_cont_us.png)
 ![Northeast](/images/export/closest_team_northeast.png)
