@@ -15,6 +15,7 @@ GLI_program/Pages/
 data/db/box_scores/
 data/deprec/
 data/vault/
+data_viz/
 
 # Compiled source files
 *.o
