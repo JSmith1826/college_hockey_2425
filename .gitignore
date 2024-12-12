@@ -8,7 +8,7 @@ config.py
 # Directories
 TEMP/
 images/backgrounds/
-images/logos/
+# images/logos/
 GLI_program/images/
 GLI_program/Pages/
 *.xlsx
