@@ -22,7 +22,7 @@ data_viz/
 *.obj
 *.exe
 *.dll
-*.db
+# *.db
 
 # Packages
 *.7z
