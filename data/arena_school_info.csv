@@ -1,7 +1,7 @@
 ﻿Team,Arena,Capacity,Sheet_length,Sheet_width,School,Latitude,Longitude,hex1,hex2,hex3,simp_color,logo_abv,abv,ncaa_name,ncaa_data_alts
 Air Force,Cadet Ice Arena,2470,200,85,Air Force,39.0137391,-104.8837269,3087,8a8d8f,,,afa,Air Force,Air Force,"AIRFOR, Air Force"
-Alaska,Carlson Center,4595,200,100,Alaska,64.84212435,-147.7638406,236192,ffcd00,,,akf,Alaska,Alas Anchorage,"AK FBK, Alas. Fairbanks"
-Alaska Anchorage,Avis Alaska Sports Complex,800,200,85,Alaska-Anchorage,61.20553644,-149.8727373,00583d,ffc425,,,aka,UAA,Alas Fairbanks,"AK ANC, Alas. Anchorage"
+Alaska,Carlson Center,4595,200,100,Alaska,64.84212435,-147.7638406,236192,ffcd00,,,akf,Alaska,Alas Fairbanks,"AK FBK, Alas. Fairbanks"
+Alaska Anchorage,Avis Alaska Sports Complex,800,200,85,Alaska-Anchorage,61.20553644,-149.8727373,00583d,ffc425,,,aka,UAA,Alas Anchorage,"AK ANC, Alas. Anchorage"
 American Int'l,MassMutual Center,6866,200,85,American Int'l,42.1180027,-72.5543263,0,ffb60f,,,aic,AIC,American Intl,"AM INT, American Int'l"
 Arizona State,Mullett Arena,5000,200,85,Arizona State,33.4471565,-111.9108672,8c1d40,ffc627,,,asu,ASU,Arizona St,"AZ ST, Arizona St."
 Army,Tate Rink,2648,200,90,Army,41.38654693,-73.96520617,d4bf91,b2b4b3,,,arm,Army,Army West Point,"ARMY, Army"
