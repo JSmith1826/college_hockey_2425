@@ -1,1080 +1,1179 @@
-Date,Home_Team_Away_Team,game_id_number
-2024/10/04,Michigan St. vs Lake Superior St.,6344272
-2024/10/04,Minnesota St. vs Michigan,6344249
-2024/10/04,Bowling Green vs Mercyhurst,6344336
-2024/10/04,Colgate vs UConn,6344337
-2024/10/04,Miami (OH) vs Ferris St.,6344354
-2024/10/04,Arizona St. vs Air Force,6344335
-2024/10/05,Michigan St. vs Lake Superior St.,6344273
-2024/10/05,Minnesota St. vs Michigan,6344250
-2024/10/05,Bemidji St. vs Minn. Duluth,6344341
-2024/10/05,Massachusetts vs Bentley,6344346
-2024/10/05,RIT vs St. Lawrence,6344347
-2024/10/05,Canisius vs Clarkson,6344348
-2024/10/05,American Int'l vs Maine,6344349
-2024/10/05,Holy Cross vs Boston U.,6344350
-2024/10/05,Bowling Green vs Mercyhurst,6344351
-2024/10/05,Colgate vs UConn,6344353
-2024/10/05,Miami (OH) vs Ferris St.,6344368
-2024/10/05,Arizona St. vs Air Force,6344352
-2024/10/05,Denver vs Alas. Anchorage,6344343
-2024/10/05,Penn St. vs Alas. Fairbanks,6344179
-2024/10/06,Canisius vs St. Lawrence,6344359
-2024/10/06,RIT vs Clarkson,6344362
-2024/10/06,Army West Point vs Union (NY),6344363
-2024/10/06,Stonehill vs Merrimack,6344365
-2024/10/06,St. Cloud St. vs St. Thomas (MN),6344367
-2024/10/06,Denver vs Alas. Anchorage,6344366
-2024/10/06,Penn St. vs Alas. Fairbanks,6344180
-2024/10/11,Boston College vs Michigan St.,6344274
-2024/10/11,Michigan vs Arizona St.,6344251
-2024/10/11,Niagara vs Clarkson,6344374
-2024/10/11,Rensselaer vs Canisius,6344371
-2024/10/11,UConn vs Holy Cross,6344372
-2024/10/11,RIT vs Mercyhurst,6344373
-2024/10/11,American Int'l vs Ohio St.,6344289
-2024/10/11,Union (NY) vs Stonehill,6344375
-2024/10/11,Ferris St. vs Western Mich.,6344376
-2024/10/11,Sacred Heart vs Colgate,6344378
-2024/10/11,Massachusetts vs Omaha,6344380
-2024/10/11,Notre Dame vs St. Lawrence,6345273
-2024/10/11,Alas. Anchorage vs Miami (OH),6344381
-2024/10/11,Alas. Fairbanks vs Michigan Tech,6344384
-2024/10/11,Minn. Duluth vs UMass Lowell,6344385
-2024/10/11,Lindenwood vs Wisconsin,6344205
-2024/10/11,Vermont vs St. Thomas (MN),6344377
-2024/10/11,Merrimack vs Minnesota St.,6344382
-2024/10/11,LIU vs Augustana (SD),6344383
-2024/10/11,Bemidji St. vs St. Cloud St.,6344386
-2024/10/11,Northern Mich. vs Colorado Col.,6344379
-2024/10/11,Air Force vs Minnesota,6344218
-2024/10/12,Holy Cross vs UConn,6344388
-2024/10/12,RIT vs Mercyhurst,6344389
-2024/10/12,Sacred Heart vs Colgate,6344390
-2024/10/12,American Int'l vs Ohio St.,6344290
-2024/10/12,Rensselaer vs Canisius,6344392
-2024/10/12,Boston College vs Michigan St.,6344275
-2024/10/12,Minn. Duluth vs UMass Lowell,6344395
-2024/10/12,Alas. Fairbanks vs Michigan Tech,6344400
-2024/10/12,Penn St. vs Quinnipiac,6344181
-2024/10/12,Lindenwood vs Wisconsin,6344206
-2024/10/12,Vermont vs St. Thomas (MN),6344393
-2024/10/12,Niagara vs St. Lawrence,6344401
-2024/10/12,Stonehill vs Northeastern,6344402
-2024/10/12,Western Mich. vs Ferris St.,6344405
-2024/10/12,Bentley vs New Hampshire,6344406
-2024/10/12,Notre Dame vs Clarkson,6345274
-2024/10/12,Air Force vs Massachusetts,6345285
-2024/10/12,Union (NY) vs Boston U.,6344404
-2024/10/12,Alas. Anchorage vs Miami (OH),6344408
-2024/10/12,Merrimack vs Minnesota St.,6344396
-2024/10/12,Providence vs North Dakota,6344397
-2024/10/12,LIU vs Augustana (SD),6344398
-2024/10/12,St. Cloud St. vs Bemidji St.,6344399
-2024/10/12,Michigan vs Arizona St.,6344252
-2024/10/12,Northern Mich. vs Colorado Col.,6344394
-2024/10/12,Omaha vs Minnesota,6345286
-2024/10/17,Robert Morris vs Miami (OH),6344410
-2024/10/17,Bowling Green vs Western Mich.,6344411
-2024/10/18,American Int'l vs Boston College,6344413
-2024/10/18,Ferris St. vs St. Lawrence,6344416
-2024/10/18,Niagara vs Rensselaer,6344422
-2024/10/18,Sacred Heart vs Massachusetts,6344414
-2024/10/18,LIU vs Bentley,6344415
-2024/10/18,St. Cloud St. vs Michigan,6344253
-2024/10/18,Mercyhurst vs Union (NY),6344417
-2024/10/18,New Hampshire vs Merrimack,6344418
-2024/10/18,Arizona St. vs Providence,6344419
-2024/10/18,Quinnipiac vs Maine,6344420
-2024/10/18,UConn vs Boston U.,6344421
-2024/10/18,Alas. Fairbanks vs Notre Dame,6345275
-2024/10/18,Alas. Anchorage vs Northern Mich.,6344425
-2024/10/18,Stonehill vs Lake Superior St.,6344426
-2024/10/18,Colgate vs UMass Lowell,6344428
-2024/10/18,Minnesota vs Minn. Duluth,6344219
-2024/10/18,Ohio St. vs Wisconsin,6344291
-2024/10/18,North Dakota vs Minnesota St.,6344424
-2024/10/18,Augustana (SD) vs Omaha,6344427
-2024/10/18,Northeastern vs Denver,6344412
-2024/10/18,Lindenwood vs Air Force,6344423
-2024/10/19,Arizona St. vs Providence,6344430
-2024/10/19,Mercyhurst vs Union (NY),6344431
-2024/10/19,Niagara vs Rensselaer,6344432
-2024/10/19,Colgate vs UMass Lowell,6344434
-2024/10/19,Alas. Fairbanks vs Notre Dame,6345276
-2024/10/19,Alas. Anchorage vs Northern Mich.,6344436
-2024/10/19,Stonehill vs Lake Superior St.,6344437
-2024/10/19,Minnesota vs Minn. Duluth,6344220
-2024/10/19,St. Cloud St. vs Michigan,6344254
-2024/10/19,Ohio St. vs Wisconsin,6344292
-2024/10/19,Ferris St. vs St. Lawrence,6344440
-2024/10/19,Army West Point vs Holy Cross,6344439
-2024/10/19,Massachusetts vs Sacred Heart,6344441
-2024/10/19,Miami (OH) vs Robert Morris,6344442
-2024/10/19,LIU vs Bentley,6344438
-2024/10/19,Bowling Green vs RIT,6344445
-2024/10/19,North Dakota vs Minnesota St.,6344435
-2024/10/19,Clarkson vs Vermont,6344447
-2024/10/19,Quinnipiac vs Maine,6344448
-2024/10/19,Northeastern vs Denver,6344429
-2024/10/19,Augustana (SD) vs Omaha,6344446
-2024/10/20,Army West Point vs Holy Cross,6344450
-2024/10/20,Lindenwood vs Air Force,6344449
-2024/10/22,Mercyhurst vs Canisius,6344451
-2024/10/25,Air Force vs American Int'l,6344453
-2024/10/25,New Hampshire vs Quinnipiac,6344455
-2024/10/25,Bentley vs Army West Point,6344456
-2024/10/25,St. Lawrence vs Penn St.,6344182
-2024/10/25,Bowling Green vs Ohio St.,6344293
-2024/10/25,UConn vs Massachusetts,6344452
-2024/10/25,Stonehill vs Minn. Duluth,6344454
-2024/10/25,Michigan St. vs Canisius,6344277
-2024/10/25,Maine vs Northeastern,6344457
-2024/10/25,Holy Cross vs Sacred Heart,6344458
-2024/10/25,Niagara vs Robert Morris,6344459
-2024/10/25,Providence vs Vermont,6344460
-2024/10/25,Clarkson vs Michigan Tech,6344462
-2024/10/25,Union (NY) vs Rensselaer,6344463
-2024/10/25,Lindenwood vs Miami (OH),6344465
-2024/10/25,Colgate vs RIT,6344466
-2024/10/25,LIU vs Notre Dame,6345277
-2024/10/25,Arizona St. vs Northern Mich.,6344469
-2024/10/25,Bemidji St. vs Ferris St.,6344470
-2024/10/25,Augustana (SD) vs St. Cloud St.,6344461
-2024/10/25,Omaha vs Minnesota St.,6344467
-2024/10/25,Boston U. vs North Dakota,6344468
-2024/10/25,Wisconsin vs Denver,6344209
-2024/10/25,St. Thomas (MN) vs Minnesota,6344221
-2024/10/25,Colorado Col. vs Alas. Anchorage,6344464
-2024/10/26,Air Force vs American Int'l,6344474
-2024/10/26,New Hampshire vs Quinnipiac,6344475
-2024/10/26,Bentley vs Army West Point,6344476
-2024/10/26,St. Lawrence vs Penn St.,6344183
-2024/10/26,Colgate vs RIT,6344479
-2024/10/26,Augustana (SD) vs St. Cloud St.,6344477
-2024/10/26,Stonehill vs Minn. Duluth,6344478
-2024/10/26,Providence vs Vermont,6344480
-2024/10/26,LIU vs Notre Dame,6345278
-2024/10/26,Arizona St. vs Northern Mich.,6344484
-2024/10/26,Bemidji St. vs Ferris St.,6344485
-2024/10/26,Clarkson vs Michigan Tech,6344491
-2024/10/26,Maine vs Northeastern,6344487
-2024/10/26,Michigan St. vs Canisius,6344276
-2024/10/26,Western Mich. vs Boston College,6344473
-2024/10/26,Robert Morris vs Niagara,6344492
-2024/10/26,Holy Cross vs Sacred Heart,6344488
-2024/10/26,Rensselaer vs Union (NY),6344489
-2024/10/26,UMass Lowell vs Merrimack,6344490
-2024/10/26,Massachusetts vs UConn,6344472
-2024/10/26,Lindenwood vs Miami (OH),6344471
-2024/10/26,Omaha vs Minnesota St.,6344482
-2024/10/26,Boston U. vs North Dakota,6344483
-2024/10/26,Ohio St. vs Bowling Green,6344294
-2024/10/26,Wisconsin vs Denver,6344210
-2024/10/26,Minnesota vs St. Thomas (MN),6344222
-2024/10/26,Colorado Col. vs Alas. Anchorage,6344481
-2024/10/30,RIT vs Niagara,6344494
-2024/10/31,Army West Point vs Canisius,6344495
-2024/11/01,Mercyhurst vs Niagara,6344496
-2024/11/01,Army West Point vs Canisius,6344497
-2024/11/01,UMass Lowell vs Holy Cross,6344500
-2024/11/01,Michigan vs Boston U.,6344259
-2024/11/01,North Dakota vs Cornell,6344498
-2024/11/01,Sacred Heart vs Bentley,6344499
-2024/11/01,Lake Superior St. vs Ohio St.,6344295
-2024/11/01,Alas. Fairbanks vs Clarkson,6344501
-2024/11/01,Lindenwood vs Robert Morris,6344502
-2024/11/01,New Hampshire vs Providence,6344504
-2024/11/01,Dartmouth vs Harvard,6344505
-2024/11/01,St. Lawrence vs Stonehill,6381168
-2024/11/01,Denver vs Yale,6344507
-2024/11/01,Rensselaer vs Miami (OH),6344508
-2024/11/01,Wisconsin vs Notre Dame,6345281
-2024/11/01,Ferris St. vs Bowling Green,6344509
-2024/11/01,Michigan Tech vs Northern Mich.,6344512
-2024/11/01,Merrimack vs Maine,6344513
-2024/11/01,Penn St. vs Minnesota,6344184
-2024/11/01,Minnesota St. vs Bemidji St.,6344510
-2024/11/01,Augustana (SD) vs St. Thomas (MN),6344511
-2024/11/01,Boston College vs St. Cloud St.,6344514
-2024/11/01,Air Force vs Colorado Col.,6344506
-2024/11/02,Vermont vs UConn,6344515
-2024/11/02,Massachusetts vs American Int'l,6344516
-2024/11/02,Providence vs New Hampshire,6344528
-2024/11/02,Lake Superior St. vs Ohio St.,6344296
-2024/11/02,Wisconsin vs Notre Dame,6345282
-2024/11/02,Northern Mich. vs Michigan Tech,6344521
-2024/11/02,Michigan vs Boston U.,6344260
-2024/11/02,Boston College vs St. Cloud St.,6344518
-2024/11/02,North Dakota vs Cornell,6344522
-2024/11/02,Quinnipiac vs Holy Cross,6344523
-2024/11/02,Niagara vs Mercyhurst,6344524
-2024/11/02,Alas. Fairbanks vs Clarkson,6344526
-2024/11/02,Lindenwood vs Robert Morris,6344527
-2024/11/02,Denver vs Yale,6344529
-2024/11/02,Bentley vs Sacred Heart,6344525
-2024/11/02,Rensselaer vs Miami (OH),6344530
-2024/11/02,Minnesota St. vs Bemidji St.,6344519
-2024/11/02,Augustana (SD) vs St. Thomas (MN),6344520
-2024/11/02,Ferris St. vs Bowling Green,6344532
-2024/11/02,Merrimack vs Maine,6344533
-2024/11/02,Penn St. vs Minnesota,6344185
-2024/11/02,Colorado Col. vs Air Force,6344531
-2024/11/03,Vermont vs UConn,6344534
-2024/11/03,Stonehill vs Dartmouth,6344535
-2024/11/04,Robert Morris vs Mercyhurst,6344536
-2024/11/07,American Int'l vs Holy Cross,6344537
-2024/11/08,Ohio St. vs Michigan St.,6344278
-2024/11/08,Notre Dame vs Michigan,6344255
-2024/11/08,Sacred Heart vs Mercyhurst,6344545
-2024/11/08,Alas. Fairbanks vs Union (NY),6344546
-2024/11/08,American Int'l vs Holy Cross,6344539
-2024/11/08,Dartmouth vs Quinnipiac,6344542
-2024/11/08,RIT vs Bentley,6344543
-2024/11/08,Niagara vs Army West Point,6344544
-2024/11/08,Yale vs Cornell,6344541
-2024/11/08,Massachusetts vs Vermont,6344547
-2024/11/08,UConn vs Merrimack,6344548
-2024/11/08,Northeastern vs Providence,6344549
-2024/11/08,Brown vs Colgate,6344550
-2024/11/08,Maine vs Boston College,6344554
-2024/11/08,Harvard vs Princeton,6344555
-2024/11/08,UMass Lowell vs Boston U.,6344551
-2024/11/08,Lake Superior St. vs Northern Mich.,6344559
-2024/11/08,Michigan Tech vs Ferris St.,6344560
-2024/11/08,Minnesota vs Wisconsin,6344223
-2024/11/08,Western Mich. vs Omaha,6344556
-2024/11/08,Bemidji St. vs Augustana (SD),6344557
-2024/11/08,Minnesota St. vs St. Thomas (MN),6344558
-2024/11/08,North Dakota vs Minn. Duluth,6344561
-2024/11/08,Miami (OH) vs St. Cloud St.,6344538
-2024/11/08,Lindenwood vs Denver,6344552
-2024/11/08,Arizona St. vs Colorado Col.,6344553
-2024/11/08,Canisius vs Air Force,6344540
-2024/11/09,Merrimack vs UConn,6344564
-2024/11/09,Niagara vs Army West Point,6344567
-2024/11/09,Sacred Heart vs Mercyhurst,6344568
-2024/11/09,Alas. Fairbanks vs Union (NY),6344569
-2024/11/09,RIT vs Bentley,6344566
-2024/11/09,Ohio St. vs Michigan St.,6344279
-2024/11/09,Boston U. vs UMass Lowell,6344571
-2024/11/09,Lake Superior St. vs Northern Mich.,6344574
-2024/11/09,Michigan Tech vs Ferris St.,6344575
-2024/11/09,Harvard vs Quinnipiac,6344578
-2024/11/09,Minnesota vs Wisconsin,6344224
-2024/11/09,Notre Dame vs Michigan,6344256
-2024/11/09,Providence vs Northeastern,6344563
-2024/11/09,Miami (OH) vs St. Cloud St.,6344565
-2024/11/09,Massachusetts vs Vermont,6344580
-2024/11/09,Stonehill vs Clarkson,6344579
-2024/11/09,Yale vs Colgate,6344581
-2024/11/09,Dartmouth vs Princeton,6344583
-2024/11/09,LIU vs New Hampshire,6344584
-2024/11/09,Brown vs Cornell,6344577
-2024/11/09,St. Thomas (MN) vs Minnesota St.,6344572
-2024/11/09,Bemidji St. vs Augustana (SD),6344573
-2024/11/09,North Dakota vs Minn. Duluth,6344576
-2024/11/09,Arizona St. vs Colorado Col.,6344570
-2024/11/09,Western Mich. vs Omaha,6344585
-2024/11/09,Lindenwood vs Denver,6344582
-2024/11/10,Maine vs Boston College,6344586
-2024/11/10,Canisius vs Air Force,6344587
-2024/11/12,Merrimack vs Stonehill,6344588
-2024/11/14,Providence vs Massachusetts,6344589
-2024/11/14,Bemidji St. vs Minnesota,6344225
-2024/11/15,Boston College vs UConn,6344590
-2024/11/15,Omaha vs Arizona St.,6344591
-2024/11/15,UMass Lowell vs Vermont,6344596
-2024/11/15,Colorado Col. vs Western Mich.,6344597
-2024/11/15,Wisconsin vs Penn St.,6344186
-2024/11/15,Notre Dame vs Michigan St.,6344281
-2024/11/15,American Int'l vs Bentley,6344592
-2024/11/15,St. Lawrence vs Union (NY),6344594
-2024/11/15,LIU vs Stonehill,6344595
-2024/11/15,Robert Morris vs Sacred Heart,6344593
-2024/11/15,Cornell vs Dartmouth,6344598
-2024/11/15,Boston U. vs Maine,6344599
-2024/11/15,Colgate vs Harvard,6344600
-2024/11/15,Holy Cross vs Niagara,6344602
-2024/11/15,Princeton vs Yale,6344603
-2024/11/15,Northeastern vs New Hampshire,6344604
-2024/11/15,Quinnipiac vs Brown,6344605
-2024/11/15,Clarkson vs Rensselaer,6344601
-2024/11/15,Minn. Duluth vs Miami (OH),6344606
-2024/11/15,Army West Point vs RIT,6344607
-2024/11/15,Ferris St. vs Lake Superior St.,6344612
-2024/11/15,Northern Mich. vs Minnesota St.,6344608
-2024/11/15,Denver vs North Dakota,6344609
-2024/11/15,Bowling Green vs St. Thomas (MN),6344610
-2024/11/15,Ohio St. vs Lindenwood,6344298
-2024/11/15,Mercyhurst vs Air Force,6344613
-2024/11/15,Alas. Fairbanks vs Alas. Anchorage,6344611
-2024/11/16,Omaha vs Arizona St.,6344615
-2024/11/16,Ohio St. vs Lindenwood,6344297
-2024/11/16,Robert Morris vs Sacred Heart,6344617
-2024/11/16,Clarkson vs Union (NY),6344618
-2024/11/16,LIU vs Stonehill,6344619
-2024/11/16,Holy Cross vs Niagara,6344620
-2024/11/16,Massachusetts vs Providence,6344614
-2024/11/16,American Int'l vs Bentley,6344622
-2024/11/16,UMass Lowell vs Vermont,6344623
-2024/11/16,Colorado Col. vs Western Mich.,6344624
-2024/11/16,Lake Superior St. vs Ferris St.,6344628
-2024/11/16,Minnesota vs Bemidji St.,6344226
-2024/11/16,Quinnipiac vs Yale,6344616
-2024/11/16,New Hampshire vs Northeastern,6344629
-2024/11/16,Cornell vs Harvard,6344632
-2024/11/16,Boston U. vs Maine,6344631
-2024/11/16,St. Lawrence vs Rensselaer,6344633
-2024/11/16,Princeton vs Brown,6344634
-2024/11/16,Colgate vs Dartmouth,6344630
-2024/11/16,Minn. Duluth vs Miami (OH),6344635
-2024/11/16,Army West Point vs RIT,6344636
-2024/11/16,Northern Mich. vs Minnesota St.,6344625
-2024/11/16,Denver vs North Dakota,6344626
-2024/11/16,Bowling Green vs St. Thomas (MN),6344627
-2024/11/16,Wisconsin vs Penn St.,6344187
-2024/11/16,Notre Dame vs Michigan St.,6344280
-2024/11/16,Alas. Fairbanks vs Alas. Anchorage,6344621
-2024/11/16,Mercyhurst vs Air Force,6344637
-2024/11/19,Boston College vs Providence,6344638
-2024/11/19,Stonehill vs American Int'l,6344639
-2024/11/22,UConn vs UMass Lowell,6344640
-2024/11/22,Canisius vs Mercyhurst,6344647
-2024/11/22,Northeastern vs Boston College,6344641
-2024/11/22,Michigan vs Penn St.,6344188
-2024/11/22,Air Force vs Bentley,6344644
-2024/11/22,Yale vs St. Lawrence,6344645
-2024/11/22,Holy Cross vs Army West Point,6344646
-2024/11/22,Quinnipiac vs Cornell,6344643
-2024/11/22,RIT vs Sacred Heart,6344649
-2024/11/22,Brown vs Clarkson,6344650
-2024/11/22,Princeton vs Colgate,6344651
-2024/11/22,Merrimack vs Boston U.,6344652
-2024/11/22,Harvard vs Massachusetts,6344655
-2024/11/22,Maine vs New Hampshire,6344657
-2024/11/22,Minnesota vs Notre Dame,6344227
-2024/11/22,Minnesota St. vs Michigan Tech,6344659
-2024/11/22,Robert Morris vs North Dakota,6344648
-2024/11/22,Western Mich. vs Minn. Duluth,6344656
-2024/11/22,St. Thomas (MN) vs Bemidji St.,6344658
-2024/11/22,Miami (OH) vs Omaha,6344660
-2024/11/22,Augustana (SD) vs Ferris St.,6344662
-2024/11/22,Stonehill vs Lindenwood,6344661
-2024/11/22,Arizona St. vs Denver,6344653
-2024/11/22,St. Cloud St. vs Colorado Col.,6344654
-2024/11/23,UConn vs UMass Lowell,6344665
-2024/11/23,Yale vs Clarkson,6344668
-2024/11/23,Air Force vs Bentley,6344667
-2024/11/23,Canisius vs Mercyhurst,6344670
-2024/11/23,Stonehill vs Lindenwood,6344669
-2024/11/23,Niagara vs American Int'l,6344642
-2024/11/23,LIU vs Providence,6344664
-2024/11/23,Western Mich. vs Minn. Duluth,6344671
-2024/11/23,Minnesota vs Notre Dame,6344228
-2024/11/23,Minnesota St. vs Michigan Tech,6344676
-2024/11/23,Princeton vs Cornell,6344678
-2024/11/23,Boston College vs Northeastern,6344663
-2024/11/23,Quinnipiac vs Colgate,6344681
-2024/11/23,Brown vs St. Lawrence,6344679
-2024/11/23,RIT vs Sacred Heart,6344680
-2024/11/23,Robert Morris vs North Dakota,6344672
-2024/11/23,St. Thomas (MN) vs Bemidji St.,6344675
-2024/11/23,Augustana (SD) vs Ferris St.,6344682
-2024/11/23,Michigan vs Penn St.,6344189
-2024/11/23,Arizona St. vs Denver,6344673
-2024/11/23,St. Cloud St. vs Colorado Col.,6344674
-2024/11/23,Miami (OH) vs Omaha,6344683
-2024/11/23,Lake Superior St. vs Alas. Anchorage,6344677
-2024/11/24,Niagara vs American Int'l,6344666
-2024/11/24,Vermont vs Massachusetts,6344684
-2024/11/24,Lake Superior St. vs Alas. Anchorage,6344685
-2024/11/26,Colgate vs Penn St.,6344190
-2024/11/26,Army West Point vs Stonehill,6344686
-2024/11/27,Colgate vs Penn St.,6344191
-2024/11/29,Boston U. vs Merrimack,6344327
-2024/11/29,Army West Point vs Massachusetts,6344688
-2024/11/29,St. Lawrence vs UMass Lowell,6344316
-2024/11/29,American Int'l vs Robert Morris,6344689
-2024/11/29,Notre Dame vs Harvard,6344328
-2024/11/29,Michigan vs Western Mich.,6344257
-2024/11/29,Lindenwood vs Michigan St.,6344282
-2024/11/29,Ohio St. vs Princeton,6344300
-2024/11/29,Dartmouth vs Boston College,6344687
-2024/11/29,Sacred Heart vs Holy Cross,6344690
-2024/11/29,RIT vs New Hampshire,6344692
-2024/11/29,Air Force vs Brown,6344693
-2024/11/29,Union (NY) vs Niagara,6344691
-2024/11/29,Michigan Tech vs Bowling Green,6344695
-2024/11/29,Yale vs LIU,6344698
-2024/11/29,Alas. Fairbanks vs Minnesota,6344229
-2024/11/29,Alas. Anchorage vs Wisconsin,6348412
-2024/11/29,Northern Mich. vs Augustana (SD),6344694
-2024/11/29,North Dakota vs Bemidji St.,6344696
-2024/11/29,Lake Superior St. vs St. Thomas (MN),6344697
-2024/11/29,Providence vs Clarkson,6344317
-2024/11/30,Merrimack vs Harvard,6344329
-2024/11/30,Notre Dame vs Boston U.,6344330
-2024/11/30,Maine vs Rensselaer,6344700
-2024/11/30,Ohio St. vs Princeton,6344299
-2024/11/30,St. Lawrence vs Providence,6344318
-2024/11/30,Air Force vs Brown,6344702
-2024/11/30,American Int'l vs Robert Morris,6344703
-2024/11/30,Alas. Fairbanks vs Minnesota,6344230
-2024/11/30,Western Mich. vs Michigan,6344258
-2024/11/30,RIT vs New Hampshire,6344701
-2024/11/30,Union (NY) vs Niagara,6344708
-2024/11/30,Sacred Heart vs Holy Cross,6344707
-2024/11/30,Bemidji St. vs North Dakota,6344704
-2024/11/30,Northern Mich. vs Augustana (SD),6344705
-2024/11/30,Lake Superior St. vs St. Thomas (MN),6344706
-2024/11/30,Michigan Tech vs Bowling Green,6344709
-2024/11/30,Yale vs LIU,6344710
-2024/11/30,UMass Lowell vs Clarkson,6344319
-2024/11/30,Quinnipiac vs Cornell,6344711
-2024/11/30,Alas. Anchorage vs Wisconsin,6348413
-2024/12/01,Bentley vs Northeastern,6344699
-2024/12/01,Maine vs Rensselaer,6344712
-2024/12/01,Lindenwood vs Michigan St.,6344283
-2024/12/01,Dartmouth vs Vermont,6344713
-2024/12/03,Army West Point vs Sacred Heart,6344714
-2024/12/03,Canisius vs RIT,6344715
-2024/12/04,UConn vs Boston College,6344716
-2024/12/04,Alas. Anchorage vs Stonehill,6344717
-2024/12/05,Penn St. vs Ohio St.,6344193
-2024/12/06,Holy Cross vs American Int'l,6344718
-2024/12/06,New Hampshire vs Northeastern,6344724
-2024/12/06,Denver vs Western Mich.,6344727
-2024/12/06,Penn St. vs Ohio St.,6344192
-2024/12/06,Rensselaer vs Quinnipiac,6344721
-2024/12/06,Sacred Heart vs Canisius,6344722
-2024/12/06,Bentley vs Mercyhurst,6344723
-2024/12/06,Colgate vs Cornell,6344720
-2024/12/06,Robert Morris vs RIT,6344725
-2024/12/06,Alas. Anchorage vs Merrimack,6344728
-2024/12/06,Colorado Col. vs Providence,6344729
-2024/12/06,St. Lawrence vs Dartmouth,6344730
-2024/12/06,Clarkson vs Harvard,6344731
-2024/12/06,Union (NY) vs Princeton,6344732
-2024/12/06,LIU vs Vermont,6344733
-2024/12/06,North Dakota vs Miami (OH),6344734
-2024/12/06,Ferris St. vs Northern Mich.,6344738
-2024/12/06,St. Thomas (MN) vs Michigan Tech,6344742
-2024/12/06,Bemidji St. vs Lake Superior St.,6344739
-2024/12/06,Boston College vs UMass Lowell,6344740
-2024/12/06,Michigan vs Minnesota,6344231
-2024/12/06,Michigan St. vs Wisconsin,6344284
-2024/12/06,Minn. Duluth vs Arizona St.,6344719
-2024/12/06,Bowling Green vs Minnesota St.,6344736
-2024/12/06,Omaha vs St. Cloud St.,6344741
-2024/12/06,Niagara vs Air Force,6344735
-2024/12/06,Augustana (SD) vs Alas. Fairbanks,6344737
-2024/12/07,Union (NY) vs Quinnipiac,6344745
-2024/12/07,Bentley vs Mercyhurst,6344748
-2024/12/07,Robert Morris vs RIT,6344749
-2024/12/07,Sacred Heart vs Canisius,6344747
-2024/12/07,Massachusetts vs Boston U.,6344754
-2024/12/07,LIU vs Vermont,6344755
-2024/12/07,Denver vs Western Mich.,6344752
-2024/12/07,Minn. Duluth vs Arizona St.,6344746
-2024/12/07,Colorado Col. vs Providence,6344743
-2024/12/07,Michigan vs Minnesota,6344232
-2024/12/07,Ferris St. vs Northern Mich.,6344757
-2024/12/07,Bemidji St. vs Lake Superior St.,6344758
-2024/12/07,St. Thomas (MN) vs Michigan Tech,6344768
-2024/12/07,Clarkson vs Dartmouth,6344761
-2024/12/07,Brown vs Northeastern,6344759
-2024/12/07,Alas. Anchorage vs Merrimack,6344760
-2024/12/07,Omaha vs St. Cloud St.,6344753
-2024/12/07,Cornell vs Colgate,6344762
-2024/12/07,Stonehill vs Maine,6344763
-2024/12/07,St. Lawrence vs Harvard,6344764
-2024/12/07,Rensselaer vs Princeton,6344765
-2024/12/07,Niagara vs Air Force,6344750
-2024/12/07,North Dakota vs Miami (OH),6344766
-2024/12/07,Bowling Green vs Minnesota St.,6344756
-2024/12/07,Michigan St. vs Wisconsin,6344285
-2024/12/07,Augustana (SD) vs Alas. Fairbanks,6344767
-2024/12/08,Stonehill vs Maine,6344769
-2024/12/09,UMass Lowell vs Boston College,6344770
-2024/12/11,Boston U. vs Massachusetts,6344771
-2024/12/12,Penn St. vs Army West Point,6344194
-2024/12/12,Augustana (SD) vs Alas. Anchorage,6344772
-2024/12/13,Wisconsin vs Michigan,6344261
-2024/12/13,Notre Dame vs Ohio St.,6344302
-2024/12/13,Vermont vs Union (NY),6344774
-2024/12/13,New Hampshire vs Dartmouth,6344775
-2024/12/13,Northern Mich. vs Bowling Green,6344780
-2024/12/13,Stonehill vs LIU,6344783
-2024/12/13,Augustana (SD) vs Alas. Anchorage,6344773
-2024/12/13,Lake Superior St. vs Minnesota St.,6344778
-2024/12/13,St. Cloud St. vs North Dakota,6344779
-2024/12/13,Michigan Tech vs Bemidji St.,6344781
-2024/12/13,Lindenwood vs Omaha,6344782
-2024/12/13,Michigan St. vs Minnesota,6344233
-2024/12/13,Denver vs Colorado Col.,6344777
-2024/12/14,Robert Morris vs Canisius,6344784
-2024/12/14,Vermont vs Union (NY),6344785
-2024/12/14,Michigan St. vs Minnesota,6344234
-2024/12/14,Wisconsin vs Michigan,6344262
-2024/12/14,Notre Dame vs Ohio St.,6344301
-2024/12/14,Rensselaer vs Mercyhurst,6344789
-2024/12/14,Northeastern vs Merrimack,6344790
-2024/12/14,Lake Superior St. vs Minnesota St.,6344786
-2024/12/14,St. Cloud St. vs North Dakota,6344787
-2024/12/14,Michigan Tech vs Bemidji St.,6344788
-2024/12/14,Northern Mich. vs Bowling Green,6344792
-2024/12/14,Stonehill vs LIU,6344794
-2024/12/14,Lindenwood vs Omaha,6344793
-2024/12/14,Colorado Col. vs Denver,6344791
-2024/12/15,Robert Morris vs Canisius,6344796
-2024/12/15,Rensselaer vs Mercyhurst,6344797
-2024/12/28,Sacred Heart vs American Int'l,6344800
-2024/12/28,New Hampshire vs Rensselaer,6344801
-2024/12/28,Providence vs Northeastern,6344321
-2024/12/28,Princeton vs Army West Point,6344802
-2024/12/28,Alas. Fairbanks vs UConn,6344799
-2024/12/28,Ferris St. vs Wisconsin,6344324
-2024/12/28,Alas. Anchorage vs Dartmouth,6344320
-2024/12/29,LIU vs Brown,6344804
-2024/12/29,Ferris St. vs Alas. Fairbanks,6344325
-2024/12/29,RIT vs Bowling Green,6344805
-2024/12/29,Western Mich. vs Michigan Tech,6344309
-2024/12/29,Northeastern vs Alas. Anchorage,6344322
-2024/12/29,American Int'l vs Quinnipiac,6344807
-2024/12/29,Bentley vs Maine,6344808
-2024/12/29,Boston U. vs Yale,6344810
-2024/12/29,St. Thomas (MN) vs St. Cloud St.,6344809
-2024/12/29,Wisconsin vs UConn,6344326
-2024/12/29,Vermont vs Army West Point,6344803
-2024/12/29,Northern Mich. vs Michigan St.,6344286
-2024/12/29,Providence vs Dartmouth,6344323
-2024/12/30,Northern Mich. vs Michigan Tech,6344310
-2024/12/30,Western Mich. vs Michigan St.,6344311
-2024/12/30,Wisconsin vs UConn,6382719
-2024/12/30,Providence vs Dartmouth,6382720
-2024/12/31,Holy Cross vs LIU,6344812
-2024/12/31,Minn. Duluth vs Bemidji St.,6344813
-2024/12/31,Western Mich. vs Michigan St.,6383573
-2025/01/01,Quinnipiac vs Harvard,6344814
-2025/01/02,Wisconsin vs Michigan St.,6344287
-2025/01/03,Assumption vs LIU,6344817
-2025/01/03,Michigan Tech vs UMass Lowell,6344818
-2025/01/03,Ohio St. vs Michigan,6344263
-2025/01/03,Massachusetts vs Cornell,6344312
-2025/01/03,Alas. Anchorage vs Western Mich.,6344821
-2025/01/03,American Int'l vs Stonehill,6344815
-2025/01/03,Merrimack vs Army West Point,6344819
-2025/01/03,Air Force vs Sacred Heart,6344820
-2025/01/03,Denver vs Maine,6344822
-2025/01/03,Bentley vs Niagara,6344824
-2025/01/03,Rensselaer vs Yale,6344826
-2025/01/03,Union (NY) vs Brown,6344827
-2025/01/03,New Hampshire vs Princeton,6344825
-2025/01/03,Bowling Green vs Lake Superior St.,6344830
-2025/01/03,Mercyhurst vs Minnesota,6344235
-2025/01/03,Alas. Fairbanks vs Minn. Duluth,6344829
-2025/01/03,St. Thomas (MN) vs Lindenwood,6344831
-2025/01/03,Robert Morris vs Arizona St.,6344313
-2025/01/03,Augustana (SD) vs Colorado Col.,6344823
-2025/01/03,Penn St. vs Notre Dame,6344211
-2025/01/03,Holy Cross vs Omaha,6344816
-2025/01/04,New Hampshire vs Princeton,6344838
-2025/01/04,Northeastern vs Quinnipiac,6344836
-2025/01/04,Massachusetts vs Robert Morris,6344315
-2025/01/04,Air Force vs Sacred Heart,6344840
-2025/01/04,Bentley vs Niagara,6344841
-2025/01/04,Rensselaer vs Brown,6344842
-2025/01/04,St. Thomas (MN) vs Lindenwood,6344839
-2025/01/04,Mercyhurst vs Minnesota,6344236
-2025/01/04,Augustana (SD) vs Colorado Col.,6344837
-2025/01/04,Alas. Anchorage vs Western Mich.,6344844
-2025/01/04,Michigan Tech vs Holy Cross,6344834
-2025/01/04,UConn vs Harvard,6344833
-2025/01/04,Omaha vs UMass Lowell,6344835
-2025/01/04,St. Lawrence vs Vermont,6344847
-2025/01/04,Denver vs Maine,6344848
-2025/01/04,Union (NY) vs Yale,6344849
-2025/01/04,Alas. Fairbanks vs Minn. Duluth,6344846
-2025/01/04,Bowling Green vs Lake Superior St.,6344850
-2025/01/04,St. Anselm vs LIU,6344851
-2025/01/04,Wisconsin vs Michigan St.,6344288
-2025/01/04,Cornell vs Arizona St.,6344314
-2025/01/05,Dartmouth vs Merrimack,6344852
-2025/01/05,Ohio St. vs Michigan,6344264
-2025/01/05,Penn St. vs Notre Dame,6344212
-2025/01/05,Cornell vs Arizona St.,6384205
-2025/01/06,Stonehill vs Quinnipiac,6344853
-2025/01/07,Army West Point vs American Int'l,6344854
-2025/01/07,Providence vs Brown,6344855
-2025/01/10,Minnesota vs Ohio St.,6344237
-2025/01/10,Michigan St. vs Penn St.,6344195
-2025/01/10,Alas. Anchorage vs Niagara,6344858
-2025/01/10,Cornell vs Sacred Heart,6344862
-2025/01/10,Robert Morris vs Holy Cross,6344863
-2025/01/10,Massachusetts vs Northeastern,6344856
-2025/01/10,RIT vs Canisius,6344859
-2025/01/10,Rensselaer vs St. Lawrence,6344860
-2025/01/10,Mercyhurst vs Army West Point,6344861
-2025/01/10,Merrimack vs Boston College,6344857
-2025/01/10,Lindenwood vs Stonehill,6344864
-2025/01/10,Union (NY) vs Clarkson,6344865
-2025/01/10,Yale vs Dartmouth,6344866
-2025/01/10,Vermont vs Boston U.,6344868
-2025/01/10,Quinnipiac vs Princeton,6344872
-2025/01/10,UConn vs New Hampshire,6344874
-2025/01/10,Brown vs Harvard,6344870
-2025/01/10,Michigan vs Notre Dame,6348364
-2025/01/10,Bemidji St. vs Bowling Green,6344878
-2025/01/10,Lake Superior St. vs Michigan Tech,6344881
-2025/01/10,Minnesota St. vs Northern Mich.,6344880
-2025/01/10,Maine vs UMass Lowell,6344882
-2025/01/10,LIU vs Colgate,6344867
-2025/01/10,St. Cloud St. vs Minn. Duluth,6344871
-2025/01/10,Colorado Col. vs Omaha,6344875
-2025/01/10,Ferris St. vs St. Thomas (MN),6344879
-2025/01/10,Miami (OH) vs Denver,6344869
-2025/01/10,North Dakota vs Arizona St.,6344873
-2025/01/10,Bentley vs Air Force,6344876
-2025/01/11,Minnesota vs Ohio St.,6344238
-2025/01/11,Northeastern vs Massachusetts,6344884
-2025/01/11,Michigan St. vs Penn St.,6344196
-2025/01/11,New Hampshire vs UConn,6344886
-2025/01/11,Mercyhurst vs Army West Point,6344885
-2025/01/11,LIU vs Colgate,6344887
-2025/01/11,Cornell vs Sacred Heart,6344888
-2025/01/11,Lindenwood vs Stonehill,6344889
-2025/01/11,Vermont vs Boston U.,6344890
-2025/01/11,Robert Morris vs Holy Cross,6344883
-2025/01/11,Maine vs UMass Lowell,6344895
-2025/01/11,Michigan vs Notre Dame,6348365
-2025/01/11,Minnesota St. vs Northern Mich.,6344897
-2025/01/11,Lake Superior St. vs Michigan Tech,6344898
-2025/01/11,Union (NY) vs St. Lawrence,6344901
-2025/01/11,St. Cloud St. vs Minn. Duluth,6344894
-2025/01/11,Princeton vs Quinnipiac,6344899
-2025/01/11,RIT vs Canisius,6344900
-2025/01/11,North Dakota vs Arizona St.,6344891
-2025/01/11,Boston College vs Merrimack,6344902
-2025/01/11,Rensselaer vs Clarkson,6344903
-2025/01/11,Brown vs Dartmouth,6344904
-2025/01/11,Yale vs Harvard,6344905
-2025/01/11,Alas. Anchorage vs Niagara,6344906
-2025/01/11,Bentley vs Air Force,6344892
-2025/01/11,Ferris St. vs St. Thomas (MN),6344896
-2025/01/11,Bemidji St. vs Bowling Green,6344909
-2025/01/11,Miami (OH) vs Denver,6344893
-2025/01/11,Colorado Col. vs Omaha,6344907
-2025/01/14,Harvard vs Boston College,6344910
-2025/01/14,Canisius vs Robert Morris,6344911
-2025/01/17,Northeastern vs Vermont,6344912
-2025/01/17,RIT vs Robert Morris,6344918
-2025/01/17,Providence vs Boston College,6344920
-2025/01/17,Canisius vs Penn St.,6344197
-2025/01/17,Colgate vs Quinnipiac,6344913
-2025/01/17,Michigan St. vs Michigan,6348408
-2025/01/17,Niagara vs Mercyhurst,6344915
-2025/01/17,American Int'l vs Sacred Heart,6344916
-2025/01/17,Dartmouth vs Union (NY),6344917
-2025/01/17,Holy Cross vs Bentley,6344914
-2025/01/17,Massachusetts vs Merrimack,6344919
-2025/01/17,UConn vs Maine,6344921
-2025/01/17,Harvard vs Rensselaer,6344923
-2025/01/17,Cornell vs Princeton,6344924
-2025/01/17,Boston U. vs New Hampshire,6344925
-2025/01/17,Clarkson vs Yale,6344926
-2025/01/17,St. Lawrence vs Brown,6344927
-2025/01/17,Air Force vs Army West Point,6344936
-2025/01/17,Omaha vs Miami (OH),6344928
-2025/01/17,Bowling Green vs Ferris St.,6344933
-2025/01/17,LIU vs Wisconsin,6344207
-2025/01/17,Notre Dame vs Minnesota,6344239
-2025/01/17,Michigan Tech vs Minnesota St.,6344929
-2025/01/17,Western Mich. vs North Dakota,6344930
-2025/01/17,Lindenwood vs Augustana (SD),6344931
-2025/01/17,Northern Mich. vs Bemidji St.,6344932
-2025/01/17,St. Thomas (MN) vs Lake Superior St.,6344935
-2025/01/17,Arizona St. vs St. Cloud St.,6344934
-2025/01/17,Minn. Duluth vs Colorado Col.,6344922
-2025/01/18,Clarkson vs Brown,6344941
-2025/01/18,Air Force vs Army West Point,6344946
-2025/01/18,Harvard vs Union (NY),6344940
-2025/01/18,Canisius vs Penn St.,6344198
-2025/01/18,Notre Dame vs Minnesota,6344240
-2025/01/18,Northeastern vs Vermont,6344937
-2025/01/18,Holy Cross vs Bentley,6344942
-2025/01/18,Stonehill vs UMass Lowell,6344943
-2025/01/18,New Hampshire vs Boston U.,6344955
-2025/01/18,LIU vs Wisconsin,6344208
-2025/01/18,Boston College vs Providence,6344938
-2025/01/18,Merrimack vs Massachusetts,6344939
-2025/01/18,Arizona St. vs St. Cloud St.,6344944
-2025/01/18,Cornell vs Quinnipiac,6344951
-2025/01/18,American Int'l vs Sacred Heart,6344952
-2025/01/18,UConn vs Maine,6344954
-2025/01/18,Dartmouth vs Rensselaer,6344956
-2025/01/18,Mercyhurst vs Niagara,6344957
-2025/01/18,Colgate vs Princeton,6344958
-2025/01/18,St. Lawrence vs Yale,6344959
-2025/01/18,RIT vs Robert Morris,6344953
-2025/01/18,Omaha vs Miami (OH),6344960
-2025/01/18,Michigan Tech vs Minnesota St.,6344947
-2025/01/18,Western Mich. vs North Dakota,6344948
-2025/01/18,Lindenwood vs Augustana (SD),6344949
-2025/01/18,Northern Mich. vs Bemidji St.,6344950
-2025/01/18,Bowling Green vs Ferris St.,6344961
-2025/01/18,St. Thomas (MN) vs Lake Superior St.,6344963
-2025/01/18,Michigan vs Michigan St.,6348410
-2025/01/18,Minn. Duluth vs Colorado Col.,6344945
-2025/01/18,Alas. Fairbanks vs Alas. Anchorage,6344962
-2025/01/21,Bentley vs American Int'l,6344964
-2025/01/21,St. Anselm vs Stonehill,6344965
-2025/01/21,Brown vs Merrimack,6344966
-2025/01/24,Canisius vs American Int'l,6344968
-2025/01/24,UConn vs Quinnipiac,6344332
-2025/01/24,Ohio St. vs Penn St.,6344199
-2025/01/24,Minnesota vs Michigan St.,6344241
-2025/01/24,Alas. Fairbanks vs Massachusetts,6344967
-2025/01/24,Harvard vs Cornell,6344969
-2025/01/24,Clarkson vs St. Lawrence,6344970
-2025/01/24,Army West Point vs Robert Morris,6344971
-2025/01/24,Miami (OH) vs Western Mich.,6344973
-2025/01/24,Dartmouth vs Colgate,6344974
-2025/01/24,Boston College vs Boston U.,6344975
-2025/01/24,Vermont vs New Hampshire,6344977
-2025/01/24,Niagara vs RIT,6344979
-2025/01/24,Lindenwood vs Notre Dame,6345279
-2025/01/24,Northern Mich. vs Michigan Tech,6344980
-2025/01/24,Minnesota St. vs Ferris St.,6344981
-2025/01/24,Providence vs UMass Lowell,6344983
-2025/01/24,Yale vs Sacred Heart,6344331
-2025/01/24,Augustana (SD) vs Bowling Green,6344984
-2025/01/24,Michigan vs Wisconsin,6344265
-2025/01/24,St. Cloud St. vs Omaha,6344978
-2025/01/24,Denver vs Minn. Duluth,6344982
-2025/01/24,Holy Cross vs Air Force,6344972
-2025/01/24,Colorado Col. vs Arizona St.,6344976
-2025/01/25,Canisius vs American Int'l,6344990
-2025/01/25,Yale vs Quinnipiac,6344333
-2025/01/25,UMass Lowell vs Providence,6344986
-2025/01/25,Ohio St. vs Penn St.,6344200
-2025/01/25,Army West Point vs Robert Morris,6344989
-2025/01/25,Niagara vs RIT,6344993
-2025/01/25,Minnesota vs Michigan St.,6344242
-2025/01/25,Alas. Fairbanks vs Massachusetts,6344988
-2025/01/25,Union (NY) vs Rensselaer,6344995
-2025/01/25,Miami (OH) vs Western Mich.,6344994
-2025/01/25,Lindenwood vs Notre Dame,6345280
-2025/01/25,Michigan Tech vs Northern Mich.,6344997
-2025/01/25,Minnesota St. vs Ferris St.,6344998
-2025/01/25,Dartmouth vs Cornell,6345000
-2025/01/25,Merrimack vs Northeastern,6344985
-2025/01/25,Holy Cross vs Air Force,6344991
-2025/01/25,Colorado Col. vs Arizona St.,6344992
-2025/01/25,Vermont vs New Hampshire,6345004
-2025/01/25,St. Lawrence vs Clarkson,6345001
-2025/01/25,Harvard vs Colgate,6345002
-2025/01/25,Bentley vs Princeton,6345003
-2025/01/25,Boston U. vs Boston College,6344987
-2025/01/25,Bemidji St. vs St. Thomas (MN),6344996
-2025/01/25,Denver vs Minn. Duluth,6344999
-2025/01/25,Augustana (SD) vs Bowling Green,6345006
-2025/01/25,UConn vs Sacred Heart,6344334
-2025/01/25,St. Cloud St. vs Omaha,6345005
-2025/01/25,Michigan vs Wisconsin,6344266
-2025/01/26,Stonehill vs Brown,6345007
-2025/01/26,Bentley vs Princeton,6345009
-2025/01/26,Bemidji St. vs St. Thomas (MN),6345008
-2025/01/30,Michigan St. vs Ohio St.,6344303
-2025/01/31,Stonehill vs LIU,6345015
-2025/01/31,Yale vs Union (NY),6345017
-2025/01/31,Northeastern vs Maine,6345021
-2025/01/31,Penn St. vs Michigan,6344267
-2025/01/31,UMass Lowell vs Boston College,6345013
-2025/01/31,Cornell vs St. Lawrence,6345016
-2025/01/31,Mercyhurst vs Robert Morris,6345018
-2025/01/31,UConn vs Providence,6345019
-2025/01/31,Colgate vs Clarkson,6345020
-2025/01/31,Brown vs Rensselaer,6345023
-2025/01/31,Princeton vs Harvard,6345024
-2025/01/31,Sacred Heart vs Niagara,6345025
-2025/01/31,New Hampshire vs Boston U.,6345022
-2025/01/31,Arizona St. vs Miami (OH),6345026
-2025/01/31,Bowling Green vs Northern Mich.,6345030
-2025/01/31,Wisconsin vs Minnesota,6344243
-2025/01/31,Lake Superior St. vs Augustana (SD),6345028
-2025/01/31,Ferris St. vs Bemidji St.,6345029
-2025/01/31,St. Thomas (MN) vs Minnesota St.,6345027
-2025/01/31,Simon Fraser vs Lindenwood,6345032
-2025/01/31,North Dakota vs St. Cloud St.,6345033
-2025/01/31,RIT vs Air Force,6345034
-2025/01/31,Alas. Anchorage vs Alas. Fairbanks,6345031
-2025/01/31,Merrimack vs Massachusetts,6345014
-2025/01/31,Western Mich. vs Colorado Col.,6345012
-2025/01/31,Omaha vs Denver,6345011
-2025/01/31,Michigan St. vs Ohio St.,6344304
-2025/01/31,Quinnipiac vs Dartmouth,6345010
-2025/02/01,Stonehill vs LIU,6345038
-2025/02/01,Simon Fraser vs Lindenwood,6345039
-2025/02/01,Brown vs Union (NY),6345040
-2025/02/01,Sacred Heart vs Niagara,6345041
-2025/02/01,Penn St. vs Michigan,6344213
-2025/02/01,Wisconsin vs Minnesota,6344244
-2025/02/01,Merrimack vs UMass Lowell,6345044
-2025/02/01,Bowling Green vs Northern Mich.,6345048
-2025/02/01,Princeton vs Dartmouth,6345053
-2025/02/01,North Dakota vs St. Cloud St.,6345043
-2025/02/01,Cornell vs Clarkson,6345051
-2025/02/01,Mercyhurst vs Robert Morris,6345052
-2025/02/01,Yale vs Rensselaer,6345054
-2025/02/01,Colgate vs St. Lawrence,6345050
-2025/02/01,RIT vs Air Force,6345042
-2025/02/01,Arizona St. vs Miami (OH),6345055
-2025/02/01,Minnesota St. vs St. Thomas (MN),6345047
-2025/02/01,Ferris St. vs Bemidji St.,6345046
-2025/02/01,Lake Superior St. vs Augustana (SD),6345045
-2025/02/01,Canisius vs Holy Cross,6345049
-2025/02/01,Alas. Anchorage vs Alas. Fairbanks,6345056
-2025/02/01,Omaha vs Denver,6345036
-2025/02/01,Western Mich. vs Colorado Col.,6345037
-2025/02/01,Providence vs UConn,6345035
-2025/02/02,Canisius vs Holy Cross,6345058
-2025/02/02,Massachusetts vs Maine,6345057
-2025/02/03,Boston U. vs Harvard,6345059
-2025/02/03,Boston College vs Northeastern,6345060
-2025/02/04,Army West Point vs Bentley,6345061
-2025/02/06,Brown vs Yale,6345062
-2025/02/06,Lindenwood vs LIU,6345063
-2025/02/07,St. Lawrence vs Quinnipiac,6345066
-2025/02/07,St. Cloud St. vs Western Mich.,6345072
-2025/02/07,Sacred Heart vs Army West Point,6345071
-2025/02/07,Michigan vs Michigan St.,6344268
-2025/02/07,Air Force vs Canisius,6345068
-2025/02/07,Robert Morris vs Bentley,6345069
-2025/02/07,American Int'l vs Mercyhurst,6345070
-2025/02/07,Rensselaer vs Cornell,6345067
-2025/02/07,Boston U. vs Merrimack,6345073
-2025/02/07,Maine vs Providence,6345074
-2025/02/07,Harvard vs Dartmouth,6345075
-2025/02/07,Clarkson vs Princeton,6345077
-2025/02/07,Boston College vs New Hampshire,6345079
-2025/02/07,Union (NY) vs Colgate,6345076
-2025/02/07,Ohio St. vs Notre Dame,6344305
-2025/02/07,Holy Cross vs RIT,6345080
-2025/02/07,St. Thomas (MN) vs Bowling Green,6345083
-2025/02/07,Northern Mich. vs Lake Superior St.,6345085
-2025/02/07,Bemidji St. vs Michigan Tech,6345084
-2025/02/07,Lindenwood vs LIU,6345087
-2025/02/07,Penn St. vs Wisconsin,6344214
-2025/02/07,Colorado Col. vs North Dakota,6345082
-2025/02/07,Minn. Duluth vs Omaha,6345086
-2025/02/07,Augustana (SD) vs Minnesota St.,6345081
-2025/02/07,Denver vs Arizona St.,6345078
-2025/02/07,Massachusetts vs UConn,6345064
-2025/02/07,Vermont vs UMass Lowell,6345065
-2025/02/08,American Int'l vs Mercyhurst,6345091
-2025/02/08,Sacred Heart vs Army West Point,6345092
-2025/02/08,Air Force vs Canisius,6345090
-2025/02/08,Holy Cross vs RIT,6345094
-2025/02/08,Bemidji St. vs Michigan Tech,6345095
-2025/02/08,Maine vs Providence,6345088
-2025/02/08,Robert Morris vs Bentley,6345097
-2025/02/08,St. Cloud St. vs Western Mich.,6345098
-2025/02/08,Ohio St. vs Notre Dame,6344306
-2025/02/08,Northern Mich. vs Lake Superior St.,6345101
-2025/02/08,Merrimack vs New Hampshire,6345106
-2025/02/08,Union (NY) vs Cornell,6345103
-2025/02/08,Penn St. vs Wisconsin,6344215
-2025/02/08,Clarkson vs Quinnipiac,6345102
-2025/02/08,Denver vs Arizona St.,6345093
-2025/02/08,Rensselaer vs Colgate,6345104
-2025/02/08,St. Lawrence vs Princeton,6345105
-2025/02/08,Augustana (SD) vs Minnesota St.,6345099
-2025/02/08,Colorado Col. vs North Dakota,6345100
-2025/02/08,St. Thomas (MN) vs Bowling Green,6345107
-2025/02/08,Michigan St. vs Michigan,6344269
-2025/02/08,Minn. Duluth vs Omaha,6345108
-2025/02/08,Alas. Anchorage vs Alas. Fairbanks,6345096
-2025/02/08,UMass Lowell vs UConn,6345089
-2025/02/09,Yale vs Brown,6345109
-2025/02/11,Canisius vs Niagara,6345110
-2025/02/12,Alas. Anchorage vs UConn,6345111
-2025/02/13,Mercyhurst vs Holy Cross,6345140
-2025/02/14,Alas. Anchorage vs LIU,6345115
-2025/02/14,Mercyhurst vs Holy Cross,6345116
-2025/02/14,Robert Morris vs Niagara,6345117
-2025/02/14,Plymouth St. vs Stonehill,6345121
-2025/02/14,Omaha vs Western Mich.,6345122
-2025/02/14,Minnesota vs Michigan,6344245
-2025/02/14,UMass Lowell vs Northeastern,6345112
-2025/02/14,Massachusetts vs Boston College,6345114
-2025/02/14,Canisius vs Bentley,6345118
-2025/02/14,Harvard vs St. Lawrence,6345119
-2025/02/14,Quinnipiac vs Union (NY),6345120
-2025/02/14,Boston U. vs Providence,6345124
-2025/02/14,Dartmouth vs Clarkson,6345125
-2025/02/14,New Hampshire vs Maine,6345126
-2025/02/14,Princeton vs Rensselaer,6345128
-2025/02/14,Colgate vs Yale,6345129
-2025/02/14,Cornell vs Brown,6345130
-2025/02/14,Vermont vs Merrimack,6345123
-2025/02/14,American Int'l vs RIT,6345131
-2025/02/14,Lake Superior St. vs Ferris St.,6381273
-2025/02/14,Arizona St. vs Minn. Duluth,6345134
-2025/02/14,Michigan Tech vs Augustana (SD),6345133
-2025/02/14,Alas. Fairbanks vs Lindenwood,6345135
-2025/02/14,Miami (OH) vs Colorado Col.,6345127
-2025/02/14,Army West Point vs Air Force,6345132
-2025/02/14,Notre Dame vs Penn St.,6344201
-2025/02/14,North Dakota vs Denver,6345113
-2025/02/14,Wisconsin vs Ohio St.,6344307
-2025/02/15,Alas. Anchorage vs LIU,6345141
-2025/02/15,Alas. Fairbanks vs Lindenwood,6345142
-2025/02/15,Princeton vs Union (NY),6345144
-2025/02/15,Harvard vs Clarkson,6345145
-2025/02/15,Canisius vs Bentley,6345143
-2025/02/15,Omaha vs Western Mich.,6345147
-2025/02/15,Minnesota vs Michigan,6344246
-2025/02/15,Lake Superior St. vs Ferris St.,6381274
-2025/02/15,Cornell vs Yale,6345156
-2025/02/15,Colgate vs Brown,6345157
-2025/02/15,Dartmouth vs St. Lawrence,6345151
-2025/02/15,Niagara vs Robert Morris,6345152
-2025/02/15,Vermont vs Merrimack,6345153
-2025/02/15,New Hampshire vs Maine,6345154
-2025/02/15,Quinnipiac vs Rensselaer,6345155
-2025/02/15,Army West Point vs Air Force,6345146
-2025/02/15,American Int'l vs RIT,6345158
-2025/02/15,Michigan Tech vs Augustana (SD),6345149
-2025/02/15,Arizona St. vs Minn. Duluth,6345150
-2025/02/15,Miami (OH) vs Colorado Col.,6345148
-2025/02/15,Northeastern vs UMass Lowell,6345136
-2025/02/15,North Dakota vs Denver,6345138
-2025/02/15,Notre Dame vs Penn St.,6344202
-2025/02/15,Boston College vs Massachusetts,6345139
-2025/02/15,Providence vs Boston U.,6345137
-2025/02/15,Wisconsin vs Ohio St.,6344308
-2025/02/18,Sacred Heart vs American Int'l,6345159
-2025/02/20,Bentley vs Holy Cross,6345160
-2025/02/21,Penn St. vs Michigan St.,6344216
-2025/02/21,LIU vs Stonehill,6345167
-2025/02/21,Yale vs Quinnipiac,6345162
-2025/02/21,Clarkson vs Cornell,6345163
-2025/02/21,Niagara vs Canisius,6345164
-2025/02/21,Air Force vs Robert Morris,6345165
-2025/02/21,Army West Point vs American Int'l,6345166
-2025/02/21,Maine vs UConn,6345169
-2025/02/21,Boston College vs Vermont,6345168
-2025/02/21,Rensselaer vs Dartmouth,6345170
-2025/02/21,St. Lawrence vs Colgate,6345171
-2025/02/21,Northeastern vs Boston U.,6345172
-2025/02/21,Union (NY) vs Harvard,6345173
-2025/02/21,Brown vs Princeton,6345174
-2025/02/21,Massachusetts vs New Hampshire,6345176
-2025/02/21,Denver vs Miami (OH),6345177
-2025/02/21,Mercyhurst vs RIT,6345178
-2025/02/21,Bowling Green vs Bemidji St.,6345161
-2025/02/21,Minnesota St. vs Lake Superior St.,6345184
-2025/02/21,Ferris St. vs Michigan Tech,6345182
-2025/02/21,St. Thomas (MN) vs Northern Mich.,6345181
-2025/02/21,Ohio St. vs Minnesota,6344247
-2025/02/21,Minn. Duluth vs North Dakota,6345179
-2025/02/21,Alas. Fairbanks vs Augustana (SD),6345180
-2025/02/21,Colorado Col. vs St. Cloud St.,6345185
-2025/02/21,Notre Dame vs Wisconsin,6345283
-2025/02/21,Western Mich. vs Arizona St.,6345175
-2025/02/21,Lindenwood vs Alas. Anchorage,6345183
-2025/02/22,American Int'l vs Army West Point,6345189
-2025/02/22,LIU vs Stonehill,6345190
-2025/02/22,Mercyhurst vs RIT,6345192
-2025/02/22,Penn St. vs Michigan St.,6344217
-2025/02/22,Ohio St. vs Minnesota,6344248
-2025/02/22,UMass Lowell vs Providence,6345188
-2025/02/22,Bentley vs Sacred Heart,6345193
-2025/02/22,St. Thomas (MN) vs Northern Mich.,6345198
-2025/02/22,Minnesota St. vs Lake Superior St.,6345200
-2025/02/22,Ferris St. vs Michigan Tech,6345199
-2025/02/22,Brown vs Quinnipiac,6345201
-2025/02/22,Air Force vs Robert Morris,6345203
-2025/02/22,Boston U. vs Northeastern,6345186
-2025/02/22,Western Mich. vs Arizona St.,6345191
-2025/02/22,Colorado Col. vs St. Cloud St.,6345194
-2025/02/22,St. Lawrence vs Cornell,6345202
-2025/02/22,Canisius vs Niagara,6345207
-2025/02/22,Union (NY) vs Dartmouth,6345204
-2025/02/22,Clarkson vs Colgate,6345205
-2025/02/22,Rensselaer vs Harvard,6345206
-2025/02/22,New Hampshire vs Massachusetts,6345208
-2025/02/22,Yale vs Princeton,6345209
-2025/02/22,Denver vs Miami (OH),6345210
-2025/02/22,Minn. Duluth vs North Dakota,6345195
-2025/02/22,Alas. Fairbanks vs Augustana (SD),6345196
-2025/02/22,Bowling Green vs Bemidji St.,6345197
-2025/02/22,Notre Dame vs Wisconsin,6345284
-2025/02/22,Lindenwood vs Alas. Anchorage,6345211
-2025/02/22,Boston College vs Vermont,6345187
-2025/02/25,Boston U. vs UConn,6345212
-2025/02/27,Michigan vs Ohio St.,6344270
-2025/02/27,UMass Lowell vs Massachusetts,6345213
-2025/02/28,Quinnipiac vs Clarkson,6345216
-2025/02/28,Vermont vs Maine,6345220
-2025/02/28,Princeton vs St. Lawrence,6345215
-2025/02/28,Cornell vs Union (NY),6345217
-2025/02/28,Merrimack vs Providence,6345219
-2025/02/28,North Dakota vs Western Mich.,6345218
-2025/02/28,Colgate vs Rensselaer,6345222
-2025/02/28,New Hampshire vs Boston College,6345223
-2025/02/28,Dartmouth vs Brown,6345225
-2025/02/28,Harvard vs Yale,6345224
-2025/02/28,Michigan St. vs Notre Dame,6348366
-2025/02/28,Lake Superior St. vs Bowling Green,6345227
-2025/02/28,Northern Mich. vs Ferris St.,6345229
-2025/02/28,Alas. Fairbanks vs LIU,6345232
-2025/02/28,Michigan Tech vs St. Thomas (MN),6345228
-2025/02/28,Miami (OH) vs Minn. Duluth,6345230
-2025/02/28,Arizona St. vs Omaha,6345231
-2025/02/28,Bemidji St. vs Minnesota St.,6345226
-2025/02/28,St. Cloud St. vs Denver,6345221
-2025/02/28,Northeastern vs UConn,6345214
-2025/02/28,Minnesota vs Penn St.,6344203
-2025/02/28,Michigan vs Ohio St.,6344271
-2025/03/01,Colgate vs Union (NY),6345235
-2025/03/01,North Dakota vs Western Mich.,6345236
-2025/03/01,Massachusetts vs UMass Lowell,6345238
-2025/03/01,Michigan St. vs Notre Dame,6348367
-2025/03/01,Northern Mich. vs Ferris St.,6345241
-2025/03/01,Vermont vs Maine,6345245
-2025/03/01,Cornell vs Rensselaer,6345246
-2025/03/01,Quinnipiac vs St. Lawrence,6345243
-2025/03/01,Princeton vs Clarkson,6345244
-2025/03/01,Dartmouth vs Yale,6345248
-2025/03/01,Harvard vs Brown,6345249
-2025/03/01,Boston College vs New Hampshire,6345247
-2025/03/01,Bemidji St. vs Minnesota St.,6345239
-2025/03/01,Michigan Tech vs St. Thomas (MN),6345240
-2025/03/01,Miami (OH) vs Minn. Duluth,6345242
-2025/03/01,Lake Superior St. vs Bowling Green,6345250
-2025/03/01,Alas. Fairbanks vs LIU,6345252
-2025/03/01,UConn vs Northeastern,6345233
-2025/03/01,St. Cloud St. vs Denver,6345237
-2025/03/01,Arizona St. vs Omaha,6345251
-2025/03/01,Minnesota vs Penn St.,6344204
-2025/03/01,Providence vs Merrimack,6345234
-2025/03/06,UConn vs Vermont,6345255
-2025/03/06,Providence vs Boston U.,6345253
-2025/03/06,Northeastern vs Merrimack,6345254
-2025/03/07,New Hampshire vs UMass Lowell,6345257
-2025/03/07,Western Mich. vs Miami (OH),6345259
-2025/03/07,Omaha vs North Dakota,6345260
-2025/03/07,Minn. Duluth vs St. Cloud St.,6345261
-2025/03/07,Colorado Col. vs Denver,6345258
-2025/03/07,Maine vs Massachusetts,6345256
-2025/03/08,Merrimack vs Boston College,6345263
-2025/03/08,Providence vs Northeastern,6345262
-2025/03/08,Minn. Duluth vs St. Cloud St.,6345265
-2025/03/08,Boston U. vs Vermont,6345268
-2025/03/08,UMass Lowell vs New Hampshire,6345269
-2025/03/08,Western Mich. vs Miami (OH),6345270
-2025/03/08,Omaha vs North Dakota,6345267
-2025/03/08,Denver vs Colorado Col.,6345266
-2025/03/08,Maine vs Massachusetts,6345264
+Date,Home_Team,Away_Team,game_id_number
+2024/10/04,Michigan St.,Lake Superior St.,6344272
+2024/10/04,Minnesota St.,Michigan,6344249
+2024/10/04,Bowling Green,Mercyhurst,6344336
+2024/10/04,Colgate,UConn,6344337
+2024/10/04,Miami (OH),Ferris St.,6344354
+2024/10/04,Arizona St.,Air Force,6344335
+2024/10/05,Michigan St.,Lake Superior St.,6344273
+2024/10/05,Minnesota St.,Michigan,6344250
+2024/10/05,Bemidji St.,Minn. Duluth,6344341
+2024/10/05,Massachusetts,Bentley,6344346
+2024/10/05,RIT,St. Lawrence,6344347
+2024/10/05,Canisius,Clarkson,6344348
+2024/10/05,American Int'l,Maine,6344349
+2024/10/05,Holy Cross,Boston U.,6344350
+2024/10/05,Bowling Green,Mercyhurst,6344351
+2024/10/05,Colgate,UConn,6344353
+2024/10/05,Miami (OH),Ferris St.,6344368
+2024/10/05,Arizona St.,Air Force,6344352
+2024/10/05,Denver,Alas. Anchorage,6344343
+2024/10/05,Penn St.,Alas. Fairbanks,6344179
+2024/10/06,Canisius,St. Lawrence,6344359
+2024/10/06,RIT,Clarkson,6344362
+2024/10/06,Army West Point,Union (NY),6344363
+2024/10/06,Stonehill,Merrimack,6344365
+2024/10/06,St. Cloud St.,St. Thomas (MN),6344367
+2024/10/06,Denver,Alas. Anchorage,6344366
+2024/10/06,Penn St.,Alas. Fairbanks,6344180
+2024/10/11,Boston College,Michigan St.,6344274
+2024/10/11,Michigan,Arizona St.,6344251
+2024/10/11,Niagara,Clarkson,6344374
+2024/10/11,Rensselaer,Canisius,6344371
+2024/10/11,UConn,Holy Cross,6344372
+2024/10/11,RIT,Mercyhurst,6344373
+2024/10/11,American Int'l,Ohio St.,6344289
+2024/10/11,Union (NY),Stonehill,6344375
+2024/10/11,Ferris St.,Western Mich.,6344376
+2024/10/11,Sacred Heart,Colgate,6344378
+2024/10/11,Massachusetts,Omaha,6344380
+2024/10/11,Notre Dame,St. Lawrence,6345273
+2024/10/11,Alas. Anchorage,Miami (OH),6344381
+2024/10/11,Alas. Fairbanks,Michigan Tech,6344384
+2024/10/11,Minn. Duluth,UMass Lowell,6344385
+2024/10/11,Lindenwood,Wisconsin,6344205
+2024/10/11,Vermont,St. Thomas (MN),6344377
+2024/10/11,Merrimack,Minnesota St.,6344382
+2024/10/11,LIU,Augustana (SD),6344383
+2024/10/11,Bemidji St.,St. Cloud St.,6344386
+2024/10/11,Northern Mich.,Colorado Col.,6344379
+2024/10/11,Air Force,Minnesota,6344218
+2024/10/12,Holy Cross,UConn,6344388
+2024/10/12,RIT,Mercyhurst,6344389
+2024/10/12,Sacred Heart,Colgate,6344390
+2024/10/12,American Int'l,Ohio St.,6344290
+2024/10/12,Rensselaer,Canisius,6344392
+2024/10/12,Boston College,Michigan St.,6344275
+2024/10/12,Minn. Duluth,UMass Lowell,6344395
+2024/10/12,Alas. Fairbanks,Michigan Tech,6344400
+2024/10/12,Penn St.,Quinnipiac,6344181
+2024/10/12,Lindenwood,Wisconsin,6344206
+2024/10/12,Vermont,St. Thomas (MN),6344393
+2024/10/12,Niagara,St. Lawrence,6344401
+2024/10/12,Stonehill,Northeastern,6344402
+2024/10/12,Western Mich.,Ferris St.,6344405
+2024/10/12,Bentley,New Hampshire,6344406
+2024/10/12,Notre Dame,Clarkson,6345274
+2024/10/12,Air Force,Massachusetts,6345285
+2024/10/12,Union (NY),Boston U.,6344404
+2024/10/12,Alas. Anchorage,Miami (OH),6344408
+2024/10/12,Merrimack,Minnesota St.,6344396
+2024/10/12,Providence,North Dakota,6344397
+2024/10/12,LIU,Augustana (SD),6344398
+2024/10/12,St. Cloud St.,Bemidji St.,6344399
+2024/10/12,Michigan,Arizona St.,6344252
+2024/10/12,Northern Mich.,Colorado Col.,6344394
+2024/10/12,Omaha,Minnesota,6345286
+2024/10/17,Robert Morris,Miami (OH),6344410
+2024/10/17,Bowling Green,Western Mich.,6344411
+2024/10/18,American Int'l,Boston College,6344413
+2024/10/18,Ferris St.,St. Lawrence,6344416
+2024/10/18,Niagara,Rensselaer,6344422
+2024/10/18,Sacred Heart,Massachusetts,6344414
+2024/10/18,LIU,Bentley,6344415
+2024/10/18,St. Cloud St.,Michigan,6344253
+2024/10/18,Mercyhurst,Union (NY),6344417
+2024/10/18,New Hampshire,Merrimack,6344418
+2024/10/18,Arizona St.,Providence,6344419
+2024/10/18,Quinnipiac,Maine,6344420
+2024/10/18,UConn,Boston U.,6344421
+2024/10/18,Alas. Fairbanks,Notre Dame,6345275
+2024/10/18,Alas. Anchorage,Northern Mich.,6344425
+2024/10/18,Stonehill,Lake Superior St.,6344426
+2024/10/18,Colgate,UMass Lowell,6344428
+2024/10/18,Minnesota,Minn. Duluth,6344219
+2024/10/18,Ohio St.,Wisconsin,6344291
+2024/10/18,North Dakota,Minnesota St.,6344424
+2024/10/18,Augustana (SD),Omaha,6344427
+2024/10/18,Northeastern,Denver,6344412
+2024/10/18,Lindenwood,Air Force,6344423
+2024/10/19,Arizona St.,Providence,6344430
+2024/10/19,Mercyhurst,Union (NY),6344431
+2024/10/19,Niagara,Rensselaer,6344432
+2024/10/19,Colgate,UMass Lowell,6344434
+2024/10/19,Alas. Fairbanks,Notre Dame,6345276
+2024/10/19,Alas. Anchorage,Northern Mich.,6344436
+2024/10/19,Stonehill,Lake Superior St.,6344437
+2024/10/19,Minnesota,Minn. Duluth,6344220
+2024/10/19,St. Cloud St.,Michigan,6344254
+2024/10/19,Ohio St.,Wisconsin,6344292
+2024/10/19,Ferris St.,St. Lawrence,6344440
+2024/10/19,Army West Point,Holy Cross,6344439
+2024/10/19,Massachusetts,Sacred Heart,6344441
+2024/10/19,Miami (OH),Robert Morris,6344442
+2024/10/19,LIU,Bentley,6344438
+2024/10/19,Bowling Green,RIT,6344445
+2024/10/19,North Dakota,Minnesota St.,6344435
+2024/10/19,Clarkson,Vermont,6344447
+2024/10/19,Quinnipiac,Maine,6344448
+2024/10/19,Northeastern,Denver,6344429
+2024/10/19,Augustana (SD),Omaha,6344446
+2024/10/20,Army West Point,Holy Cross,6344450
+2024/10/20,Lindenwood,Air Force,6344449
+2024/10/22,Mercyhurst,Canisius,6344451
+2024/10/25,Air Force,American Int'l,6344453
+2024/10/25,New Hampshire,Quinnipiac,6344455
+2024/10/25,Bentley,Army West Point,6344456
+2024/10/25,St. Lawrence,Penn St.,6344182
+2024/10/25,Bowling Green,Ohio St.,6344293
+2024/10/25,UConn,Massachusetts,6344452
+2024/10/25,Stonehill,Minn. Duluth,6344454
+2024/10/25,Michigan St.,Canisius,6344277
+2024/10/25,Maine,Northeastern,6344457
+2024/10/25,Holy Cross,Sacred Heart,6344458
+2024/10/25,Niagara,Robert Morris,6344459
+2024/10/25,Providence,Vermont,6344460
+2024/10/25,Clarkson,Michigan Tech,6344462
+2024/10/25,Union (NY),Rensselaer,6344463
+2024/10/25,Lindenwood,Miami (OH),6344465
+2024/10/25,Colgate,RIT,6344466
+2024/10/25,LIU,Notre Dame,6345277
+2024/10/25,Arizona St.,Northern Mich.,6344469
+2024/10/25,Bemidji St.,Ferris St.,6344470
+2024/10/25,Augustana (SD),St. Cloud St.,6344461
+2024/10/25,Omaha,Minnesota St.,6344467
+2024/10/25,Boston U.,North Dakota,6344468
+2024/10/25,Wisconsin,Denver,6344209
+2024/10/25,St. Thomas (MN),Minnesota,6344221
+2024/10/25,Colorado Col.,Alas. Anchorage,6344464
+2024/10/26,Air Force,American Int'l,6344474
+2024/10/26,New Hampshire,Quinnipiac,6344475
+2024/10/26,Bentley,Army West Point,6344476
+2024/10/26,St. Lawrence,Penn St.,6344183
+2024/10/26,Colgate,RIT,6344479
+2024/10/26,Augustana (SD),St. Cloud St.,6344477
+2024/10/26,Stonehill,Minn. Duluth,6344478
+2024/10/26,Providence,Vermont,6344480
+2024/10/26,LIU,Notre Dame,6345278
+2024/10/26,Arizona St.,Northern Mich.,6344484
+2024/10/26,Bemidji St.,Ferris St.,6344485
+2024/10/26,Clarkson,Michigan Tech,6344491
+2024/10/26,Maine,Northeastern,6344487
+2024/10/26,Michigan St.,Canisius,6344276
+2024/10/26,Western Mich.,Boston College,6344473
+2024/10/26,Robert Morris,Niagara,6344492
+2024/10/26,Holy Cross,Sacred Heart,6344488
+2024/10/26,Rensselaer,Union (NY),6344489
+2024/10/26,UMass Lowell,Merrimack,6344490
+2024/10/26,Massachusetts,UConn,6344472
+2024/10/26,Lindenwood,Miami (OH),6344471
+2024/10/26,Omaha,Minnesota St.,6344482
+2024/10/26,Boston U.,North Dakota,6344483
+2024/10/26,Ohio St.,Bowling Green,6344294
+2024/10/26,Wisconsin,Denver,6344210
+2024/10/26,Minnesota,St. Thomas (MN),6344222
+2024/10/26,Colorado Col.,Alas. Anchorage,6344481
+2024/10/30,RIT,Niagara,6344494
+2024/10/31,Army West Point,Canisius,6344495
+2024/11/01,Mercyhurst,Niagara,6344496
+2024/11/01,Army West Point,Canisius,6344497
+2024/11/01,UMass Lowell,Holy Cross,6344500
+2024/11/01,Michigan,Boston U.,6344259
+2024/11/01,North Dakota,Cornell,6344498
+2024/11/01,Sacred Heart,Bentley,6344499
+2024/11/01,Lake Superior St.,Ohio St.,6344295
+2024/11/01,Alas. Fairbanks,Clarkson,6344501
+2024/11/01,Lindenwood,Robert Morris,6344502
+2024/11/01,New Hampshire,Providence,6344504
+2024/11/01,Dartmouth,Harvard,6344505
+2024/11/01,St. Lawrence,Stonehill,6381168
+2024/11/01,Denver,Yale,6344507
+2024/11/01,Rensselaer,Miami (OH),6344508
+2024/11/01,Wisconsin,Notre Dame,6345281
+2024/11/01,Ferris St.,Bowling Green,6344509
+2024/11/01,Michigan Tech,Northern Mich.,6344512
+2024/11/01,Merrimack,Maine,6344513
+2024/11/01,Penn St.,Minnesota,6344184
+2024/11/01,Minnesota St.,Bemidji St.,6344510
+2024/11/01,Augustana (SD),St. Thomas (MN),6344511
+2024/11/01,Boston College,St. Cloud St.,6344514
+2024/11/01,Air Force,Colorado Col.,6344506
+2024/11/02,Vermont,UConn,6344515
+2024/11/02,Massachusetts,American Int'l,6344516
+2024/11/02,Providence,New Hampshire,6344528
+2024/11/02,Lake Superior St.,Ohio St.,6344296
+2024/11/02,Wisconsin,Notre Dame,6345282
+2024/11/02,Northern Mich.,Michigan Tech,6344521
+2024/11/02,Michigan,Boston U.,6344260
+2024/11/02,Boston College,St. Cloud St.,6344518
+2024/11/02,North Dakota,Cornell,6344522
+2024/11/02,Quinnipiac,Holy Cross,6344523
+2024/11/02,Niagara,Mercyhurst,6344524
+2024/11/02,Alas. Fairbanks,Clarkson,6344526
+2024/11/02,Lindenwood,Robert Morris,6344527
+2024/11/02,Denver,Yale,6344529
+2024/11/02,Bentley,Sacred Heart,6344525
+2024/11/02,Rensselaer,Miami (OH),6344530
+2024/11/02,Minnesota St.,Bemidji St.,6344519
+2024/11/02,Augustana (SD),St. Thomas (MN),6344520
+2024/11/02,Ferris St.,Bowling Green,6344532
+2024/11/02,Merrimack,Maine,6344533
+2024/11/02,Penn St.,Minnesota,6344185
+2024/11/02,Colorado Col.,Air Force,6344531
+2024/11/03,Vermont,UConn,6344534
+2024/11/03,Stonehill,Dartmouth,6344535
+2024/11/04,Robert Morris,Mercyhurst,6344536
+2024/11/07,American Int'l,Holy Cross,6344537
+2024/11/08,Ohio St.,Michigan St.,6344278
+2024/11/08,Notre Dame,Michigan,6344255
+2024/11/08,Sacred Heart,Mercyhurst,6344545
+2024/11/08,Alas. Fairbanks,Union (NY),6344546
+2024/11/08,American Int'l,Holy Cross,6344539
+2024/11/08,Dartmouth,Quinnipiac,6344542
+2024/11/08,RIT,Bentley,6344543
+2024/11/08,Niagara,Army West Point,6344544
+2024/11/08,Yale,Cornell,6344541
+2024/11/08,Massachusetts,Vermont,6344547
+2024/11/08,UConn,Merrimack,6344548
+2024/11/08,Northeastern,Providence,6344549
+2024/11/08,Brown,Colgate,6344550
+2024/11/08,Maine,Boston College,6344554
+2024/11/08,Harvard,Princeton,6344555
+2024/11/08,UMass Lowell,Boston U.,6344551
+2024/11/08,Lake Superior St.,Northern Mich.,6344559
+2024/11/08,Michigan Tech,Ferris St.,6344560
+2024/11/08,Minnesota,Wisconsin,6344223
+2024/11/08,Western Mich.,Omaha,6344556
+2024/11/08,Bemidji St.,Augustana (SD),6344557
+2024/11/08,Minnesota St.,St. Thomas (MN),6344558
+2024/11/08,North Dakota,Minn. Duluth,6344561
+2024/11/08,Miami (OH),St. Cloud St.,6344538
+2024/11/08,Lindenwood,Denver,6344552
+2024/11/08,Arizona St.,Colorado Col.,6344553
+2024/11/08,Canisius,Air Force,6344540
+2024/11/09,Merrimack,UConn,6344564
+2024/11/09,Niagara,Army West Point,6344567
+2024/11/09,Sacred Heart,Mercyhurst,6344568
+2024/11/09,Alas. Fairbanks,Union (NY),6344569
+2024/11/09,RIT,Bentley,6344566
+2024/11/09,Ohio St.,Michigan St.,6344279
+2024/11/09,Boston U.,UMass Lowell,6344571
+2024/11/09,Lake Superior St.,Northern Mich.,6344574
+2024/11/09,Michigan Tech,Ferris St.,6344575
+2024/11/09,Harvard,Quinnipiac,6344578
+2024/11/09,Minnesota,Wisconsin,6344224
+2024/11/09,Notre Dame,Michigan,6344256
+2024/11/09,Providence,Northeastern,6344563
+2024/11/09,Miami (OH),St. Cloud St.,6344565
+2024/11/09,Massachusetts,Vermont,6344580
+2024/11/09,Stonehill,Clarkson,6344579
+2024/11/09,Yale,Colgate,6344581
+2024/11/09,Dartmouth,Princeton,6344583
+2024/11/09,LIU,New Hampshire,6344584
+2024/11/09,Brown,Cornell,6344577
+2024/11/09,St. Thomas (MN),Minnesota St.,6344572
+2024/11/09,Bemidji St.,Augustana (SD),6344573
+2024/11/09,North Dakota,Minn. Duluth,6344576
+2024/11/09,Arizona St.,Colorado Col.,6344570
+2024/11/09,Western Mich.,Omaha,6344585
+2024/11/09,Lindenwood,Denver,6344582
+2024/11/10,Maine,Boston College,6344586
+2024/11/10,Canisius,Air Force,6344587
+2024/11/12,Merrimack,Stonehill,6344588
+2024/11/14,Providence,Massachusetts,6344589
+2024/11/14,Bemidji St.,Minnesota,6344225
+2024/11/15,Boston College,UConn,6344590
+2024/11/15,Omaha,Arizona St.,6344591
+2024/11/15,UMass Lowell,Vermont,6344596
+2024/11/15,Colorado Col.,Western Mich.,6344597
+2024/11/15,Wisconsin,Penn St.,6344186
+2024/11/15,Notre Dame,Michigan St.,6344281
+2024/11/15,American Int'l,Bentley,6344592
+2024/11/15,St. Lawrence,Union (NY),6344594
+2024/11/15,LIU,Stonehill,6344595
+2024/11/15,Robert Morris,Sacred Heart,6344593
+2024/11/15,Cornell,Dartmouth,6344598
+2024/11/15,Boston U.,Maine,6344599
+2024/11/15,Colgate,Harvard,6344600
+2024/11/15,Holy Cross,Niagara,6344602
+2024/11/15,Princeton,Yale,6344603
+2024/11/15,Northeastern,New Hampshire,6344604
+2024/11/15,Quinnipiac,Brown,6344605
+2024/11/15,Clarkson,Rensselaer,6344601
+2024/11/15,Minn. Duluth,Miami (OH),6344606
+2024/11/15,Army West Point,RIT,6344607
+2024/11/15,Ferris St.,Lake Superior St.,6344612
+2024/11/15,Northern Mich.,Minnesota St.,6344608
+2024/11/15,Denver,North Dakota,6344609
+2024/11/15,Bowling Green,St. Thomas (MN),6344610
+2024/11/15,Ohio St.,Lindenwood,6344298
+2024/11/15,Mercyhurst,Air Force,6344613
+2024/11/15,Alas. Fairbanks,Alas. Anchorage,6344611
+2024/11/16,Omaha,Arizona St.,6344615
+2024/11/16,Ohio St.,Lindenwood,6344297
+2024/11/16,Robert Morris,Sacred Heart,6344617
+2024/11/16,Clarkson,Union (NY),6344618
+2024/11/16,LIU,Stonehill,6344619
+2024/11/16,Holy Cross,Niagara,6344620
+2024/11/16,Massachusetts,Providence,6344614
+2024/11/16,American Int'l,Bentley,6344622
+2024/11/16,UMass Lowell,Vermont,6344623
+2024/11/16,Colorado Col.,Western Mich.,6344624
+2024/11/16,Lake Superior St.,Ferris St.,6344628
+2024/11/16,Minnesota,Bemidji St.,6344226
+2024/11/16,Quinnipiac,Yale,6344616
+2024/11/16,New Hampshire,Northeastern,6344629
+2024/11/16,Cornell,Harvard,6344632
+2024/11/16,Boston U.,Maine,6344631
+2024/11/16,St. Lawrence,Rensselaer,6344633
+2024/11/16,Princeton,Brown,6344634
+2024/11/16,Colgate,Dartmouth,6344630
+2024/11/16,Minn. Duluth,Miami (OH),6344635
+2024/11/16,Army West Point,RIT,6344636
+2024/11/16,Northern Mich.,Minnesota St.,6344625
+2024/11/16,Denver,North Dakota,6344626
+2024/11/16,Bowling Green,St. Thomas (MN),6344627
+2024/11/16,Wisconsin,Penn St.,6344187
+2024/11/16,Notre Dame,Michigan St.,6344280
+2024/11/16,Alas. Fairbanks,Alas. Anchorage,6344621
+2024/11/16,Mercyhurst,Air Force,6344637
+2024/11/19,Boston College,Providence,6344638
+2024/11/19,Stonehill,American Int'l,6344639
+2024/11/22,UConn,UMass Lowell,6344640
+2024/11/22,Canisius,Mercyhurst,6344647
+2024/11/22,Northeastern,Boston College,6344641
+2024/11/22,Michigan,Penn St.,6344188
+2024/11/22,Air Force,Bentley,6344644
+2024/11/22,Yale,St. Lawrence,6344645
+2024/11/22,Holy Cross,Army West Point,6344646
+2024/11/22,Quinnipiac,Cornell,6344643
+2024/11/22,RIT,Sacred Heart,6344649
+2024/11/22,Brown,Clarkson,6344650
+2024/11/22,Princeton,Colgate,6344651
+2024/11/22,Merrimack,Boston U.,6344652
+2024/11/22,Harvard,Massachusetts,6344655
+2024/11/22,Maine,New Hampshire,6344657
+2024/11/22,Minnesota,Notre Dame,6344227
+2024/11/22,Minnesota St.,Michigan Tech,6344659
+2024/11/22,Robert Morris,North Dakota,6344648
+2024/11/22,Western Mich.,Minn. Duluth,6344656
+2024/11/22,St. Thomas (MN),Bemidji St.,6344658
+2024/11/22,Miami (OH),Omaha,6344660
+2024/11/22,Augustana (SD),Ferris St.,6344662
+2024/11/22,Stonehill,Lindenwood,6344661
+2024/11/22,Arizona St.,Denver,6344653
+2024/11/22,St. Cloud St.,Colorado Col.,6344654
+2024/11/23,UConn,UMass Lowell,6344665
+2024/11/23,Yale,Clarkson,6344668
+2024/11/23,Air Force,Bentley,6344667
+2024/11/23,Canisius,Mercyhurst,6344670
+2024/11/23,Stonehill,Lindenwood,6344669
+2024/11/23,Niagara,American Int'l,6344642
+2024/11/23,LIU,Providence,6344664
+2024/11/23,Western Mich.,Minn. Duluth,6344671
+2024/11/23,Minnesota,Notre Dame,6344228
+2024/11/23,Minnesota St.,Michigan Tech,6344676
+2024/11/23,Princeton,Cornell,6344678
+2024/11/23,Boston College,Northeastern,6344663
+2024/11/23,Quinnipiac,Colgate,6344681
+2024/11/23,Brown,St. Lawrence,6344679
+2024/11/23,RIT,Sacred Heart,6344680
+2024/11/23,Robert Morris,North Dakota,6344672
+2024/11/23,St. Thomas (MN),Bemidji St.,6344675
+2024/11/23,Augustana (SD),Ferris St.,6344682
+2024/11/23,Michigan,Penn St.,6344189
+2024/11/23,Arizona St.,Denver,6344673
+2024/11/23,St. Cloud St.,Colorado Col.,6344674
+2024/11/23,Miami (OH),Omaha,6344683
+2024/11/23,Lake Superior St.,Alas. Anchorage,6344677
+2024/11/24,Niagara,American Int'l,6344666
+2024/11/24,Vermont,Massachusetts,6344684
+2024/11/24,Lake Superior St.,Alas. Anchorage,6344685
+2024/11/26,Colgate,Penn St.,6344190
+2024/11/26,Army West Point,Stonehill,6344686
+2024/11/27,Colgate,Penn St.,6344191
+2024/11/29,Boston U.,Merrimack,6344327
+2024/11/29,Army West Point,Massachusetts,6344688
+2024/11/29,St. Lawrence,UMass Lowell,6344316
+2024/11/29,American Int'l,Robert Morris,6344689
+2024/11/29,Notre Dame,Harvard,6344328
+2024/11/29,Michigan,Western Mich.,6344257
+2024/11/29,Lindenwood,Michigan St.,6344282
+2024/11/29,Ohio St.,Princeton,6344300
+2024/11/29,Dartmouth,Boston College,6344687
+2024/11/29,Sacred Heart,Holy Cross,6344690
+2024/11/29,RIT,New Hampshire,6344692
+2024/11/29,Air Force,Brown,6344693
+2024/11/29,Union (NY),Niagara,6344691
+2024/11/29,Michigan Tech,Bowling Green,6344695
+2024/11/29,Yale,LIU,6344698
+2024/11/29,Alas. Fairbanks,Minnesota,6344229
+2024/11/29,Alas. Anchorage,Wisconsin,6348412
+2024/11/29,Northern Mich.,Augustana (SD),6344694
+2024/11/29,North Dakota,Bemidji St.,6344696
+2024/11/29,Lake Superior St.,St. Thomas (MN),6344697
+2024/11/29,Providence,Clarkson,6344317
+2024/11/30,Merrimack,Harvard,6344329
+2024/11/30,Notre Dame,Boston U.,6344330
+2024/11/30,Maine,Rensselaer,6344700
+2024/11/30,Ohio St.,Princeton,6344299
+2024/11/30,St. Lawrence,Providence,6344318
+2024/11/30,Air Force,Brown,6344702
+2024/11/30,American Int'l,Robert Morris,6344703
+2024/11/30,Alas. Fairbanks,Minnesota,6344230
+2024/11/30,Western Mich.,Michigan,6344258
+2024/11/30,RIT,New Hampshire,6344701
+2024/11/30,Union (NY),Niagara,6344708
+2024/11/30,Sacred Heart,Holy Cross,6344707
+2024/11/30,Bemidji St.,North Dakota,6344704
+2024/11/30,Northern Mich.,Augustana (SD),6344705
+2024/11/30,Lake Superior St.,St. Thomas (MN),6344706
+2024/11/30,Michigan Tech,Bowling Green,6344709
+2024/11/30,Yale,LIU,6344710
+2024/11/30,UMass Lowell,Clarkson,6344319
+2024/11/30,Quinnipiac,Cornell,6344711
+2024/11/30,Alas. Anchorage,Wisconsin,6348413
+2024/12/01,Bentley,Northeastern,6344699
+2024/12/01,Maine,Rensselaer,6344712
+2024/12/01,Lindenwood,Michigan St.,6344283
+2024/12/01,Dartmouth,Vermont,6344713
+2024/12/03,Army West Point,Sacred Heart,6344714
+2024/12/03,Canisius,RIT,6344715
+2024/12/04,UConn,Boston College,6344716
+2024/12/04,Alas. Anchorage,Stonehill,6344717
+2024/12/05,Penn St.,Ohio St.,6344193
+2024/12/06,Holy Cross,American Int'l,6344718
+2024/12/06,New Hampshire,Northeastern,6344724
+2024/12/06,Denver,Western Mich.,6344727
+2024/12/06,Penn St.,Ohio St.,6344192
+2024/12/06,Rensselaer,Quinnipiac,6344721
+2024/12/06,Sacred Heart,Canisius,6344722
+2024/12/06,Bentley,Mercyhurst,6344723
+2024/12/06,Colgate,Cornell,6344720
+2024/12/06,Robert Morris,RIT,6344725
+2024/12/06,Alas. Anchorage,Merrimack,6344728
+2024/12/06,Colorado Col.,Providence,6344729
+2024/12/06,St. Lawrence,Dartmouth,6344730
+2024/12/06,Clarkson,Harvard,6344731
+2024/12/06,Union (NY),Princeton,6344732
+2024/12/06,LIU,Vermont,6344733
+2024/12/06,North Dakota,Miami (OH),6344734
+2024/12/06,Ferris St.,Northern Mich.,6344738
+2024/12/06,St. Thomas (MN),Michigan Tech,6344742
+2024/12/06,Bemidji St.,Lake Superior St.,6344739
+2024/12/06,Boston College,UMass Lowell,6344740
+2024/12/06,Michigan,Minnesota,6344231
+2024/12/06,Michigan St.,Wisconsin,6344284
+2024/12/06,Minn. Duluth,Arizona St.,6344719
+2024/12/06,Bowling Green,Minnesota St.,6344736
+2024/12/06,Omaha,St. Cloud St.,6344741
+2024/12/06,Niagara,Air Force,6344735
+2024/12/06,Augustana (SD),Alas. Fairbanks,6344737
+2024/12/07,Union (NY),Quinnipiac,6344745
+2024/12/07,Bentley,Mercyhurst,6344748
+2024/12/07,Robert Morris,RIT,6344749
+2024/12/07,Sacred Heart,Canisius,6344747
+2024/12/07,Massachusetts,Boston U.,6344754
+2024/12/07,LIU,Vermont,6344755
+2024/12/07,Denver,Western Mich.,6344752
+2024/12/07,Minn. Duluth,Arizona St.,6344746
+2024/12/07,Colorado Col.,Providence,6344743
+2024/12/07,Michigan,Minnesota,6344232
+2024/12/07,Ferris St.,Northern Mich.,6344757
+2024/12/07,Bemidji St.,Lake Superior St.,6344758
+2024/12/07,St. Thomas (MN),Michigan Tech,6344768
+2024/12/07,Clarkson,Dartmouth,6344761
+2024/12/07,Brown,Northeastern,6344759
+2024/12/07,Alas. Anchorage,Merrimack,6344760
+2024/12/07,Omaha,St. Cloud St.,6344753
+2024/12/07,Cornell,Colgate,6344762
+2024/12/07,Stonehill,Maine,6344763
+2024/12/07,St. Lawrence,Harvard,6344764
+2024/12/07,Rensselaer,Princeton,6344765
+2024/12/07,Niagara,Air Force,6344750
+2024/12/07,North Dakota,Miami (OH),6344766
+2024/12/07,Bowling Green,Minnesota St.,6344756
+2024/12/07,Michigan St.,Wisconsin,6344285
+2024/12/07,Augustana (SD),Alas. Fairbanks,6344767
+2024/12/08,Stonehill,Maine,6344769
+2024/12/09,UMass Lowell,Boston College,6344770
+2024/12/11,Boston U.,Massachusetts,6344771
+2024/12/12,Penn St.,Army West Point,6344194
+2024/12/12,Augustana (SD),Alas. Anchorage,6344772
+2024/12/13,Wisconsin,Michigan,6344261
+2024/12/13,Notre Dame,Ohio St.,6344302
+2024/12/13,Vermont,Union (NY),6344774
+2024/12/13,New Hampshire,Dartmouth,6344775
+2024/12/13,Northern Mich.,Bowling Green,6344780
+2024/12/13,Stonehill,LIU,6344783
+2024/12/13,Augustana (SD),Alas. Anchorage,6344773
+2024/12/13,Lake Superior St.,Minnesota St.,6344778
+2024/12/13,St. Cloud St.,North Dakota,6344779
+2024/12/13,Michigan Tech,Bemidji St.,6344781
+2024/12/13,Lindenwood,Omaha,6344782
+2024/12/13,Michigan St.,Minnesota,6344233
+2024/12/13,Denver,Colorado Col.,6344777
+2024/12/14,Robert Morris,Canisius,6344784
+2024/12/14,Vermont,Union (NY),6344785
+2024/12/14,Michigan St.,Minnesota,6344234
+2024/12/14,Wisconsin,Michigan,6344262
+2024/12/14,Notre Dame,Ohio St.,6344301
+2024/12/14,Rensselaer,Mercyhurst,6344789
+2024/12/14,Northeastern,Merrimack,6344790
+2024/12/14,Lake Superior St.,Minnesota St.,6344786
+2024/12/14,St. Cloud St.,North Dakota,6344787
+2024/12/14,Michigan Tech,Bemidji St.,6344788
+2024/12/14,Northern Mich.,Bowling Green,6344792
+2024/12/14,Stonehill,LIU,6344794
+2024/12/14,Lindenwood,Omaha,6344793
+2024/12/14,Colorado Col.,Denver,6344791
+2024/12/15,Robert Morris,Canisius,6344796
+2024/12/15,Rensselaer,Mercyhurst,6344797
+2024/12/28,Sacred Heart,American Int'l,6344800
+2024/12/28,New Hampshire,Rensselaer,6344801
+2024/12/28,Providence,Northeastern,6344321
+2024/12/28,Princeton,Army West Point,6344802
+2024/12/28,Alas. Fairbanks,UConn,6344799
+2024/12/28,Ferris St.,Wisconsin,6344324
+2024/12/28,Alas. Anchorage,Dartmouth,6344320
+2024/12/29,LIU,Brown,6344804
+2024/12/29,Ferris St.,Alas. Fairbanks,6344325
+2024/12/29,RIT,Bowling Green,6344805
+2024/12/29,Western Mich.,Michigan Tech,6344309
+2024/12/29,Northeastern,Alas. Anchorage,6344322
+2024/12/29,American Int'l,Quinnipiac,6344807
+2024/12/29,Bentley,Maine,6344808
+2024/12/29,Boston U.,Yale,6344810
+2024/12/29,St. Thomas (MN),St. Cloud St.,6344809
+2024/12/29,Wisconsin,UConn,6344326
+2024/12/29,Vermont,Army West Point,6344803
+2024/12/29,Northern Mich.,Michigan St.,6344286
+2024/12/29,Providence,Dartmouth,6344323
+2024/12/30,Northern Mich.,Michigan Tech,6344310
+2024/12/30,Western Mich.,Michigan St.,6344311
+2024/12/30,Wisconsin,UConn,6382719
+2024/12/30,Providence,Dartmouth,6382720
+2024/12/31,Holy Cross,LIU,6344812
+2024/12/31,Minn. Duluth,Bemidji St.,6344813
+2024/12/31,Western Mich.,Michigan St.,6383573
+2025/01/01,Quinnipiac,Harvard,6344814
+2025/01/02,Wisconsin,Michigan St.,6344287
+2025/01/03,Assumption,LIU,6344817
+2025/01/03,Michigan Tech,UMass Lowell,6344818
+2025/01/03,Ohio St.,Michigan,6344263
+2025/01/03,Massachusetts,Cornell,6344312
+2025/01/03,Alas. Anchorage,Western Mich.,6344821
+2025/01/03,American Int'l,Stonehill,6344815
+2025/01/03,Merrimack,Army West Point,6344819
+2025/01/03,Air Force,Sacred Heart,6344820
+2025/01/03,Denver,Maine,6344822
+2025/01/03,Bentley,Niagara,6344824
+2025/01/03,Rensselaer,Yale,6344826
+2025/01/03,Union (NY),Brown,6344827
+2025/01/03,New Hampshire,Princeton,6344825
+2025/01/03,Bowling Green,Lake Superior St.,6344830
+2025/01/03,Mercyhurst,Minnesota,6344235
+2025/01/03,Alas. Fairbanks,Minn. Duluth,6344829
+2025/01/03,St. Thomas (MN),Lindenwood,6344831
+2025/01/03,Robert Morris,Arizona St.,6344313
+2025/01/03,Augustana (SD),Colorado Col.,6344823
+2025/01/03,Penn St.,Notre Dame,6344211
+2025/01/03,Holy Cross,Omaha,6344816
+2025/01/04,New Hampshire,Princeton,6344838
+2025/01/04,Northeastern,Quinnipiac,6344836
+2025/01/04,Massachusetts,Robert Morris,6344315
+2025/01/04,Air Force,Sacred Heart,6344840
+2025/01/04,Bentley,Niagara,6344841
+2025/01/04,Rensselaer,Brown,6344842
+2025/01/04,St. Thomas (MN),Lindenwood,6344839
+2025/01/04,Mercyhurst,Minnesota,6344236
+2025/01/04,Augustana (SD),Colorado Col.,6344837
+2025/01/04,Alas. Anchorage,Western Mich.,6344844
+2025/01/04,Michigan Tech,Holy Cross,6344834
+2025/01/04,UConn,Harvard,6344833
+2025/01/04,Omaha,UMass Lowell,6344835
+2025/01/04,St. Lawrence,Vermont,6344847
+2025/01/04,Denver,Maine,6344848
+2025/01/04,Union (NY),Yale,6344849
+2025/01/04,Alas. Fairbanks,Minn. Duluth,6344846
+2025/01/04,Bowling Green,Lake Superior St.,6344850
+2025/01/04,St. Anselm,LIU,6344851
+2025/01/04,Wisconsin,Michigan St.,6344288
+2025/01/04,Cornell,Arizona St.,6344314
+2025/01/05,Dartmouth,Merrimack,6344852
+2025/01/05,Ohio St.,Michigan,6344264
+2025/01/05,Penn St.,Notre Dame,6344212
+2025/01/05,Cornell,Arizona St.,6384205
+2025/01/06,Stonehill,Quinnipiac,6344853
+2025/01/07,Army West Point,American Int'l,6344854
+2025/01/07,Providence,Brown,6344855
+2025/01/10,Minnesota,Ohio St.,6344237
+2025/01/10,Michigan St.,Penn St.,6344195
+2025/01/10,Alas. Anchorage,Niagara,6344858
+2025/01/10,Cornell,Sacred Heart,6344862
+2025/01/10,Robert Morris,Holy Cross,6344863
+2025/01/10,Massachusetts,Northeastern,6344856
+2025/01/10,RIT,Canisius,6344859
+2025/01/10,Rensselaer,St. Lawrence,6344860
+2025/01/10,Mercyhurst,Army West Point,6344861
+2025/01/10,Merrimack,Boston College,6344857
+2025/01/10,Lindenwood,Stonehill,6344864
+2025/01/10,Union (NY),Clarkson,6344865
+2025/01/10,Yale,Dartmouth,6344866
+2025/01/10,Vermont,Boston U.,6344868
+2025/01/10,Quinnipiac,Princeton,6344872
+2025/01/10,UConn,New Hampshire,6344874
+2025/01/10,Brown,Harvard,6344870
+2025/01/10,Michigan,Notre Dame,6348364
+2025/01/10,Bemidji St.,Bowling Green,6344878
+2025/01/10,Lake Superior St.,Michigan Tech,6344881
+2025/01/10,Minnesota St.,Northern Mich.,6344880
+2025/01/10,Maine,UMass Lowell,6344882
+2025/01/10,LIU,Colgate,6344867
+2025/01/10,St. Cloud St.,Minn. Duluth,6344871
+2025/01/10,Colorado Col.,Omaha,6344875
+2025/01/10,Ferris St.,St. Thomas (MN),6344879
+2025/01/10,Miami (OH),Denver,6344869
+2025/01/10,North Dakota,Arizona St.,6344873
+2025/01/10,Bentley,Air Force,6344876
+2025/01/11,Minnesota,Ohio St.,6344238
+2025/01/11,Northeastern,Massachusetts,6344884
+2025/01/11,Michigan St.,Penn St.,6344196
+2025/01/11,New Hampshire,UConn,6344886
+2025/01/11,Mercyhurst,Army West Point,6344885
+2025/01/11,LIU,Colgate,6344887
+2025/01/11,Cornell,Sacred Heart,6344888
+2025/01/11,Lindenwood,Stonehill,6344889
+2025/01/11,Vermont,Boston U.,6344890
+2025/01/11,Robert Morris,Holy Cross,6344883
+2025/01/11,Maine,UMass Lowell,6344895
+2025/01/11,Michigan,Notre Dame,6348365
+2025/01/11,Minnesota St.,Northern Mich.,6344897
+2025/01/11,Lake Superior St.,Michigan Tech,6344898
+2025/01/11,Union (NY),St. Lawrence,6344901
+2025/01/11,St. Cloud St.,Minn. Duluth,6344894
+2025/01/11,Princeton,Quinnipiac,6344899
+2025/01/11,RIT,Canisius,6344900
+2025/01/11,North Dakota,Arizona St.,6344891
+2025/01/11,Boston College,Merrimack,6344902
+2025/01/11,Rensselaer,Clarkson,6344903
+2025/01/11,Brown,Dartmouth,6344904
+2025/01/11,Yale,Harvard,6344905
+2025/01/11,Alas. Anchorage,Niagara,6344906
+2025/01/11,Bentley,Air Force,6344892
+2025/01/11,Ferris St.,St. Thomas (MN),6344896
+2025/01/11,Bemidji St.,Bowling Green,6344909
+2025/01/11,Miami (OH),Denver,6344893
+2025/01/11,Colorado Col.,Omaha,6344907
+2025/01/14,Harvard,Boston College,6344910
+2025/01/14,Canisius,Robert Morris,6344911
+2025/01/17,Northeastern,Vermont,6344912
+2025/01/17,RIT,Robert Morris,6344918
+2025/01/17,Providence,Boston College,6344920
+2025/01/17,Canisius,Penn St.,6344197
+2025/01/17,Colgate,Quinnipiac,6344913
+2025/01/17,Michigan St.,Michigan,6348408
+2025/01/17,Niagara,Mercyhurst,6344915
+2025/01/17,American Int'l,Sacred Heart,6344916
+2025/01/17,Dartmouth,Union (NY),6344917
+2025/01/17,Holy Cross,Bentley,6344914
+2025/01/17,Massachusetts,Merrimack,6344919
+2025/01/17,UConn,Maine,6344921
+2025/01/17,Harvard,Rensselaer,6344923
+2025/01/17,Cornell,Princeton,6344924
+2025/01/17,Boston U.,New Hampshire,6344925
+2025/01/17,Clarkson,Yale,6344926
+2025/01/17,St. Lawrence,Brown,6344927
+2025/01/17,Air Force,Army West Point,6344936
+2025/01/17,Omaha,Miami (OH),6344928
+2025/01/17,Bowling Green,Ferris St.,6344933
+2025/01/17,LIU,Wisconsin,6344207
+2025/01/17,Notre Dame,Minnesota,6344239
+2025/01/17,Michigan Tech,Minnesota St.,6344929
+2025/01/17,Western Mich.,North Dakota,6344930
+2025/01/17,Lindenwood,Augustana (SD),6344931
+2025/01/17,Northern Mich.,Bemidji St.,6344932
+2025/01/17,St. Thomas (MN),Lake Superior St.,6344935
+2025/01/17,Arizona St.,St. Cloud St.,6344934
+2025/01/17,Minn. Duluth,Colorado Col.,6344922
+2025/01/18,Clarkson,Brown,6344941
+2025/01/18,Air Force,Army West Point,6344946
+2025/01/18,Harvard,Union (NY),6344940
+2025/01/18,Canisius,Penn St.,6344198
+2025/01/18,Notre Dame,Minnesota,6344240
+2025/01/18,Northeastern,Vermont,6344937
+2025/01/18,Holy Cross,Bentley,6344942
+2025/01/18,Stonehill,UMass Lowell,6344943
+2025/01/18,New Hampshire,Boston U.,6344955
+2025/01/18,LIU,Wisconsin,6344208
+2025/01/18,Boston College,Providence,6344938
+2025/01/18,Merrimack,Massachusetts,6344939
+2025/01/18,Arizona St.,St. Cloud St.,6344944
+2025/01/18,Cornell,Quinnipiac,6344951
+2025/01/18,American Int'l,Sacred Heart,6344952
+2025/01/18,UConn,Maine,6344954
+2025/01/18,Dartmouth,Rensselaer,6344956
+2025/01/18,Mercyhurst,Niagara,6344957
+2025/01/18,Colgate,Princeton,6344958
+2025/01/18,St. Lawrence,Yale,6344959
+2025/01/18,RIT,Robert Morris,6344953
+2025/01/18,Omaha,Miami (OH),6344960
+2025/01/18,Michigan Tech,Minnesota St.,6344947
+2025/01/18,Western Mich.,North Dakota,6344948
+2025/01/18,Lindenwood,Augustana (SD),6344949
+2025/01/18,Northern Mich.,Bemidji St.,6344950
+2025/01/18,Bowling Green,Ferris St.,6344961
+2025/01/18,St. Thomas (MN),Lake Superior St.,6344963
+2025/01/18,Michigan,Michigan St.,6348410
+2025/01/18,Minn. Duluth,Colorado Col.,6344945
+2025/01/18,Alas. Fairbanks,Alas. Anchorage,6344962
+2025/01/21,Bentley,American Int'l,6344964
+2025/01/21,St. Anselm,Stonehill,6344965
+2025/01/21,Brown,Merrimack,6344966
+2025/01/24,Canisius,American Int'l,6344968
+2025/01/24,UConn,Quinnipiac,6344332
+2025/01/24,Ohio St.,Penn St.,6344199
+2025/01/24,Minnesota,Michigan St.,6344241
+2025/01/24,Alas. Fairbanks,Massachusetts,6344967
+2025/01/24,Harvard,Cornell,6344969
+2025/01/24,Clarkson,St. Lawrence,6344970
+2025/01/24,Army West Point,Robert Morris,6344971
+2025/01/24,Miami (OH),Western Mich.,6344973
+2025/01/24,Dartmouth,Colgate,6344974
+2025/01/24,Boston College,Boston U.,6344975
+2025/01/24,Vermont,New Hampshire,6344977
+2025/01/24,Niagara,RIT,6344979
+2025/01/24,Lindenwood,Notre Dame,6345279
+2025/01/24,Northern Mich.,Michigan Tech,6344980
+2025/01/24,Minnesota St.,Ferris St.,6344981
+2025/01/24,Providence,UMass Lowell,6344983
+2025/01/24,Yale,Sacred Heart,6344331
+2025/01/24,Augustana (SD),Bowling Green,6344984
+2025/01/24,Michigan,Wisconsin,6344265
+2025/01/24,St. Cloud St.,Omaha,6344978
+2025/01/24,Denver,Minn. Duluth,6344982
+2025/01/24,Holy Cross,Air Force,6344972
+2025/01/24,Colorado Col.,Arizona St.,6344976
+2025/01/25,Canisius,American Int'l,6344990
+2025/01/25,Yale,Quinnipiac,6344333
+2025/01/25,UMass Lowell,Providence,6344986
+2025/01/25,Ohio St.,Penn St.,6344200
+2025/01/25,Army West Point,Robert Morris,6344989
+2025/01/25,Niagara,RIT,6344993
+2025/01/25,Minnesota,Michigan St.,6344242
+2025/01/25,Alas. Fairbanks,Massachusetts,6344988
+2025/01/25,Union (NY),Rensselaer,6344995
+2025/01/25,Miami (OH),Western Mich.,6344994
+2025/01/25,Lindenwood,Notre Dame,6345280
+2025/01/25,Michigan Tech,Northern Mich.,6344997
+2025/01/25,Minnesota St.,Ferris St.,6344998
+2025/01/25,Dartmouth,Cornell,6345000
+2025/01/25,Merrimack,Northeastern,6344985
+2025/01/25,Holy Cross,Air Force,6344991
+2025/01/25,Colorado Col.,Arizona St.,6344992
+2025/01/25,Vermont,New Hampshire,6345004
+2025/01/25,St. Lawrence,Clarkson,6345001
+2025/01/25,Harvard,Colgate,6345002
+2025/01/25,Bentley,Princeton,6345003
+2025/01/25,Boston U.,Boston College,6344987
+2025/01/25,Bemidji St.,St. Thomas (MN),6344996
+2025/01/25,Denver,Minn. Duluth,6344999
+2025/01/25,Augustana (SD),Bowling Green,6345006
+2025/01/25,UConn,Sacred Heart,6344334
+2025/01/25,St. Cloud St.,Omaha,6345005
+2025/01/25,Michigan,Wisconsin,6344266
+2025/01/26,Stonehill,Brown,6345007
+2025/01/26,Bentley,Princeton,6345009
+2025/01/26,Bemidji St.,St. Thomas (MN),6345008
+2025/01/30,Michigan St.,Ohio St.,6344303
+2025/01/31,Stonehill,LIU,6345015
+2025/01/31,Yale,Union (NY),6345017
+2025/01/31,Mercyhurst,Robert Morris,6345018
+2025/01/31,Michigan St.,Ohio St.,6344304
+2025/01/31,Penn St.,Michigan,6344267
+2025/01/31,UMass Lowell,Boston College,6345013
+2025/01/31,Merrimack,Massachusetts,6345014
+2025/01/31,Cornell,St. Lawrence,6345016
+2025/01/31,Quinnipiac,Dartmouth,6345010
+2025/01/31,UConn,Providence,6345019
+2025/01/31,Colgate,Clarkson,6345020
+2025/01/31,Northeastern,Maine,6345021
+2025/01/31,New Hampshire,Boston U.,6345022
+2025/01/31,Brown,Rensselaer,6345023
+2025/01/31,Princeton,Harvard,6345024
+2025/01/31,Sacred Heart,Niagara,6345025
+2025/01/31,Arizona St.,Miami (OH),6345026
+2025/01/31,Bowling Green,Northern Mich.,6345030
+2025/01/31,Wisconsin,Minnesota,6344243
+2025/01/31,St. Thomas (MN),Minnesota St.,6345027
+2025/01/31,Lake Superior St.,Augustana (SD),6345028
+2025/01/31,Ferris St.,Bemidji St.,6345029
+2025/01/31,North Dakota,St. Cloud St.,6345033
+2025/01/31,Omaha,Denver,6345011
+2025/01/31,Western Mich.,Colorado Col.,6345012
+2025/01/31,RIT,Air Force,6345034
+2025/01/31,Alas. Anchorage,Alas. Fairbanks,6345031
+2025/02/01,Stonehill,LIU,6345038
+2025/02/01,Providence,UConn,6345035
+2025/02/01,Brown,Union (NY),6345040
+2025/02/01,Sacred Heart,Niagara,6345041
+2025/02/01,Penn St.,Michigan,6344213
+2025/02/01,Wisconsin,Minnesota,6344244
+2025/02/01,Merrimack,UMass Lowell,6345044
+2025/02/01,Bowling Green,Northern Mich.,6345048
+2025/02/01,North Dakota,St. Cloud St.,6345043
+2025/02/01,Colgate,St. Lawrence,6345050
+2025/02/01,Cornell,Clarkson,6345051
+2025/02/01,Princeton,Dartmouth,6345053
+2025/02/01,Yale,Rensselaer,6345054
+2025/02/01,Mercyhurst,Robert Morris,6345052
+2025/02/01,RIT,Air Force,6345042
+2025/02/01,Arizona St.,Miami (OH),6345055
+2025/02/01,Lake Superior St.,Augustana (SD),6345045
+2025/02/01,Ferris St.,Bemidji St.,6345046
+2025/02/01,Minnesota St.,St. Thomas (MN),6345047
+2025/02/01,Canisius,Holy Cross,6345049
+2025/02/01,Omaha,Denver,6345036
+2025/02/01,Western Mich.,Colorado Col.,6345037
+2025/02/01,Alas. Anchorage,Alas. Fairbanks,6345056
+2025/02/02,Canisius,Holy Cross,6345058
+2025/02/02,Massachusetts,Maine,6345057
+2025/02/03,Boston U.,Harvard,6345059
+2025/02/03,Northeastern,Boston College,6345060
+2025/02/04,Army West Point,Bentley,6345061
+2025/02/06,Brown,Yale,6345062
+2025/02/06,Lindenwood,LIU,6345063
+2025/02/07,Massachusetts,UConn,6345064
+2025/02/07,American Int'l,Mercyhurst,6345070
+2025/02/07,St. Cloud St.,Western Mich.,6345072
+2025/02/07,Michigan,Michigan St.,6344268
+2025/02/07,Rensselaer,Cornell,6345067
+2025/02/07,Air Force,Canisius,6345068
+2025/02/07,Robert Morris,Bentley,6345069
+2025/02/07,St. Lawrence,Quinnipiac,6345066
+2025/02/07,Sacred Heart,Army West Point,6345071
+2025/02/07,Maine,Providence,6345074
+2025/02/07,Harvard,Dartmouth,6345075
+2025/02/07,Union (NY),Colgate,6345076
+2025/02/07,Clarkson,Princeton,6345077
+2025/02/07,Boston College,New Hampshire,6345079
+2025/02/07,Boston U.,Merrimack,6345073
+2025/02/07,Ohio St.,Notre Dame,6344305
+2025/02/07,Holy Cross,RIT,6345080
+2025/02/07,Bemidji St.,Michigan Tech,6345084
+2025/02/07,St. Thomas (MN),Bowling Green,6345083
+2025/02/07,Northern Mich.,Lake Superior St.,6345085
+2025/02/07,Vermont,UMass Lowell,6345065
+2025/02/07,Lindenwood,LIU,6345087
+2025/02/07,Penn St.,Wisconsin,6344214
+2025/02/07,Augustana (SD),Minnesota St.,6345081
+2025/02/07,Colorado Col.,North Dakota,6345082
+2025/02/07,Minn. Duluth,Omaha,6345086
+2025/02/07,Denver,Arizona St.,6345078
+2025/02/08,UMass Lowell,UConn,6345089
+2025/02/08,American Int'l,Mercyhurst,6345091
+2025/02/08,Sacred Heart,Army West Point,6345092
+2025/02/08,Air Force,Canisius,6345090
+2025/02/08,Holy Cross,RIT,6345094
+2025/02/08,Bemidji St.,Michigan Tech,6345095
+2025/02/08,Maine,Providence,6345088
+2025/02/08,Robert Morris,Bentley,6345097
+2025/02/08,St. Cloud St.,Western Mich.,6345098
+2025/02/08,Ohio St.,Notre Dame,6344306
+2025/02/08,Northern Mich.,Lake Superior St.,6345101
+2025/02/08,Union (NY),Cornell,6345103
+2025/02/08,Penn St.,Wisconsin,6344215
+2025/02/08,Clarkson,Quinnipiac,6345102
+2025/02/08,Merrimack,New Hampshire,6345106
+2025/02/08,Rensselaer,Colgate,6345104
+2025/02/08,St. Lawrence,Princeton,6345105
+2025/02/08,Denver,Arizona St.,6345093
+2025/02/08,Augustana (SD),Minnesota St.,6345099
+2025/02/08,Colorado Col.,North Dakota,6345100
+2025/02/08,St. Thomas (MN),Bowling Green,6345107
+2025/02/08,Michigan St.,Michigan,6344269
+2025/02/08,Minn. Duluth,Omaha,6345108
+2025/02/08,Alas. Anchorage,Alas. Fairbanks,6345096
+2025/02/09,Yale,Brown,6345109
+2025/02/10,Northeastern,Harvard,6345271
+2025/02/10,Boston U.,Boston College,6345272
+2025/02/11,Canisius,Niagara,6345110
+2025/02/12,Alas. Anchorage,UConn,6345111
+2025/02/13,Mercyhurst,Holy Cross,6345140
+2025/02/14,Alas. Anchorage,LIU,6345115
+2025/02/14,Robert Morris,Niagara,6345117
+2025/02/14,Mercyhurst,Holy Cross,6345116
+2025/02/14,Notre Dame,Penn St.,6344201
+2025/02/14,Plymouth St.,Stonehill,6345121
+2025/02/14,Harvard,St. Lawrence,6345119
+2025/02/14,Canisius,Bentley,6345118
+2025/02/14,Massachusetts,Boston College,6345114
+2025/02/14,UMass Lowell,Northeastern,6345112
+2025/02/14,Minnesota,Michigan,6344245
+2025/02/14,Wisconsin,Ohio St.,6344307
+2025/02/14,Quinnipiac,Union (NY),6345120
+2025/02/14,Colgate,Yale,6345129
+2025/02/14,Omaha,Western Mich.,6345122
+2025/02/14,Cornell,Brown,6345130
+2025/02/14,Boston U.,Providence,6345124
+2025/02/14,Princeton,Rensselaer,6345128
+2025/02/14,New Hampshire,Maine,6345126
+2025/02/14,Dartmouth,Clarkson,6345125
+2025/02/14,Vermont,Merrimack,6345123
+2025/02/14,American Int'l,RIT,6345131
+2025/02/14,Lake Superior St.,Ferris St.,6381273
+2025/02/14,Michigan Tech,Augustana (SD),6345133
+2025/02/14,Arizona St.,Minn. Duluth,6345134
+2025/02/14,Alas. Fairbanks,Lindenwood,6345135
+2025/02/14,North Dakota,Denver,6345113
+2025/02/14,Miami (OH),Colorado Col.,6345127
+2025/02/14,Army West Point,Air Force,6345132
+2025/02/15,Alas. Anchorage,LIU,6345141
+2025/02/15,Alas. Fairbanks,Lindenwood,6345142
+2025/02/15,Canisius,Bentley,6345143
+2025/02/15,Princeton,Union (NY),6345144
+2025/02/15,Harvard,Clarkson,6345145
+2025/02/15,Notre Dame,Penn St.,6344202
+2025/02/15,Minnesota,Michigan,6344246
+2025/02/15,Omaha,Western Mich.,6345147
+2025/02/15,Northeastern,UMass Lowell,6345136
+2025/02/15,American Int'l,RIT,6345158
+2025/02/15,Lake Superior St.,Ferris St.,6381274
+2025/02/15,Vermont,Merrimack,6345153
+2025/02/15,Providence,Boston U.,6345137
+2025/02/15,Boston College,Massachusetts,6345139
+2025/02/15,Niagara,Robert Morris,6345152
+2025/02/15,Cornell,Yale,6345156
+2025/02/15,New Hampshire,Maine,6345154
+2025/02/15,Quinnipiac,Rensselaer,6345155
+2025/02/15,Colgate,Brown,6345157
+2025/02/15,Dartmouth,St. Lawrence,6345151
+2025/02/15,Army West Point,Air Force,6345146
+2025/02/15,Michigan Tech,Augustana (SD),6345149
+2025/02/15,Arizona St.,Minn. Duluth,6345150
+2025/02/15,North Dakota,Denver,6345138
+2025/02/15,Miami (OH),Colorado Col.,6345148
+2025/02/15,Wisconsin,Ohio St.,6344308
+2025/02/18,Sacred Heart,American Int'l,6345159
+2025/02/20,Bentley,Holy Cross,6345160
+2025/02/21,Denver,Miami (OH),6345177
+2025/02/21,Penn St.,Michigan St.,6344216
+2025/02/21,Army West Point,American Int'l,6345166
+2025/02/21,Yale,Quinnipiac,6345162
+2025/02/21,Clarkson,Cornell,6345163
+2025/02/21,Niagara,Canisius,6345164
+2025/02/21,Air Force,Robert Morris,6345165
+2025/02/21,Boston College,Vermont,6345168
+2025/02/21,LIU,Stonehill,6345167
+2025/02/21,Rensselaer,Dartmouth,6345170
+2025/02/21,St. Lawrence,Colgate,6345171
+2025/02/21,Northeastern,Boston U.,6345172
+2025/02/21,Union (NY),Harvard,6345173
+2025/02/21,Brown,Princeton,6345174
+2025/02/21,Massachusetts,New Hampshire,6345176
+2025/02/21,Mercyhurst,RIT,6345178
+2025/02/21,Bowling Green,Bemidji St.,6345161
+2025/02/21,St. Thomas (MN),Northern Mich.,6345181
+2025/02/21,Minnesota St.,Lake Superior St.,6345184
+2025/02/21,Ferris St.,Michigan Tech,6345182
+2025/02/21,Maine,UConn,6345169
+2025/02/21,Ohio St.,Minnesota,6344247
+2025/02/21,Minn. Duluth,North Dakota,6345179
+2025/02/21,Alas. Fairbanks,Augustana (SD),6345180
+2025/02/21,Colorado Col.,St. Cloud St.,6345185
+2025/02/21,Notre Dame,Wisconsin,6345283
+2025/02/21,Western Mich.,Arizona St.,6345175
+2025/02/21,Lindenwood,Alas. Anchorage,6345183
+2025/02/22,American Int'l,Army West Point,6345189
+2025/02/22,Union (NY),Dartmouth,6345204
+2025/02/22,LIU,Stonehill,6345190
+2025/02/22,Penn St.,Michigan St.,6344217
+2025/02/22,Ohio St.,Minnesota,6344248
+2025/02/22,UMass Lowell,Providence,6345188
+2025/02/22,Bentley,Sacred Heart,6345193
+2025/02/22,Denver,Miami (OH),6345210
+2025/02/22,St. Thomas (MN),Northern Mich.,6345198
+2025/02/22,Minnesota St.,Lake Superior St.,6345200
+2025/02/22,Ferris St.,Michigan Tech,6345199
+2025/02/22,Air Force,Robert Morris,6345203
+2025/02/22,Boston U.,Northeastern,6345186
+2025/02/22,Western Mich.,Arizona St.,6345191
+2025/02/22,Colorado Col.,St. Cloud St.,6345194
+2025/02/22,St. Lawrence,Cornell,6345202
+2025/02/22,Brown,Quinnipiac,6345201
+2025/02/22,Clarkson,Colgate,6345205
+2025/02/22,Rensselaer,Harvard,6345206
+2025/02/22,Canisius,Niagara,6345207
+2025/02/22,New Hampshire,Massachusetts,6345208
+2025/02/22,Yale,Princeton,6345209
+2025/02/22,Mercyhurst,RIT,6345192
+2025/02/22,Minn. Duluth,North Dakota,6345195
+2025/02/22,Alas. Fairbanks,Augustana (SD),6345196
+2025/02/22,Bowling Green,Bemidji St.,6345197
+2025/02/22,Boston College,Vermont,6345187
+2025/02/22,Notre Dame,Wisconsin,6345284
+2025/02/22,Lindenwood,Alas. Anchorage,6345211
+2025/02/24,American Int'l,Holy Cross,6385959
+2025/02/25,Boston U.,UConn,6345212
+2025/02/27,UMass Lowell,Massachusetts,6345213
+2025/02/27,Michigan,Ohio St.,6344270
+2025/02/28,RIT,American Int'l,6441860
+2025/02/28,Michigan,Ohio St.,6344271
+2025/02/28,North Dakota,Western Mich.,6345218
+2025/02/28,Northeastern,UConn,6345214
+2025/02/28,Quinnipiac,Clarkson,6345216
+2025/02/28,Cornell,Union (NY),6345217
+2025/02/28,Princeton,St. Lawrence,6345215
+2025/02/28,Merrimack,Providence,6345219
+2025/02/28,Vermont,Maine,6345220
+2025/02/28,Colgate,Rensselaer,6345222
+2025/02/28,New Hampshire,Boston College,6345223
+2025/02/28,Dartmouth,Brown,6345225
+2025/02/28,Harvard,Yale,6345224
+2025/02/28,Michigan St.,Notre Dame,6348366
+2025/02/28,Lake Superior St.,Bowling Green,6345227
+2025/02/28,Northern Mich.,Ferris St.,6345229
+2025/02/28,Alas. Fairbanks,LIU,6345232
+2025/02/28,Bemidji St.,Minnesota St.,6345226
+2025/02/28,Michigan Tech,St. Thomas (MN),6345228
+2025/02/28,Miami (OH),Minn. Duluth,6345230
+2025/02/28,Arizona St.,Omaha,6345231
+2025/02/28,Minnesota,Penn St.,6344203
+2025/02/28,St. Cloud St.,Denver,6345221
+2025/03/01,Colgate,Union (NY),6345235
+2025/03/01,Mercyhurst,Canisius,6441861
+2025/03/01,North Dakota,Western Mich.,6345236
+2025/03/01,Massachusetts,UMass Lowell,6345238
+2025/03/01,Michigan St.,Notre Dame,6348367
+2025/03/01,Northern Mich.,Ferris St.,6345241
+2025/03/01,Vermont,Maine,6345245
+2025/03/01,Providence,Merrimack,6345234
+2025/03/01,Quinnipiac,St. Lawrence,6345243
+2025/03/01,Princeton,Clarkson,6345244
+2025/03/01,Cornell,Rensselaer,6345246
+2025/03/01,Boston College,New Hampshire,6345247
+2025/03/01,Harvard,Brown,6345249
+2025/03/01,Robert Morris,Air Force,6441862
+2025/03/01,Dartmouth,Yale,6345248
+2025/03/01,Bemidji St.,Minnesota St.,6345239
+2025/03/01,Michigan Tech,St. Thomas (MN),6345240
+2025/03/01,Miami (OH),Minn. Duluth,6345242
+2025/03/01,Lake Superior St.,Bowling Green,6345250
+2025/03/01,UConn,Northeastern,6345233
+2025/03/01,Alas. Fairbanks,LIU,6345252
+2025/03/01,Minnesota,Penn St.,6344204
+2025/03/01,St. Cloud St.,Denver,6345237
+2025/03/01,Arizona St.,Omaha,6345251
+2025/03/06,Providence,Boston U.,6345253
+2025/03/06,Northeastern,Merrimack,6345254
+2025/03/06,UConn,Vermont,6345255
+2025/03/07,New Hampshire,UMass Lowell,6345257
+2025/03/07,Air Force,Sacred Heart,6442953
+2025/03/07,Princeton,Brown,6442988
+2025/03/07,Penn St.,Michigan,6442655
+2025/03/07,Wisconsin,Ohio St.,6442661
+2025/03/07,Maine,Massachusetts,6345256
+2025/03/07,American Int'l,Holy Cross,6442956
+2025/03/07,Canisius,Bentley,6442959
+2025/03/07,Army West Point,Niagara,6442962
+2025/03/07,Rensselaer,Harvard,6442987
+2025/03/07,Western Mich.,Miami (OH),6345259
+2025/03/07,Michigan Tech,Bowling Green,6442970
+2025/03/07,Omaha,North Dakota,6345260
+2025/03/07,Lake Superior St.,Minnesota St.,6442969
+2025/03/07,Ferris St.,St. Thomas (MN),6442971
+2025/03/07,Bemidji St.,Augustana (SD),6442978
+2025/03/07,Minn. Duluth,St. Cloud St.,6345261
+2025/03/07,Colorado Col.,Denver,6345258
+2025/03/07,Notre Dame,Minnesota,6442658
+2025/03/08,Merrimack,Boston College,6345263
+2025/03/08,Air Force,Sacred Heart,6442954
+2025/03/08,UMass Lowell,New Hampshire,6345269
+2025/03/08,Providence,Northeastern,6345262
+2025/03/08,Minn. Duluth,St. Cloud St.,6345265
+2025/03/08,Boston U.,Vermont,6345268
+2025/03/08,Maine,Massachusetts,6345264
+2025/03/08,Penn St.,Michigan,6442656
+2025/03/08,Wisconsin,Ohio St.,6442662
+2025/03/08,American Int'l,Holy Cross,6442957
+2025/03/08,Canisius,Bentley,6442960
+2025/03/08,St. Lawrence,Dartmouth,6442989
+2025/03/08,Army West Point,Niagara,6442963
+2025/03/08,Western Mich.,Miami (OH),6345270
+2025/03/08,Omaha,North Dakota,6345267
+2025/03/08,Lake Superior St.,Minnesota St.,6442972
+2025/03/08,Michigan Tech,Bowling Green,6442973
+2025/03/08,Ferris St.,St. Thomas (MN),6442976
+2025/03/08,Bemidji St.,Augustana (SD),6442979
+2025/03/08,Yale,Cornell,6442990
+2025/03/08,Denver,Colorado Col.,6345266
+2025/03/08,Notre Dame,Minnesota,6442659
+2025/03/09,Air Force,Sacred Heart,6442955
+2025/03/09,American Int'l,Holy Cross,6442958
+2025/03/09,Army West Point,Niagara,6442964
+2025/03/09,Wisconsin,Ohio St.,6442663
+2025/03/09,Notre Dame,Minnesota,6442660
+2025/03/09,Bemidji St.,Augustana (SD),6442980
+2025/03/10,Wisconsin,Ohio St.,6442662
+2025/03/11,Wisconsin,Ohio St.,6442663
+2025/03/12,Vermont,Massachusetts,6443720
+2025/03/12,Northeastern,Merrimack,6443721
+2025/03/12,New Hampshire,UMass Lowell,6443722
+2025/03/14,Brown,Quinnipiac,6442991
+2025/03/14,Dartmouth,Union (NY),6442992
+2025/03/14,Cornell,Colgate,6442993
+2025/03/14,Harvard,Clarkson,6442995
+2025/03/14,Providence,UConn,6443723
+2025/03/14,Army West Point,Holy Cross,6443760
+2025/03/14,Bentley,Sacred Heart,6443763
+2025/03/14,St. Cloud St.,Western Mich.,6444068
+2025/03/14,North Dakota,Omaha,6444071
+2025/03/14,Colorado Col.,Denver,6444074
+2025/03/14,Minn. Duluth,Arizona St.,6444077
+2025/03/15,Harvard,Clarkson,6443573
+2025/03/15,Dartmouth,Union (NY),6443577
+2025/03/15,Brown,Quinnipiac,6443571
+2025/03/15,Massachusetts,Boston U.,6443717
+2025/03/15,Bentley,Sacred Heart,6443764
+2025/03/15,Bowling Green,St. Thomas (MN),6442968
+2025/03/15,Notre Dame,Michigan St.,6442668
+2025/03/15,UMass Lowell,Maine,6443718
+2025/03/15,St. Cloud St.,Western Mich.,6444069
+2025/03/15,Cornell,Colgate,6443575
+2025/03/15,Army West Point,Holy Cross,6443761
+2025/03/15,Northeastern,Boston College,6443719
+2025/03/15,Bemidji St.,Minnesota St.,6442967
+2025/03/15,North Dakota,Omaha,6444072
+2025/03/15,Colorado Col.,Denver,6444075
+2025/03/15,Penn St.,Ohio St.,6442669
+2025/03/15,Minn. Duluth,Arizona St.,6444078
+2025/03/16,Harvard,Clarkson,6443574
+2025/03/16,Colorado Col.,Denver,6444076
+2025/03/17,Michigan Tech,Bowling Green,6442975
+2025/03/17,Ferris St.,St. Thomas (MN),6442977
+2025/03/17,Bemidji St.,Augustana (SD),6442980
+2025/03/20,UConn,Boston U.,6443715
+2025/03/20,Northeastern,Maine,6443716
+2025/03/21,Cornell,Quinnipiac,6442986
+2025/03/21,Dartmouth,Clarkson,6442985
+2025/03/21,St. Thomas (MN),Minnesota St.,6442966
+2025/03/21,Denver,Arizona St.,6442998
+2025/03/21,UConn,Maine,6443714
+2025/03/21,North Dakota,Western Mich.,6442999
+2025/03/22,Cornell,Clarkson,6442984
+2025/03/22,Bentley,Holy Cross,6442965
+2025/03/22,Ohio St.,Michigan St.,6442670
+2025/03/22,Denver,Western Mich.,6442997
+2025/03/23,Cornell,Quinnipiac,6442986
+2025/03/27,Ohio St.,Boston U.,6384830
+2025/03/27,Minnesota St.,Western Mich.,6384825
+2025/03/27,Cornell,Michigan St.,6384829
+2025/03/27,Massachusetts,Minnesota,6384826
+2025/03/28,Bentley,Boston College,6384823
+2025/03/28,Quinnipiac,UConn,6384828
+2025/03/28,Denver,Providence,6384824
+2025/03/28,Penn St.,Maine,6384827
+2025/03/29,Cornell,Boston U.,6384834
+2025/03/29,Massachusetts,Western Mich.,6384832
+2025/03/30,Penn St.,UConn,6384833
+2025/03/30,Denver,Boston College,6384831
